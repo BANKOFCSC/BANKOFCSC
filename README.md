@@ -1,12 +1,3040 @@
-- 👋 Hi, I’m @BANKOFCSC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<body>
 
-<!---
-BANKOFCSC/BANKOFCSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<div class="GyAeWb" id="rcnt"><div class="s6JM6d" id="center_col"><style>.hlcw0c{margin-bottom:44px}.vLK3gc{padding-top:6px}.H3TZoe{padding-left:0px;vertical-align:'top'}.eKjLze .g{margin-bottom:0}a:hover h3.LC20lb{text-decoration:underline}.M8OgIe .dG2XIf .fm06If .LC20lb,.n6SJS h3.LC20lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:100%}.LC20lb{display:inline-block;line-height:1.3;margin-bottom:3px;}.DKV0Md{padding-top:4px;padding-top:5px;}.DKV0Md{margin-top:18px;}.VjDLd .TieM1d .tjvcx,.IVvPP .tjvcx,.kno-kp .tjvcx,.VjDLd .kp-wholepage-osrp .tjvcx,#rhs .ss6qqb .tjvcx,#rhs .trNcde .tjvcx{display:inline-block;height:19px;overflow-y:hidden}.TbwUpd.ojE3Fb{display:flex;padding:0;align-items:center;padding-bottom:0}.TbwUpd.ojE3Fb a.fl{padding-top:0;font-size:12px;line-height:18px;}.GvPZzd{font-size:12px;line-height:18px;}.VuuXrf{color:#202124;font-size:14px;display:block;line-height:20px;white-space:nowrap;}.H9lube{background-color:#f1f3f4;border:1px solid #ecedef;border-radius:50%;display:inline-flex;justify-content:center;align-items:center;height:26px;width:26px;margin-right:12px;vertical-align:middle;}.fJOpI.H9lube{background-color:#e2eeff;border:1px solid #e2eeff}.eqA2re.NjwKYd{margin-right:0}.Vwoesf:not(.oRVWZ){display:inline-block}.Vwoesf{vertical-align:middle}.XNo5Ab.XNo5Ab{display:block;}.Jj3Uob{color:#0060f0;}.B6fmyf{position:absolute;top:0;height:0;visibility:hidden;white-space:nowrap}.B6fmyf.Mg1HEd{height:auto}.csDOgf{display:inline;visibility:visible}.csDOgf.BCF2pd.ezY6nb,.csDOgf.L48a4c{height:18px}.csDOgf{margin-left:8px;position:relative}.csDOgf.L48a4c{margin-top:16px}.byrV5b{-webkit-box-align:center;-webkit-align-items:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row}.sBJG1d{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center}.kDmHO{-webkit-box-align:center;-webkit-align-items:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column}.lR4vec{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center}.xTEyc{-webkit-box-align:start;-webkit-align-items:start;align-items:start;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row}.OjFzvd{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row;-webkit-box-pack:start;-webkit-justify-content:start;justify-content:start}.YIPhrb{-webkit-box-align:start;-webkit-align-items:start;align-items:start;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column}.BToiNc{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-webkit-justify-content:start;justify-content:start}.E4bmEc .Va021{-webkit-box-flex:1;-webkit-flex:1 1 100%;flex:1 1 100%}.E4bmEc .Y76LGf{-webkit-box-flex:1;-webkit-flex:1 1 calc(50% - 4px);flex:1 1 calc(50% - 4px)}sentinel{}.IjabWd{margin-left:2px}.xTFaxe{top:2px}.xTFaxe{color:#4d5156}.D6lY4c{height:22px;width:22px;position:absolute;border-radius:11px}.iTPLzd{cursor:pointer;top:0;line-height:16px}.iTPLzd{left:0;width:28px}.iTPLzd{z-index:1}sentinel{}.rNSxBe{padding-bottom:20px}sentinel{}.eY4mx{padding-left:12px}sentinel{}.lUn2nc{padding-right:12px}sentinel{}.yXK7lf em{color:#5f6368}.yXK7lf a:visited em,.yXK7lf a em{color:inherit}.W8l4ac{padding-top:0;margin-bottom:0}.yDYNvb.lyLwlc{color:#4d5156}.lEBKkf{display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}.jmjoTe{margin-left:18px;}.mslg td{padding-right:6px;padding-top:4px}.dmenKe td{padding-bottom:4px;padding-top:12px}.c9EJob td{padding-bottom:4px}.mslg td{vertical-align:top}.mslg .l{font-size:20px;}.mslg .l{}.s6JM6d .mslg .usJj9c{border:1px solid transparent;border-radius:2px;border-radius:2px;margin-top:0px;padding:3px 0 3px 0;-webkit-transition:opacity .2s ease;transition:opacity .2s ease;width:568px}.usJj9c{display:inline-block;position:relative;width:100%}.usJj9c .zz3gNc{overflow:hidden;color:#4d5156;overflow:ellipsis;width:568px;}.M8OgIe .mslg.dmenKe td,.M8OgIe .mslg.c9EJob td{padding-bottom:20px}#res .mslg h3{display:block;overflow:hidden;-webkit-text-overflow:ellipsis;text-overflow:ellipsis;white-space:nowrap;}.E5IKVc{margin-top:30px}.jbBItf{display:block;position:relative}.DU0NJ{bottom:0;left:0;position:absolute;right:0;top:0}.lP3Jof{display:inline-block;position:relative}.nNMuOd{-webkit-animation:qli-container-rotate 1568.2352941176ms linear infinite;animation:qli-container-rotate 1568.2352941176ms linear infinite}@-webkit-keyframes qli-container-rotate{from{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes qli-container-rotate{from{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.RoKmhb{height:100%;opacity:0;position:absolute;width:100%}.nNMuOd .VQdeab{-webkit-animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both,qli-blue-fade-in-out 5332ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both,qli-blue-fade-in-out 5332ms cubic-bezier(0.4,0,0.2,1) infinite both}.nNMuOd .IEqiAf{-webkit-animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both,qli-red-fade-in-out 5332ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both,qli-red-fade-in-out 5332ms cubic-bezier(0.4,0,0.2,1) infinite both}.nNMuOd .smocse{-webkit-animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both,qli-yellow-fade-in-out 5332ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both,qli-yellow-fade-in-out 5332ms cubic-bezier(0.4,0,0.2,1) infinite both}.nNMuOd .FlKbCe{-webkit-animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both,qli-green-fade-in-out 5332ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both,qli-green-fade-in-out 5332ms cubic-bezier(0.4,0,0.2,1) infinite both}.BSnLb .nNMuOd .RoKmhb{-webkit-animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-fill-unfill-rotate 5332ms cubic-bezier(0.4,0,0.2,1) infinite both;opacity:0.99}@-webkit-keyframes qli-fill-unfill-rotate{0%{-webkit-transform:rotate(0);transform:rotate(0)}12.5%{-webkit-transform:rotate(135deg);transform:rotate(135deg)}25%{-webkit-transform:rotate(270deg);transform:rotate(270deg)}37.5%{-webkit-transform:rotate(405deg);transform:rotate(405deg)}50%{-webkit-transform:rotate(540deg);transform:rotate(540deg)}62.5%{-webkit-transform:rotate(675deg);transform:rotate(675deg)}75%{-webkit-transform:rotate(810deg);transform:rotate(810deg)}87.5%{-webkit-transform:rotate(945deg);transform:rotate(945deg)}100%{-webkit-transform:rotate(3turn);transform:rotate(3turn)}}@keyframes qli-fill-unfill-rotate{0%{-webkit-transform:rotate(0);transform:rotate(0)}12.5%{-webkit-transform:rotate(135deg);transform:rotate(135deg)}25%{-webkit-transform:rotate(270deg);transform:rotate(270deg)}37.5%{-webkit-transform:rotate(405deg);transform:rotate(405deg)}50%{-webkit-transform:rotate(540deg);transform:rotate(540deg)}62.5%{-webkit-transform:rotate(675deg);transform:rotate(675deg)}75%{-webkit-transform:rotate(810deg);transform:rotate(810deg)}87.5%{-webkit-transform:rotate(945deg);transform:rotate(945deg)}100%{-webkit-transform:rotate(3turn);transform:rotate(3turn)}}@-webkit-keyframes qli-blue-fade-in-out{0%{opacity:0.99}25%{opacity:0.99}26%{opacity:0}89%{opacity:0}90%{opacity:0.99}100%{opacity:0.99}}@keyframes qli-blue-fade-in-out{0%{opacity:0.99}25%{opacity:0.99}26%{opacity:0}89%{opacity:0}90%{opacity:0.99}100%{opacity:0.99}}@-webkit-keyframes qli-red-fade-in-out{0%{opacity:0}15%{opacity:0}25%{opacity:0.99}50%{opacity:0.99}51%{opacity:0}}@keyframes qli-red-fade-in-out{0%{opacity:0}15%{opacity:0}25%{opacity:0.99}50%{opacity:0.99}51%{opacity:0}}@-webkit-keyframes qli-yellow-fade-in-out{0%{opacity:0}40%{opacity:0}50%{opacity:0.99}75%{opacity:0.99}76%{opacity:0}}@keyframes qli-yellow-fade-in-out{0%{opacity:0}40%{opacity:0}50%{opacity:0.99}75%{opacity:0.99}76%{opacity:0}}@-webkit-keyframes qli-green-fade-in-out{0%{opacity:0}65%{opacity:0}75%{opacity:0.99}90%{opacity:0.99}100%{opacity:0}}@keyframes qli-green-fade-in-out{0%{opacity:0}65%{opacity:0}75%{opacity:0.99}90%{opacity:0.99}100%{opacity:0}}.beDQP{display:inline-block;height:100%;overflow:hidden;position:relative;width:50%}.FcXfi{box-sizing:border-box;height:100%;left:45%;overflow:hidden;position:absolute;top:0;width:10%}.SPKFmc{border-radius:50%;border:3px solid transparent;box-sizing:border-box}.x3SdXd{width:200%}.J7uuUe{-webkit-transform:rotate(129deg);transform:rotate(129deg)}.sDPIC{left:-100%;-webkit-transform:rotate(-129deg);transform:rotate(-129deg)}.tS3P5{left:-450%;width:1000%}.VQdeab .SPKFmc{border-color:#4285f4}.IEqiAf .SPKFmc{border-color:#ea4335}.smocse .SPKFmc{border-color:#fbbc04}.FlKbCe .SPKFmc{border-color:#34a853}.RoKmhb .J7uuUe{border-bottom-color:transparent;border-right-color:transparent}.RoKmhb .sDPIC{border-bottom-color:transparent;border-left-color:transparent}.RoKmhb .tS3P5{border-bottom-color:transparent}.GgTJWe .nNMuOd .J7uuUe{-webkit-animation:qli-left-spin 1333ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-left-spin 1333ms cubic-bezier(0.4,0,0.2,1) infinite both}.GgTJWe .nNMuOd .sDPIC{-webkit-animation:qli-right-spin 1333ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-right-spin 1333ms cubic-bezier(0.4,0,0.2,1) infinite both}.BSnLb .nNMuOd .J7uuUe{-webkit-animation:qli-left-spin 1333ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-left-spin 1333ms cubic-bezier(0.4,0,0.2,1) infinite both;border-left-color:#fff;border-top-color:#fff}.BSnLb .nNMuOd .sDPIC{-webkit-animation:qli-right-spin 1333ms cubic-bezier(0.4,0,0.2,1) infinite both;animation:qli-right-spin 1333ms cubic-bezier(0.4,0,0.2,1) infinite both;border-right-color:#fff;border-top-color:#fff}.BSnLb .nNMuOd .tS3P5{border-color:#fff;border-bottom-color:transparent}@-webkit-keyframes qli-left-spin{0%{-webkit-transform:rotate(130deg);transform:rotate(130deg)}50%{-webkit-transform:rotate(-5deg);transform:rotate(-5deg)}100%{-webkit-transform:rotate(130deg);transform:rotate(130deg)}}@keyframes qli-left-spin{0%{-webkit-transform:rotate(130deg);transform:rotate(130deg)}50%{-webkit-transform:rotate(-5deg);transform:rotate(-5deg)}100%{-webkit-transform:rotate(130deg);transform:rotate(130deg)}}@-webkit-keyframes qli-right-spin{0%{-webkit-transform:rotate(-130deg);transform:rotate(-130deg)}50%{-webkit-transform:rotate(5deg);transform:rotate(5deg)}100%{-webkit-transform:rotate(-130deg);transform:rotate(-130deg)}}@keyframes qli-right-spin{0%{-webkit-transform:rotate(-130deg);transform:rotate(-130deg)}50%{-webkit-transform:rotate(5deg);transform:rotate(5deg)}100%{-webkit-transform:rotate(-130deg);transform:rotate(-130deg)}}sentinel{}</style><div id="taw"><div id="tvcap"></div></div><div class="eqAnXb" id="res" role="main"><div id="topstuff"></div><div id="search"><div data-hveid="CAUQGQ" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQGnoECAUQGQ"><h1 class="bNg8Rb OhScic zsYMMe BBwThe" style="clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px;z-index:-1000;-webkit-user-select:none">खोज नतीजे</h1><div class="v7W49e" eid="J6swZaAytrqx4w_RmbmYCA" data-async-context="query:digilocker" id="rso"><div class="hlcw0c"><div class="MjjYud"><div class="g" data-hveid="CAgQAA"><h2 class="bNg8Rb OhScic zsYMMe BBwThe" style="clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px;z-index:-1000;-webkit-user-select:none">साइट के लिंक वाले वेब नतीजे</h2><div class="BYM4Nd"><div class="eKjLze"><div class="g"><div lang="en" data-hveid="CA0QAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFSgAegQIDRAA"><div class="tF2Cxc"><div class="yuRUbf"><div><span jscontroller="msmzHf" jsaction="rcuQ6b:npT2md;PYDNKe:bLV6Bd;mLt3mc"><a jsname="UWckNb" href="https://www.digilocker.gov.in/" jscontroller="M9mgyc" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECAcQAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.digilocker.gov.in/&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECAcQAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb MBeuO DKV0Md">DigiLocker:An Initiative Towards Paperless Governance</h3><div class="notranslate TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube fJOpI"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><span class="Jj3Uob XNo5Ab z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path></svg></span></div></span><div><span class="VuuXrf">DigiLocker</span><div class="byrV5b"><cite class="tjvcx GvPZzd cHaqb" role="text">https://www.digilocker.gov.in</cite></div></div></div></a></span><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube fJOpI"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span><div><span class="VuuXrf">DigiLocker</span><div class="byrV5b"><cite class="tjvcx GvPZzd cHaqb" role="text">https://www.digilocker.gov.in</cite></div></div></div><div class="csDOgf BCF2pd ezY6nb L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;ARHs0U cECq7c;_;ARHs0Y" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIBxAH"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIBxAI"></span></div></div></div></div></div><div class="IsZvec"><div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2"><span><em>DigiLocker</em> aims to provide a Digital wallet to every citizen so that all lifelong documents anywhere anytime including Educational, Identity, health records&nbsp;...</span></div></div></div></div></div></div><table class="jmjoTe" cellpadding="0" cellspacing="0"><tbody><tr class="mslg dmenKe"><td class="cIkxbf"><div class="usJj9c"><div class="VttTV"><div><h3><a class="l" href="https://www.digilocker.gov.in/login" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjBB6BAgMEAE" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.digilocker.gov.in/login&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjBB6BAgMEAE" target="_blank" rel="noopener">Login with DigiLocker</a></h3><div class="zz3gNc">Sign In to your account! Mobile. Aadhaar/Username. Enter your ...<br></div></div></div></div></td></tr><tr class="mslg c9EJob"><td class="cIkxbf"><div class="usJj9c"><div class="VttTV"><div><h3><a class="l" href="https://www.digilocker.gov.in/dashboard" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjBB6BAgLEAE" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.digilocker.gov.in/dashboard&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjBB6BAgLEAE" target="_blank" rel="noopener">Search Documents</a></h3><div class="zz3gNc">DigiLocker is a flagship initiative of Ministry of Electronics &amp; IT ...<br></div></div></div></div></td></tr><tr class="mslg c9EJob"><td class="cIkxbf"><div class="usJj9c"><div class="VttTV"><div><h3><a class="l" href="https://www.digilocker.gov.in/installapp" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjBB6BAgJEAE" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.digilocker.gov.in/installapp&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjBB6BAgJEAE" target="_blank" rel="noopener">Sign In</a></h3><div class="zz3gNc">DigiLocker aims to provide a Digital wallet to every citizen so ...<br></div></div></div></div></td></tr><tr class="mslg"><td class="cIkxbf"><div class="usJj9c"><div class="VttTV"><div><h3><a class="l" href="https://www.digilocker.gov.in/signup" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjBB6BAgKEAE" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.digilocker.gov.in/signup&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjBB6BAgKEAE" target="_blank" rel="noopener">Sign up Now</a></h3><div class="zz3gNc">Select gender. ... Enter valid email. ... Enter 6 digit PIN. Submit. I ...<br></div></div></div></div></td></tr><tr><td class="H3TZoe" colspan="2"><div class="vLK3gc"><a class="fl" href="/search?q=digilocker+site:digilocker.gov.in&amp;newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQrAN6BAgIEAE">digilocker.gov.in से ज़्यादा नतीजे&nbsp;»</a></div></td></tr></tbody></table></div></div><span id="z9PoV"></span><script nonce="">(function(){var uer=false;var eid='z9PoV';(function(){var a=google.c.wh0,b=google.c.frt,c=google.c.frvt,d=google.c.whu;var e=uer,f=Date.now(),g=google.c.sxs?"load2":"load";if(google.timers&&google.timers[g].t){var h=0;if(eid){var k=document.getElementById(eid);k&&(h=Math.floor(k.getBoundingClientRect().top+window.pageYOffset))}b&&google.tick(g,"frt",f);c&&google.tick(g,"frvt",f);google.tick(g,"frts",f);h&&google.c.e(g,"frtp",String(h));d&&!google.c.wh&&(google.c.wh=Math.floor(window.innerHeight||document.documentElement.clientHeight));var l=google.c.wh,m;m=a&&!l?!1:h>=l;for(var n=document.getElementsByTagName("img"),p=0,q=void 0;q=n[p++];)google.c.setup(q,!0,h);google.c.bofr=
-!1;m&&google.c.ubr(!1,f,h,!e)};}).call(this);})();</script><g-loading-icon class="E5IKVc jbBItf GgTJWe VDgVie" style="height: 30px; min-width: 30px; display: none;"><div class="lP3Jof nNMuOd" style="height:30px;width:30px" aria-valuetext="लोड हो रही है..." role="progressbar"><div class="VQdeab RoKmhb"><div class="beDQP"><div class="DU0NJ SPKFmc x3SdXd J7uuUe"></div></div><div class="FcXfi"><div class="DU0NJ SPKFmc tS3P5"></div></div><div class="beDQP"><div class="DU0NJ SPKFmc x3SdXd sDPIC"></div></div></div><div class="IEqiAf RoKmhb"><div class="beDQP"><div class="DU0NJ SPKFmc x3SdXd J7uuUe"></div></div><div class="FcXfi"><div class="DU0NJ SPKFmc tS3P5"></div></div><div class="beDQP"><div class="DU0NJ SPKFmc x3SdXd sDPIC"></div></div></div><div class="smocse RoKmhb"><div class="beDQP"><div class="DU0NJ SPKFmc x3SdXd J7uuUe"></div></div><div class="FcXfi"><div class="DU0NJ SPKFmc tS3P5"></div></div><div class="beDQP"><div class="DU0NJ SPKFmc x3SdXd sDPIC"></div></div></div><div class="FlKbCe RoKmhb"><div class="beDQP"><div class="DU0NJ SPKFmc x3SdXd J7uuUe"></div></div><div class="FcXfi"><div class="DU0NJ SPKFmc tS3P5"></div></div><div class="beDQP"><div class="DU0NJ SPKFmc x3SdXd sDPIC"></div></div></div></div></g-loading-icon><style>.ULSxyf{margin-bottom:44px}.rsGxI.Ww4FFb,.Ww4FFb{background-color:#fff;border-size:0px;border-radius:0px;box-shadow:0px}.Ww4FFb .mnr-c,.mnr-c .Ww4FFb,.Ww4FFb .Ww4FFb{box-shadow:none;margin-bottom:0px}.vt6azd{margin:0px 0px 8px;margin:0px 0px 30px;}.tF2Cxc.asEBEc{margin-bottom:30px}.N54PNb{position:relative}.cvP2Ce{contain:layout paint;overflow:hidden;}.kb0PBd{display:block;flex:0 0 auto}.ob9lvb{color:#4d5156}.dyjrff{color:#4d5156}.z3HNkc{background-image:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.44 19'><polygon fill='%23dadce0' points='10,15.27 16.18,19 14.54,11.97 20,7.24 12.81,6.63 10,0 7.19,6.63 0,7.24 5.46,11.97 3.82,19'/></svg>");background-repeat:repeat-x;display:inline-block;overflow:hidden;position:relative}.z3HNkc span{background-image:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.44 19'><polygon fill='%23fbbc04' points='10,15.27 16.18,19 14.54,11.97 20,7.24 12.81,6.63 10,0 7.19,6.63 0,7.24 5.46,11.97 3.82,19'/></svg>");background-repeat:repeat-x;display:block}.aNmOgc .z3HNkc span{background-color:currentcolor;background-image:unset;-webkit-mask-image:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.44 19'><polygon points='10,15.27 16.18,19 14.54,11.97 20,7.24 12.81,6.63 10,0 7.19,6.63 0,7.24 5.46,11.97 3.82,19'/></svg>");mask-image:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.44 19'><polygon points='10,15.27 16.18,19 14.54,11.97 20,7.24 12.81,6.63 10,0 7.19,6.63 0,7.24 5.46,11.97 3.82,19'/></svg>");-webkit-mask-repeat:repeat-x;mask-repeat:repeat-x;-webkit-mask-size:14px 11.4px;mask-size:14px 11.4px}.z3HNkc.YMYLUd span{background-color:currentcolor;background-image:unset;-webkit-mask-image:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.44 19'><polygon points='10,15.27 16.18,19 14.54,11.97 20,7.24 12.81,6.63 10,0 7.19,6.63 0,7.24 5.46,11.97 3.82,19'/></svg>");mask-image:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.44 19'><polygon points='10,15.27 16.18,19 14.54,11.97 20,7.24 12.81,6.63 10,0 7.19,6.63 0,7.24 5.46,11.97 3.82,19'/></svg>");-webkit-mask-repeat:repeat-x;mask-repeat:repeat-x;-webkit-mask-size:14px 11.4px;mask-size:14px 11.4px}.z3HNkc,.z3HNkc span{background-size:14px 11.4px;height:11.4px;width:68px}sentinel{}.jwXMvb{display:-webkit-box;-webkit-box-flex:1;display:-webkit-flex;display:-ms-flexbox;display:flex}.SZ0hId{-webkit-flex-flow:row nowrap;flex-flow:row nowrap}.rBQggb{padding-top:11px}.MWyje{padding-left:12px;flex-grow:1}.VSHxQ{color:#70757a}.KLEmSd{border-bottom:1px solid #ecedef}sentinel{}g-img{display:block}g-img{height:100%}.YQ4gaf{display:block;border:0}.u9wH7d .YQ4gaf{object-fit:fill}.mNsIhb .YQ4gaf{object-fit:cover}.tb08Pd .YQ4gaf{object-fit:contain}sentinel{}.wA1Bge{position:relative}sentinel{}.ZGomKf{overflow:hidden}sentinel{}.k0Jjg,.brKmxb:focus-visible{outline:0}.k0Jjg:focus-visible .niO4u,.brKmxb:focus-visible .niO4u{outline:2px solid #4285f4;outline-offset:1px}.niO4u{-webkit-box-align:center;-webkit-align-items:center;align-items:center;box-sizing:border-box;cursor:pointer;display:inline-block;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;margin-left:auto;margin-right:auto;position:relative;width:100%}.niO4u::before{content:"";height:48px;left:0;margin-top:-24px;margin-left:-1px;margin-right:-1px;position:absolute;right:0;top:50%}.kHtcsd{border:none;border-radius:inherit;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;width:100%;height:100%}.OJeuxf .niO4u::before{width:48px;margin-left:-24px;left:50%}.d3o3Ad,.clOx1e,.WoA9Zd{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center}.QuU3Wb{margin-top:6px}.R04TOd{display:none}.rlt7Ub .clOx1e{margin:5px 16px}.eFSWxd .clOx1e{margin:5px 16px 5px 8px}.R04TOd,.eFSWxd .d3o3Ad{margin-left:12px}.k0Jjg[selected] .d3o3Ad.UXwhvb{margin-left:8px}.rlt7Ub.erFMrf .clOx1e,.eFSWxd.erFMrf .clOx1e{margin-right:0}.WoA9Zd{margin:0 8px 0 4px}sentinel{}.fCrZyc{display:inline-block;vertical-align:middle}.fCrZyc .niO4u{border-radius:9999px}sentinel{}.LwdV0e .niO4u{height:36px}.UZXANc.LwdV0e .niO4u{top:3px;height:0}.mKjEAd.LwdV0e .niO4u{height:0}.LwdV0e .R04TOd,.LwdV0e .d3o3Ad{height:18px}.bacHod.LwdV0e .R04TOd,.bacHod.LwdV0e .d3o3Ad{height:16px}.LwdV0e .WoA9Zd{height:18px}sentinel{}.FR7ZSc .niO4u{background-color:#fff;border:1px solid #dadce0;color:#1a73e8}.FR7ZSc .QuU3Wb{color:#1a73e8}.FR7ZSc.k0Jjg:hover .niO4u,.FR7ZSc.k0Jjg:hover .QuU3Wb{color:#1967d2}.FR7ZSc.k0Jjg:hover .kHtcsd{background-color:rgba(26,115,232,0.08)}.brKmxb:focus-visible .FR7ZSc.k0Jjg .niO4u,.brKmxb:focus-visible .FR7ZSc.k0Jjg .QuU3Wb,.FR7ZSc.k0Jjg:focus-visible .niO4u,.FR7ZSc.k0Jjg:focus-visible .QuU3Wb{color:#1967d2}.brKmxb:focus-visible .FR7ZSc.k0Jjg .kHtcsd,.FR7ZSc.k0Jjg:focus-visible .kHtcsd{background-color:rgba(26,115,232,0.08)}.FR7ZSc.k0Jjg:active .kHtcsd,.FR7ZSc.k0Jjg:active:hover .kHtcsd,.brKmxb:focus-visible .FR7ZSc.k0Jjg:active .kHtcsd,.FR7ZSc.k0Jjg:active:focus-visible .kHtcsd{background-color:rgba(26,115,232,0.24)}.FR7ZSc.k0Jjg:active .niO4u,.FR7ZSc.k0Jjg:active:hover .niO4u,.brKmxb:focus-visible .FR7ZSc.k0Jjg:active .niO4u,.FR7ZSc.k0Jjg:active:focus-visible .niO4u,.FR7ZSc.k0Jjg:active .QuU3Wb,.FR7ZSc.k0Jjg:active:hover .QuU3Wb,.brKmxb:focus-visible .FR7ZSc.k0Jjg:active .QuU3Wb,.FR7ZSc.k0Jjg:active:focus-visible .QuU3Wb{color:#1967d2}sentinel{}.fCrZyc[disabled] .niO4u{background:#f8f9fa;outline-color:rgba(218,220,224,0.38);color:rgba(60,64,67,0.38)}sentinel{}</style></div></div><script nonce="">(function(){var ldic='E5IKVc';(function(){var a=document.getElementsByClassName(ldic)[0];a&&(a.style.display="none");}).call(this);})();</script><div><div class="ULSxyf"><div class="MjjYud"><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CBoQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFSgAegQIGhAA"><div class="N54PNb BToiNc cvP2Ce" data-snc="ih6Jnb_PNcUDc"><div class="kb0PBd cvP2Ce jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><div><span jscontroller="msmzHf" jsaction="rcuQ6b:npT2md;PYDNKe:bLV6Bd;mLt3mc"><a jsname="UWckNb" href="https://play.google.com/store/apps/details?id=com.digilocker.android&amp;hl=en_US" jscontroller="M9mgyc" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECBcQAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://play.google.com/store/apps/details%3Fid%3Dcom.digilocker.android%26hl%3Den_US&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECBcQAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb MBeuO DKV0Md">DigiLocker - Apps on Google Play</h3><div class="notranslate TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADNklEQVR4AcXUA4wdURiG4VPbtu32mmvUtm3bts2gnNq2bbtBbSzn3n79M8nZrvdcZZO8yUTzPUMGIFmLOlBJTXhtqcPUUaoDxRwp16aObORuHcNpxmwnUjM5/uICam0PyKza2miJSmoGOlH0HlIGjwPUm9tOqrXdD6qt9RANEb39VEGPAXym/5YMK9ehxu5ahKgbH4I3m0rjdoDfBEj+EwDDyrUiiO9UR7ffAd8pMvzHAyJ3Ivr74R7AtD8SIRATURO1ttWBakuCCN4BqrDLAApRiAmAcflm1NilJUSwCAJqqcm8nBs7pRu4y+gCIAoRqdwJ07LtdCfUSSLUlEZqjBQbevwctVvX1QUA7zd8pkYIIfh41o2d0Xh7ICJOpAFOsic0ZHYBIIZQKynjaLQtCPLJVKCrRyQhaAjUYaqIMCBxxA5CqAgRRIjmUMapzBu7oHG0cZmPx2welU4AkARi6T7U3KWHanuAgshCV952hy/sJ1MmNs77Q5mcAHBEuIKwLD6Mmrv1yCS1QMftfsApJjLO+0A1cxjAEb5TwxRE/uX30PmkFrjAgJPRn7lQklMAXwL4TAtB8UVA927PIA8sBNxikC+mhHzMgwA+7j0tFEWXAN1GXkGksSzkMpXxdWBZ/L3LYLvMRBHfqLbCAD7uNT0MJRYDfYedQ4S5FOymonjvbcD7Slb86Fsa9psM9itJIuxUsPhLGG282BJg8ODjgL4QbKbieO+nxyc/NT55a/CughXfu5dLCrGGyir2GcYzPoTGYSiESFNJGtfhk69aSUH4qPG+YoKIc1Q58R+R+Hj8iJ5lYbuUArazKd/QkL9Tv2Lfqb9hpfGiSYzHh3hXxjv05/Di/e23GB8TB/Bxy4xw5YUbMfAwjRdJajw6Yun7KpaM37uWY/YbBDjpIICP023HxH47AV0ehJtLi4wfp0pR7H01M6OvwnGA/9Rf0v/xHTSeF2GWMviQ+PhzykoxJVcA1eZBKh5jvGxi47+oHnzULYCacyFN7is0Po9KRzG3Am7XbzopxFoeoZZyCY0foIrwIbcDZFPxzN+9qy2JZ/whZeADngJEP0k76gB1kOooOuwKIFn7B3LHHIJtp64TAAAAAElFTkSuQmCC" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div></span><div><span class="VuuXrf">Google Play</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://play.google.com<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div></a></span><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span><div><span class="VuuXrf">Google Play</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://play.google.com<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div><div class="csDOgf BCF2pd ezY6nb L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;ARHs0k cECq7c;_;ARHs0o" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIFxAJ"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIFxAK"></span></div></div></div></div></div></div><div class="kb0PBd cvP2Ce" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2"><span><em>DigiLocker</em> is a key initiative under Digital India, the Government of India's flagship program aimed at transforming India into a digitally empowered&nbsp;...</span></div></div><div class="kb0PBd cvP2Ce" data-sncf="2" data-snf="mCCBcf"><div class="fG8Fp uo4vr"><span aria-hidden="true" class="z3HNkc" aria-label="5 में से 4.0 रेट किया गया," role="img"><span style="width:56px"></span></span> <span>रेटिंग: 3.8</span> · &lrm;<span>4,36,462 वोट</span> · &lrm;<span>मुफ़्त</span> · &lrm;<span>Android</span> · &lrm;<span>व्&zwj;यवसाय/उत्&zwj;पादकता</span></div></div><div class="kb0PBd cvP2Ce" data-sncf="3" data-snf="dFWVCd"><div data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQjMULegQIGRAA"><div class="KLEmSd"></div><div class="jwXMvb SZ0hId rBQggb"><g-img style="overflow:visible" class="ZGomKf"><img id="dimg_1" src="data:image/png;base64,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" style="border-radius:4px 4px 4px 4px" class="YQ4gaf zr758c wA1Bge" height="40" width="40" alt="" data-atf="4" data-frt="0"></g-img><div class="MWyje"><div>DigiLocker</div><div class="VSHxQ"> Google Play से डाउनलोड करें </div></div><a href="https://play.google.com/store/apps/details?id=com.digilocker.android&amp;hl=en_US&amp;pcampaignid=APPU_D&amp;raii=com.digilocker.android" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQi8ULegQIGRAB" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://play.google.com/store/apps/details%3Fid%3Dcom.digilocker.android%26hl%3Den_US%26pcampaignid%3DAPPU_D%26raii%3Dcom.digilocker.android&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQi8ULegQIGRAB" target="_blank" rel="noopener"><div class="k0Jjg fCrZyc LwdV0e FR7ZSc eFSWxd"><div class="niO4u VDgVie SlP8xc"><div class="kHtcsd"><span class="d3o3Ad"><span style="height:18px;line-height:18px;width:18px" class="z1asCe LnhNCf"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 15v3H6v-3H4v3c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-3h-2z"></path><path d="M17 11.5l-1.41-1.41L13 12.67V4h-2v8.67l-2.59-2.58L7 11.5l5 5z"></path></svg></span></span><span class="clOx1e sjVJQd">मोबाइल पर इंस्टॉल करें</span></div></div></div></a></div></div></div></div></div></div></div><div class="ULSxyf"><div class="MjjYud"><span class="oUAcPd" id="fld_2"></span><script nonce="">(function(){var uer=false;var eid='fld_2';(function(){var a=google.c.wh0,b=google.c.whu;var c=uer,d=Date.now(),e=google.c.sxs?"load2":"load";if(google.timers&&google.timers[e].t){var f=0;if(eid){var g=document.getElementById(eid);g&&(f=Math.floor(g.getBoundingClientRect().top+window.pageYOffset))}b&&!google.c.wh&&(google.c.wh=Math.floor(window.innerHeight||document.documentElement.clientHeight));var h=google.c.wh,k;k=a&&!h?!1:f>=h;for(var l=document.getElementsByTagName("img"),m=0,n=void 0;n=l[m++];)google.c.setup(n,!1,f);k&&google.c.ubr(!1,d,f,!c)};}).call(this);})();window._setImagesSrc=function(f,c){function h(a){a.onerror=function(){a.style.display="none"};a.setAttribute("data-deferred","2");"data:"!==c.substring(0,5)&&a.setAttribute("data-defe","1");a.src=c;var g;(null==(g=google.c)?0:g.di)&&a.decode()}for(var d=0;d<f.length;++d){var b=f[d],e=document.getElementById(b)||document.querySelector('img[data-iid="'+b+'"]');e?(b=void 0,(null==(b=google.c)?0:b.setup)&&google.c.setup(e),h(e)):(google.iir=google.iir||{},google.iir[b]=c)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/png;base64,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';var ii=['dimg_1'];_setImagesSrc(ii,s);})();</script><style>html:not(.zAoYTe) .kp-wholepage a{outline:0}#rhs .VjDLd.liYKde{border:0;padding-left:0;padding-right:0}.s6JM6d .liYKde{width:654px}.kp-wholepage.HSryR{box-shadow:none;line-height:1.8}.I6TXqe{background:#fff;border-radius:8px;padding:0 0 16px 0}.s6JM6d .I6TXqe{padding:0}.TQc1id .I6TXqe{border:1px solid #dadce0;width:calc(100% - 2px)}#rhs .HSryR{margin:6px 0 0}.TzHB6b{font-size:14px}#rhs .ss6qqb .cLjAic.LMRCfc,.ss6qqb .cLjAic.LMRCfc{margin-top:0}.cLjAic{margin-bottom:44px}.HSryR .cLjAic{margin-bottom:0}.kp-wholepage-osrp .j6mBxc a,.kp-wholepage-osrp .j6mBxc a:active,.kp-wholepage-osrp .j6mBxc a:link,.kp-wholepage-osrp .j6mBxc a:visited{color:#70757a;text-decoration:underline}.wDYxhc{clear:both}.cUnQKe .wDYxhc,.related-question-pair .wDYxhc,.M8OgIe .fm06If .wDYxhc{clear:none}.xpdclose .oHglmf,.xpdopen .xzPb7d{padding-bottom:16px}.xpdclose .kp-header .oHglmf,.xpdopen .kp-header .xzPb7d{padding-bottom:0}.c2xzTb .xpdclose .oHglmf,.c2xzTb .xpdopen .xzPb7d{padding-bottom:0}.HSryR .xpdclose .oHglmf,.HSryR .xpdopen .xzPb7d{padding-bottom:0}.Wnoohf .xpdclose .wDYxhc.xsZWvb,.Wnoohf .xpdopen .wDYxhc.EfDVh{padding-bottom:0}#rhs .dG2XIf .xpdclose .LKPcQc,#rhs .dG2XIf .xpdopen .viOShc{padding-top:0}#rhs .Wnoohf .xpdopen .yp1CPe,#rhs .OJXvsb .xpdclose .siXlze{padding-bottom:15px}#rhs .Wnoohf .xpdclose .wDYxhc.xsZWvb,#rhs .Wnoohf .xpdopen .wDYxhc.EfDVh{padding-bottom:0}#rhs .Wnoohf .xpdclose .wDYxhc.xsZWvb.ecRggb,#rhs .Wnoohf .xpdopen .wDYxhc.EfDVh.ecRggb,#rhs .dG2XIf .ecRggb{padding-bottom:15px}.c2xzTb .kno-mrg,.ruTcId .kno-mrg{margin-bottom:24px;padding:0}.kno-mrg{position:relative;overflow:hidden}#rhs .kno-mrg{border-top-right-radius:8px}#rhs .kno-mrg:not(.kno-mrg-si){border-top-left-radius:8px}.kno-mrg .wDYxhc{display:inline}.M8OgIe .kno-mrg-si,.s6JM6d .kno-mrg-si{margin-left:20px;padding:0}.eA0Zlc{vertical-align:top;display:inline-block;margin:0;position:relative}.eA0Zlc:not(.JX86yc){overflow:hidden}.M8OgIe .ifM9O .GMCzAd,.hvs42d .GMCzAd{border-radius:0}div.eA0Zlc:first-child g-inner-card.xIfh4d,div.eA0Zlc:first-child g-inner-card.xIfh4d video{-webkit-border-top-left-radius:8px;-webkit-border-bottom-left-radius:8px;}div.eA0Zlc:last-of-type g-inner-card.xIfh4d,div.eA0Zlc:last-of-type g-inner-card.xIfh4d video{-webkit-border-top-right-radius:8px;-webkit-border-bottom-right-radius:8px;}.s6JM6d .ifM9O .GMCzAd,.cUnQKe .GMCzAd{border-radius:12px;margin:16px}.eA0Zlc.PtaMgb{margin-right:2px;margin-bottom:2px;float:left}.M8OgIe .eA0Zlc.PtaMgb,.M8OgIe .ifM9O .eA0Zlc.PtaMgb{margin-bottom:4px;margin-right:4px}.BYbUcd{overflow:hidden;}.BYbUcd img{height:100%;width:100%}.B68O1d{background-color:rgba(0,0,0,0.54)}sentinel{}.uhHOwf{position:relative}.uhHOwf::after{background-color:rgba(0,0,0,0.03);bottom:0;content:"";display:block;left:0;pointer-events:none;position:absolute;right:0;top:0}.uhHOwf img{display:block}sentinel{}a.hisnlb{bottom:0;background:rgba(0, 0, 0, 0.6);border-top-left-radius:4px;color:#fff;font-size:13px;height:32px;padding:0 8px;right:0;align-items:center;box-sizing:border-box;display:flex;position:absolute}#rhs .ss6qqb a.hisnlb,.IVvPP a.hisnlb{border-bottom-right-radius:4px;border-top-left-radius:0}a.hisnlb .zx2uDe{margin-right:8px;margin-top:6px}a.hisnlb:hover{background:rgba(0, 0, 0, 0.85)}.iJddsb{display:inline-block;fill:currentColor}.iJddsb img,.iJddsb svg{display:block;height:100%;width:100%}</style><span class="oUAcPd" id="fld_4"></span><script nonce="">(function(){var a=Date.now(),b=google.c.sxs?"load2":"load";google.tick(b,"aft",a);google.tick(b,"aftr",a);}).call(this);(function(){var uer=false;var eid='fld_4';(function(){var a=google.c.wh0,b=google.c.whu;var c=uer,d=Date.now(),e=google.c.sxs?"load2":"load";if(google.timers&&google.timers[e].t){var f=0;if(eid){var g=document.getElementById(eid);g&&(f=Math.floor(g.getBoundingClientRect().top+window.pageYOffset))}b&&!google.c.wh&&(google.c.wh=Math.floor(window.innerHeight||document.documentElement.clientHeight));var h=google.c.wh,k;k=a&&!h?!1:f>=h;for(var l=document.getElementsByTagName("img"),m=0,n=void 0;n=l[m++];)google.c.setup(n,!1,f);k&&google.c.ubr(!1,d,f,!c)};}).call(this);})();</script><style>.oIk2Cb{margin:0}.y6Uyqe{margin-left:-8px;margin-right:-8px;padding:6px 0 0 0}.kfsfbe.kfsfbe{padding:0 0 8px}.adDDi{display:flex;position:relative;flex-wrap:wrap;padding:0 0 12px;margin:0 0}.T6zPgb{min-width:0}.YC72Wc{max-width:calc(100% - 22px)}.mgAbYb{display:block;white-space:nowrap}.YR2tRd{position:relative;align-self:center;height:22px}.EIaa9b{display:flex}.AJLUJb{display:flex;flex:1;flex-direction:column}.gduDCb{margin-left:12px}sentinel{}.k8XOCe{align-items:center;background-color:#f1f3f4;border-radius:100px;box-sizing:border-box;display:flex;max-height:none;min-height:48px;padding-left:17px;padding-right:17px;position:relative}.k8XOCe:hover,.k8XOCe:active{color:#202124}.s75CSd{-webkit-box-orient:vertical;color:#202124;display:-webkit-box;flex:1;font-size:16px;-webkit-line-clamp:2;max-width:227px;overflow-wrap:break-word;overflow:hidden}.aXBZVd{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='rgba(0,0,0,.54)' d='M20.49 19l-5.73-5.73C15.53 12.2 16 10.91 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.41 0 2.7-.47 3.77-1.24L19 20.49 20.49 19zM5 9.5C5 7.01 7.01 5 9.5 5S14 7.01 14 9.5 11.99 14 9.5 14 5 11.99 5 9.5z'/%3E%3C/svg%3E");background-position:center;background-repeat:no-repeat;background-size:20px;height:20px;padding:10px;width:20px}.R0xfCb{margin-bottom:4px;margin-top:4px}sentinel{}.VCOFK{margin-left:8px;margin-right:8px}sentinel{}.s8bAkb{padding-bottom:0px;padding-top:0px}sentinel{}.unhzXb{border-radius:4px}sentinel{}.u60jwe{margin-right:0px}sentinel{}.z1asCe.kQdGHd,.WqQeqc.kQdGHd{position:absolute}.WZH4jc{text-align:center}.WZH4jc .VknLRd{pointer-events:none}.WZH4jc .VknLRd:hover,.WZH4jc .VknLRd:hover h3{text-decoration:none}.WZH4jc .GNJvt{background:#f1f3f4;border:1px solid rgba(255,255,255,0);box-sizing:border-box;cursor:pointer;font-size:14px;line-height:20px;pointer-events:auto;position:relative;width:300px;padding:7px 11px;margin:0;flex-direction:row-reverse;align-items:center;display:flex;justify-content:center;margin-left:auto;margin-right:auto;height:36px;border-radius:18px}.WZH4jc .VknLRd:hover .GNJvt{background:#D8D7DC}.WZH4jc .kQdGHd{position:relative;left:0}.WZH4jc .OTvAmd{display:block}.WZH4jc .RVQdVd{line-height:20px;margin-right:8px}.KXbwLb{background-color:#dadce0;border:0;height:1px;left:0;margin-top:18px;position:absolute;width:100%}.QjmzCd{text-align:center;margin:25px 0;height:30px}.w7LJsc{height:45px;margin-bottom:28px}.GNJvt{display:block;background-color:#f1f3f4;text-align:center;font-size:14px;color:#202124;border-radius:20px;height:24px;line-height:24px;border:1px solid rgba(255,255,255,0);padding:8px 13px;margin:16px 16px 40px 16px;}.RVQdVd{line-height:24px}.kQdGHd{color:#70757a;left:13px;position:absolute}.GNJvt:active{background:#e6e6e6}.VknLRd{-webkit-tap-highlight-color:transparent;display:block}.ipz2Oe{position:relative}@keyframes fadeIn {from{opacity:0}to{opacity:1}}.uCD6gd{animation:fadeIn 100ms ease-in-out}.LHJvCe{color:#70757a;display:flex;justify-content:space-between;-webkit-transition:all 220ms ease-in-out;line-height:43px;min-width:652px;position:absolute;top:0}#result-stats{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-family:Google Sans,arial,sans-serif;padding-top:0;padding-bottom:0;padding-right:8px;}</style><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CDEQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFSgAegQIMRAA"><div class="N54PNb BToiNc cvP2Ce" data-snc="ih6Jnb_I2Vkb"><div class="kb0PBd cvP2Ce jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><div><span jscontroller="msmzHf" jsaction="rcuQ6b:npT2md;PYDNKe:bLV6Bd;mLt3mc"><a jsname="UWckNb" href="https://digilocker.meripehchaan.gov.in/" jscontroller="M9mgyc" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECB4QAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://digilocker.meripehchaan.gov.in/&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECB4QAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb MBeuO DKV0Md">Digilocker digilocker</h3><div class="notranslate TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube fJOpI"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><span class="Jj3Uob XNo5Ab z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path></svg></span></div></span><div><span class="VuuXrf">MeriPehchaan</span><div class="byrV5b"><cite class="tjvcx GvPZzd cHaqb" role="text">https://digilocker.meripehchaan.gov.in</cite></div></div></div></a></span><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube fJOpI"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span><div><span class="VuuXrf">MeriPehchaan</span><div class="byrV5b"><cite class="tjvcx GvPZzd cHaqb" role="text">https://digilocker.meripehchaan.gov.in</cite></div></div></div><div class="csDOgf BCF2pd ezY6nb L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;ARHs08 cECq7c;_;ARHs1A" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIHhAH"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIHhAI"></span></div></div></div></div></div></div><div class="kb0PBd cvP2Ce" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2"><span>Sign In to your account via <em>DigiLocker</em>. Mobile; Username; Others. This mobile is associated with multiple accounts, please select one to Sign in. Forgot&nbsp;...</span></div></div><div class="kb0PBd cvP2Ce" data-sncf="2" data-snf="mCCBcf"><div class="fG8Fp uo4vr"></div></div></div></div></div></div><div class="ULSxyf"><div class="MjjYud"><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CDAQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFSgAegQIMBAA"><div class="N54PNb BToiNc cvP2Ce" data-snc="ih6Jnb_oIQpIc"><div class="kb0PBd cvP2Ce jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><div><span jscontroller="msmzHf" jsaction="rcuQ6b:npT2md;PYDNKe:bLV6Bd;mLt3mc"><a jsname="UWckNb" href="https://apps.apple.com/in/app/digilocker/id1320618078" jscontroller="M9mgyc" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECCAQAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://apps.apple.com/in/app/digilocker/id1320618078&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECCAQAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb MBeuO DKV0Md">DigiLocker on the App Store</h3><div class="notranslate TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC5UlEQVR4Aa1XQ3hkQRjc+ynX2OZtbfu+tm3b1nlt27a9O4qNS5xxbdd+cTKvXydT31fJoPuvmvf6/ejw86dBlX6CwwQXCq6t5cLaz/xV4+ld6F8r9NdgsCAjIwf5+UUoLCwBydf8jN+JNQbBddzjDQM+gocErRSyWm2QgWu4lntq9/q01UAfwYKCgmK43W6ognu4lzEE+6oamCboLC0tR3vBGIwlOF2vgZm5uQWoqamBXrhcLpw5cxZ79uxFKxCxrGBMxpYZ6Eu33KAXNDp+/AQEBgbzv8Y6Kxi7+e1ofuAKVS/7zp27KE7i6dNnem5HAbVaM3CYh0YF/PWRkdEUpxHoQe3BPNTcQJCgTc9pT0tLh8VigdPpBLFv3368evVKBC7A16/fkJmZKX06qCXo39jAej67Wnjx4iVGjBiJ0NBwBAeHYsCAgTh48BCuXLmCKVOmIioqBrwS4eGRGDduPMxmMzyBWtRsbMCglWSePXuOkJAwCuhmnz79YLVaPSUrGjDWGQhgCvWEyspKdOrURUk8JiYO799/0Exg1KQ2DQxjHveEO3fuKomTPBcyUJPaNLCQxcQTNm3arGzAYDBABmoK7UU0sE7rAC5dukxJPCgoRPy6DMhATWpLDWzbtl35Cty//0DBgOQW3LhxU9nAsGEj4HA4dN0CySHkwvy6bKfECRMmISsrS34IZY8hMXnyFAZV5rFjx6WPoa5E9PnzZ2XxpKQUlJaWaiUik1IqXrBgkZKB06fPwBOKiv4fwA3Ni5FdK3NVVFSgd+++usRnzJilXIzII7JynJOTAxaa7t17Yt68+bh37z6+fPmKCxcuYvToMejVqzdWrVrNMi0rx4cVGxIFKDQkCi2ZAhRaMklTavWqeF6epCltxuneasvLyurb8lmqg0lfLw4m/dozmh0RtBUV6R/NuJZ7avf6eGs4ZeIwMoVmZrYcTvkZv+MarlUZTlUZIDi8diRfX8uFtZ8FqMb7Bx+2VJbBTrlcAAAAAElFTkSuQmCC" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span><div><span class="VuuXrf">Apple</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://apps.apple.com<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div></a></span><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span><div><span class="VuuXrf">Apple</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://apps.apple.com<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div><div class="csDOgf BCF2pd ezY6nb L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;ARHs1I cECq7c;_;ARHs1M" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIIBAJ"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIIBAK"></span></div></div></div></div></div></div><div class="kb0PBd cvP2Ce" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2"><span><em>DigiLocker</em> – A simple and secure document wallet for Citizens. <em>DigiLocker</em> is a key initiative under Digital India, the Government of India's flagship&nbsp;...</span></div></div><div class="kb0PBd cvP2Ce" data-sncf="2" data-snf="mCCBcf"><div class="fG8Fp uo4vr"><span aria-hidden="true" class="z3HNkc" aria-label="5 में से 4.5 रेट किया गया," role="img"><span style="width:62px"></span></span> <span>रेटिंग: 4.5</span> · &lrm;<span>63,150 समीक्षाएं</span> · &lrm;<span>मुफ़्त</span> · &lrm;<span>iOS</span> · &lrm;<span>व्&zwj;यवसाय/उत्&zwj;पादकता</span></div></div></div></div></div></div><div class="ULSxyf"><div class="MjjYud"><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CDcQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFSgAegQINxAA"><div class="N54PNb BToiNc cvP2Ce" data-snc="ih6Jnb_LrZ5l"><div class="kb0PBd cvP2Ce jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><div><span jscontroller="msmzHf" jsaction="rcuQ6b:npT2md;PYDNKe:bLV6Bd;mLt3mc"><a jsname="UWckNb" href="https://accounts.digitallocker.gov.in/oauth_partner/register/%2Foauth2%2F1%2Fconsent%3Fresponse_type%3Dcode%26client_id%3D08627FE5%26state%3D102%26redirect_uri%3Dhttps%253A%252F%252Fabc.digilocker.gov.in%252Fsignup%252Fcallback_data%26orgid%3D002585%26txn%3D626df36da2b2boauth21651372909%26hashkey%3D5316ba2f9c95d2769873cf41fae549e91f05508e80b4685600117e3bf19fb6e3%26requst_pdf%3DN%26signup%3Dsignup" jscontroller="M9mgyc" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECCIQAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://accounts.digitallocker.gov.in/oauth_partner/register/%252Foauth2%252F1%252Fconsent%253Fresponse_type%253Dcode%2526client_id%253D08627FE5%2526state%253D102%2526redirect_uri%253Dhttps%25253A%25252F%25252Fabc.digilocker.gov.in%25252Fsignup%25252Fcallback_data%2526orgid%253D002585%2526txn%253D626df36da2b2boauth21651372909%2526hashkey%253D5316ba2f9c95d2769873cf41fae549e91f05508e80b4685600117e3bf19fb6e3%2526requst_pdf%253DN%2526signup%253Dsignup&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECCIQAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb MBeuO DKV0Md">aadhaar</h3><div class="notranslate TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube fJOpI"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><span class="Jj3Uob XNo5Ab z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path></svg></span></div></span><div><span class="VuuXrf">DigiLocker</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://accounts.digitallocker.gov.in<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div></a></span><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube fJOpI"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span><div><span class="VuuXrf">DigiLocker</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://accounts.digitallocker.gov.in<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div><div class="csDOgf BCF2pd ezY6nb L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;ARHs1Q cECq7c;_;ARHs1c" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIIhAJ"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIIhAK"></span></div></div></div></div></div></div><div class="kb0PBd cvP2Ce" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2"><span>Sign up. It takes just a minute. Enter your Aadhaar Number. aadhaar. <em>DigiLocker</em> uses Aadhaar to enable authentic document access. Next. Try another way.</span></div></div><div class="kb0PBd cvP2Ce" data-sncf="2" data-snf="mCCBcf"><div class="fG8Fp uo4vr"></div></div></div></div></div></div><div class="ULSxyf"><div class="MjjYud"><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CDgQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFSgAegQIOBAA"><div class="N54PNb BToiNc cvP2Ce" data-snc="ih6Jnb_t8vCRd"><div class="kb0PBd cvP2Ce jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><div><span jscontroller="msmzHf" jsaction="rcuQ6b:npT2md;PYDNKe:bLV6Bd;mLt3mc"><a jsname="UWckNb" href="https://en.wikipedia.org/wiki/DigiLocker" jscontroller="M9mgyc" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECCoQAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://en.wikipedia.org/wiki/DigiLocker&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECCoQAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb MBeuO DKV0Md">DigiLocker</h3><div class="notranslate TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUAAAD+/v41NTUBAQEAAABZWVknJycWFhaZmZmIiIjp6ellZWXMzMzX19eurq54eHhHR0dExXFyAAAAAXRSTlMAQObYZgAAAPtJREFUeAG8kAWOBDAMA9d1Sin+/7XXbpZZdBaURlMrhx28ycGCD/n0bvkBwJf8C+AoIvRAWGtMyHGtCWkfxW+DRopuuIjUtTQJDStevNoXWaRjRSllLd1O8FFhgEZx2BmkAmHC8HwpOUyxSA50VqOjXgAl50URvNWPBRcAnmwnhbcduthqQCO9KYTFBG7eDWoK1T47AZX9DuiUYT/TuhX3MGpnD51kPprSA9Dl+BCKl7jWHHEHmHsLWhNZZMxPQCLTEuy+cYF6D9i8Q5e2Lcyz4AGwKdJbX0p7AegC2qnvxAsAxQRAYH8J6Dg1a/lvpKRJinMW4cxLMPsDAJjSCaG8cPmnAAAAAElFTkSuQmCC" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span><div><span class="VuuXrf">Wikipedia</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://en.wikipedia.org<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div></a></span><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span><div><span class="VuuXrf">Wikipedia</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://en.wikipedia.org<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div><div class="csDOgf BCF2pd ezY6nb L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;ARHs1g cECq7c;_;ARHs1k" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIKhAJ"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIKhAK"></span></div></div></div></div></div></div><div class="kb0PBd cvP2Ce" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2"><span><em>DigiLocker</em> is a digitization service provided by the Indian Ministry of Electronics and Information Technology (MeitY) under its Digital India initiative.</span></div></div><div class="kb0PBd cvP2Ce" data-sncf="2" data-snf="mCCBcf"><div class="fG8Fp uo4vr"></div></div></div></div></div></div><div class="ULSxyf"><div class="MjjYud"><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CDYQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFSgAegQINhAA"><div class="N54PNb BToiNc cvP2Ce" data-snc="ih6Jnb_prapSe"><div class="kb0PBd cvP2Ce jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><div><span jscontroller="msmzHf" jsaction="rcuQ6b:npT2md;PYDNKe:bLV6Bd;mLt3mc"><a jsname="UWckNb" href="https://services.india.gov.in/service/detail/digilocker-register-online-to-store-e-documents" jscontroller="M9mgyc" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECCEQAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://services.india.gov.in/service/detail/digilocker-register-online-to-store-e-documents&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECCEQAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb MBeuO DKV0Md">DigiLocker - Register online to store e-documents</h3><div class="notranslate TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACcklEQVR4AbXXBW7cQBTG8d4gnFhocS+x9/A19hYWlJmZyWUQ+gS+gMvgcic4hZHe63+lF2nCya7X0k/fG+MXtHaXqq5rs+3Pi9EOcpSR7mbXbPicvgo8H3VQCDz097PRMLQCS4/HsqUnYw41c+6fjIkJrM/YrMwddFEia6XA4sPxbPHRmIdDw41JHsyaFHjmQArpDNewj2vbKBBQQyHwlrqKh4vOqWEl+iywcH+iWLg/LqRDgEBtJseXU0hZNZc2V30XmC/Gs/l7EwKFh0YE3lI3IOizgG1zdyfOzN2ZEFKXc7M5InCt/BXM3p7MoUbi2eg6GqStFHA3J2uI0YgYXUfT2v+BX9enHHSH2ivw4+pUBd2hosUC050fV6Z1B6R3Tavvgu+XpgsEnLH0UOMsg2XR+svo24WZLtzXCzNneokSZ5b3ITDnkKG8Db+en0m/nptxKOBRojIlxM7xQ3sdfzk70xhFgRqN8ehieAU+n54p4SEoUBoHxRlUrRf4dDJJUTSnEkWA2FyihofaLJybtVvgRFJB4aGRetW+AGdz3kqBD8eS9MPxJEDXIdAN1K0UeH80KaDIUSGDriNYNtGcDVzg3eGkfn8kUXTR9NYQZl3N9nu4Htb1wAXeHkpqKJq3B5MiWotlTNCggkcxeAEeCkWNDA5qAgQaCZaCzsAF3uxPUlQQ6DZ55K3+I3q9Lylf703cdnBuZ6ifjF7lu6toueW5SHdcgIvOoNyAQ7O85jmbnd/09FtAEFChRrB0NvuoQIEqOqeBg4frp0AKb2qcsblC1+YmKtCBN2V0HH0UiG6aIY107Fhmydo2W8fnmmyj5/wHnRrB6P1GRTUAAAAASUVORK5CYII=" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span><div><span class="VuuXrf">services.india.gov.in</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://services.india.gov.in<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div></a></span><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span><div><span class="VuuXrf">services.india.gov.in</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://services.india.gov.in<span class="dyjrff ob9lvb" role="text"> › ...</span></cite></div></div></div><div class="csDOgf BCF2pd ezY6nb L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;ARHs1U cECq7c;_;ARHs1Y" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIIRAJ"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIIRAK"></span></div></div></div></div></div></div><div class="kb0PBd cvP2Ce" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2"><span><em>DigiLocker</em> can be used to securely store e-documents as well as store Uniform Resource Identifier (URI) link of e-documents issued by various issuer&nbsp;...</span></div></div><div class="kb0PBd cvP2Ce" data-sncf="2" data-snf="mCCBcf"><div class="fG8Fp uo4vr"></div></div></div></div></div></div><div class="ULSxyf"><div class="MjjYud"><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="hi" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CDIQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFSgAegQIMhAA"><div class="N54PNb BToiNc cvP2Ce" data-snc="ih6Jnb_iBswod"><div class="kb0PBd cvP2Ce jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><div><span jscontroller="msmzHf" jsaction="rcuQ6b:npT2md;PYDNKe:bLV6Bd;mLt3mc"><a jsname="UWckNb" href="https://www.xn--i1bj3fqcyde.xn--11b7cb3a6a.xn--h2brj9c/spotlight/%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%89%E0%A4%95%E0%A4%B0-%E0%A4%91%E0%A4%A8%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8-%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A5%87%E0%A4%9C%E0%A4%BC-%E0%A4%AD%E0%A4%82%E0%A4%A1%E0%A4%BE%E0%A4%B0%E0%A4%A3-%E0%A4%B8%E0%A5%81%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE" jscontroller="M9mgyc" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECB8QAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.xn--i1bj3fqcyde.xn--11b7cb3a6a.xn--h2brj9c/spotlight/%25E0%25A4%25A1%25E0%25A4%25BF%25E0%25A4%259C%25E0%25A4%25BF%25E0%25A4%25B2%25E0%25A5%2589%25E0%25A4%2595%25E0%25A4%25B0-%25E0%25A4%2591%25E0%25A4%25A8%25E0%25A4%25B2%25E0%25A4%25BE%25E0%25A4%2587%25E0%25A4%25A8-%25E0%25A4%25A6%25E0%25A4%25B8%25E0%25A5%258D%25E0%25A4%25A4%25E0%25A4%25BE%25E0%25A4%25B5%25E0%25A5%2587%25E0%25A4%259C%25E0%25A4%25BC-%25E0%25A4%25AD%25E0%25A4%2582%25E0%25A4%25A1%25E0%25A4%25BE%25E0%25A4%25B0%25E0%25A4%25A3-%25E0%25A4%25B8%25E0%25A5%2581%25E0%25A4%25B5%25E0%25A4%25BF%25E0%25A4%25A7%25E0%25A4%25BE&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQFnoECB8QAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb MBeuO DKV0Md">डिजिलॉकर - ऑनलाइन दस्तावेज़ भंडारण सुविधा</h3><div class="notranslate TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX/mTP/u3f////S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz+S0+y7YAAAAASUVORK5CYII=" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span><div><span class="VuuXrf">भारतीय राष्ट्रीय पोर्टल</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://www.इंडिया.सरकार.भारत<span class="dyjrff ob9lvb" role="text"> › spotlight › ड...</span></cite></div></div></div></a></span><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span><div><span class="VuuXrf">भारतीय राष्ट्रीय पोर्टल</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://www.इंडिया.सरकार.भारत<span class="dyjrff ob9lvb" role="text"> › spotlight › ड...</span></cite></div></div></div><div class="csDOgf BCF2pd ezY6nb L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;ARHs04 cECq7c;_;ARHs1E" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIHxAJ"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIHxAK"></span></div></div></div></div></div></div><div class="kb0PBd cvP2Ce" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2"><span><em>डिजिलॉकर</em> - अगला कदम. <em>डिजिलॉकर</em>. डिजिटल लॉकर प्रणाली का राष्ट्रीय रोलआउट; डिजिटल लॉकर&nbsp;...</span></div></div><div class="kb0PBd cvP2Ce" data-sncf="2" data-snf="mCCBcf"><div class="fG8Fp uo4vr"></div></div></div></div></div></div></div></div></div></div></div><div id="bottomads"></div><div id="botstuff"><div data-hveid="CBwQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQCHoECBwQAA"><div></div><div id="bres"><div class="ULSxyf"><div class="MjjYud"><div data-abe="" data-hveid="CB0QAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ26YDegQIHRAA"><div class="oIk2Cb"><div class="kfsfbe adDDi"><div class="T6zPgb YC72Wc"><div aria-level="2" role="heading"><span class="mgAbYb OSrXXb RES9jf IFnjPb">मिलती-जुलती खोजें</span></div></div><span class="YR2tRd"><div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" jsdata="l7Bhpb;_;ARHs0w cECq7c;_;ARHs00" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2esEegQIHRAC"><div jsaction="KyPa0e:RvIhPd;wjOG7e:edHC5b;al5F3e:edHC5b;"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc eY4mx" style="padding-right:5px;position:absolute" aria-label="इस नतीजे के बारे में ज़्यादा जानकारी"><span jsname="czHhOd" class="D6lY4c IjabWd"><span jsname="Bil8Ae" class="xTFaxe z1asCe" style="height:18px;line-height:18px;width:18px" jsportable="sass-ported"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh-4GegQIHRAD"></span></div><g-snackbar jsname="t1F84b" jscontroller="OZLguc" style="display:none" jsshadow="" jsaction="rcuQ6b:npT2md" id="ow75" __is_owner="true"><div jsname="Ng57nc" class="yK6jqe" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ4G96BAgdEAQ" jsowner="ow75"><div class="b77HKf"><div class="rIxsve" jsslot=""><span class="Txngnb wHYlTd yUTMj">अब आपको खोज के ज़्यादा नतीजे हिन्दी में दिखेंगे.</span></div></div></div><div jsname="sM5MNb" aria-live="polite" class="LH3wG"></div></g-snackbar></div></span></div><div class="y6Uyqe"><div class="EIaa9b"><div class="AJLUJb"><div data-hveid="CCsQAA"><a class="k8XOCe R0xfCb VCOFK s8bAkb" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=Digilocker+free&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1QJ6BAgrEAE"><div class="aXBZVd unhzXb"></div><div class="s75CSd u60jwe r2fjmd AB4Wff">digilocker <b>free</b></div></a></div><div data-hveid="CCkQAA"><a class="k8XOCe R0xfCb VCOFK s8bAkb" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=DigiLocker+login&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1QJ6BAgpEAE"><div class="aXBZVd unhzXb"></div><div class="s75CSd u60jwe r2fjmd AB4Wff"><b>DigiLocker login</b></div></a></div><div data-hveid="CCgQAA"><a class="k8XOCe R0xfCb VCOFK s8bAkb" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=digilocker.gov.in+app&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1QJ6BAgoEAE"><div class="aXBZVd unhzXb"></div><div class="s75CSd u60jwe r2fjmd AB4Wff"><b>digilocker.gov.in app</b></div></a></div><div data-hveid="CCcQAA"><a class="k8XOCe R0xfCb VCOFK s8bAkb" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=DigiLocker+app+download&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1QJ6BAgnEAE"><div class="aXBZVd unhzXb"></div><div class="s75CSd u60jwe r2fjmd AB4Wff"><b>DigiLocker app download</b></div></a></div></div><div class="AJLUJb"><div data-hveid="CCYQAA"><a class="k8XOCe R0xfCb VCOFK s8bAkb" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=digilocker.gov.in+sign+up&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1QJ6BAgmEAE"><div class="aXBZVd unhzXb"></div><div class="s75CSd u60jwe r2fjmd AB4Wff"><b>digilocker.gov.in sign up</b></div></a></div><div data-hveid="CCUQAA"><a class="k8XOCe R0xfCb VCOFK s8bAkb" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=DigiLocker+student+login&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1QJ6BAglEAE"><div class="aXBZVd unhzXb"></div><div class="s75CSd u60jwe r2fjmd AB4Wff"><b>DigiLocker student login</b></div></a></div><div data-hveid="CCQQAA"><a class="k8XOCe R0xfCb VCOFK s8bAkb" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=digilocker.gov.in+cbse+marksheet+2023&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1QJ6BAgkEAE"><div class="aXBZVd unhzXb"></div><div class="s75CSd u60jwe r2fjmd AB4Wff"><b>digilocker.gov.in cbse marksheet 2023</b></div></a></div><div data-hveid="CCMQAA"><a class="k8XOCe R0xfCb VCOFK s8bAkb" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=DigiLocker+ABC+ID&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1QJ6BAgjEAE"><div class="aXBZVd unhzXb"></div><div class="s75CSd u60jwe r2fjmd AB4Wff"><b>DigiLocker ABC ID</b></div></a><div tabindex="0" aria-hidden="true" class="focusSentinel" jsaction="focus:.CLIENT"></div><div tabindex="0" aria-hidden="true" class="focusSentinel" jsaction="focus:.CLIENT"></div></div></div></div></div></div></div></div></div></div><div jscontroller="ogmBcd" jsname="BRTknd" jsmodel="oWVrne" class="sdjuGf" jsdata="A7MAsf;_;ARHs0s" jsaction="rcuQ6b:npT2md;Jl3rxb:VimORe;BqPbQ:p5vRo;Kf5VV:CYKeQe;lQkSke:fj32se;aLHH2d:XV6jYd;LYjNec:cyaZJ;QEvNdb:teMyNc;K6ldnc:vK2xWc;xHsTDe:PoQGh"><div jscontroller="Gg40M" jsaction="rcuQ6b:npT2md;yFBEId:dNTL7c;AnqxQb:dNTL7c;aLHH2d:yTpwFc"><div jsname="TCyEnb" aria-owns="rhs"></div><div jsname="nZDdGd" tabindex="0"></div></div><div jsname="sgxt2d" data-graft-type="insert" id="arc-srp_1" data-jiis="up" data-async-type="arc" data-async-context-required="arc_id,q" class="yp" data-async-rclass="search" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQxK8CegQIHBAC"></div><div jsname="GDPwke" class="WtZO4e"></div><div class="WZH4jc w7LJsc" jscontroller="bpec7b" data-dt="1" jsaction="AnqxQb:eFvKib;q8sV4d:eFvKib;Rlvoif:eFvKib;yFBEId:eFvKib"><div jsname="b6rISd" class="QjmzCd" style="display:none" role="progressbar" aria-label="लोड हो रही है..." aria-live="polite" data-hveid="CBwQAw" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ66oDegQIHBAD" aria-hidden="false"><div style="height: 36px; width: 36px; display: inline-block; animation: 1568.63ms linear 0s infinite normal none running mspin-rotate; overflow: hidden;"><div style="animation: 5332ms steps(4) 0s infinite normal none running mspin-revrot; transform-origin: 18px 18px;"><div style="position: absolute; top: 0px; left: 0px; animation: 5332ms steps(324) 0s infinite normal none running mspin; background-image: url(&quot;//www.gstatic.com/ui/v2/activityindicator/mspin_googcolor_medium.svg&quot;); background-size: 100%; height: 36px; width: 11664px;"></div></div></div></div><h1 class="bNg8Rb OhScic zsYMMe BBwThe" style="clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px;z-index:-1000;-webkit-user-select:none">Page Navigation</h1><a class="T7sFge sW9g3e VknLRd" href="https://www.google.com/search?q=digilocker&amp;rlz=1C1VDKB_enIN1075IN1075&amp;oq=DIGILPO&amp;gs_lcrp=EgZjaHJvbWUqDwgBEAAYChiDARixAxiABDIGCAAQRRg5Mg8IARAAGAoYgwEYsQMYgAQyDwgCEAAYChiDARixAxiABDIPCAMQABgKGIMBGLEDGIAEMgkIBBAAGAoYgAQyDwgFEAAYChiDARixAxiABDIPCAYQABgKGIMBGLEDGIAEMgQIBxAF0gEINTQxNGowajmoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8&amp;aomd=1&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014" style="transform:scale(1)" jsname="oHxHid" jsaction="qBEZuc" aria-label="और नतीजे देखें" data-ve-view="" role="button" data-hveid="CBwQBA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQqq4CegQIHBAE" aria-hidden="false"><hr class="KXbwLb" aria-hidden="true"><h3 aria-hidden="true"><div class="GNJvt ipz2Oe"><span class="kQdGHd"><span class="OTvAmd z1asCe QFl0Ff"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path></svg></span></span><span class="RVQdVd">और नतीजे देखें</span></div></h3></a><a jsname="a79Lwf" jsaction="nF6QQd" class="VknLRd" style="display:none" aria-live="polite" role="button" tabindex="0" data-hveid="CBwQBQ" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQvvYCegQIHBAF" aria-hidden="false"><hr class="KXbwLb" aria-hidden="true"><h3><span class="GNJvt">फिर से कोशिश करें</span></h3></a></div><a jsname="EvDH1d" style="display:none" data-hveid="CBwQBg" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_skCegQIHBAG"></a></div><script nonce="">(function(){var showOptIn=false;var a=document.getElementsByClassName("o8xTWc"),b=document.getElementsByClassName("wxIowe");showOptIn?(0<a.length&&a[0].classList.add("kur4we"),0<b.length&&b[0].classList.remove("kur4we")):(0<a.length&&a[0].classList.remove("kur4we"),0<b.length&&b[0].classList.add("kur4we"));})();</script><script nonce="">(function(){var btc='uCD6gd';(function(){var a=document.getElementsByClassName(btc)[0];if(a){var b=document.getElementById("slim_appbar");b&&(b.appendChild(a),a.style.display="")};}).call(this);})();</script><div><div class="fp-nh save-components-async yp" data-api="AIzaSyBs-GJEDqBAn0NiEv03nkWgCUTr2vlaVl0" data-jiis="up" data-async-type="svcps" id="gws-plugins-collections-tray__save-components-async" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQnbUCKAF6BAgcEAc"></div></div></div></div><div data-hveid="CAUQGw" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQh6kJegQIBRAb"></div><div jscontroller="GU4Gab" style="display:none" data-pcs="1" jsaction="rcuQ6b:npT2md"></div><div role="navigation"><span id="xjs"></span><div id="gfn"></div><span id="fvf"></span></div></div><div class="TQc1id rhstc4" jscontroller="cSX9Xe" data-pws="1300" data-spe="true" jsaction="rcuQ6b:npT2md" id="rhs" jsdata="MdeVKb;_;ARHs0c" role="complementary" data-hveid="CBAQAA"><div tabindex="0" aria-hidden="true" class="focusSentinel" jsaction="focus:.CLIENT"></div><div tabindex="0" aria-hidden="true" class="focusSentinel" jsaction="focus:.CLIENT"></div><script nonce="">(function(){var a=document.getElementById("rhs");if(a){var b=document.getElementById("rcnt");b&&b.appendChild(a)};}).call(this);</script><h2 class="bNg8Rb OhScic zsYMMe BBwThe" style="clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px;z-index:-1000;-webkit-user-select:none">अतिरिक्त नतीजे</h2><script nonce="">(function(){var pws=1300;(function(){if(window.innerWidth<=pws){var a=document.getElementById("Yf1RJc"),b=document.getElementById("center_col");if(a&&b){var c=a.getBoundingClientRect().top-b.getBoundingClientRect().top;document.getElementById("rhs").style.top=c+75+"px"}};}).call(this);})();</script><div class="liYKde g VjDLd"><div jsname="TlEBqd" jsmodel="HX2tLd" class="kp-wholepage kp-wholepage-osrp HSryR EyBRub" data-hveid="CDkQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ8esCKAB6BAg5EAA"><div jscontroller="Wo3n8" jsname="aadvhe" jsmodel="d5EhJe" data-eas="" data-ekc="" data-fhs="" data-kes="" jsdata="vST7rb;_;ARHs1o zEIyGd;_;" jsaction="kPzEO:MlP2je;w8f1fc:hRwSgb;aIJAdf:UhDUnd;BqbTbe:naa5ve;kYAKrf:CqUGrf;hwhRRe:KyxjCd;rcuQ6b:npT2md"><div jsname="GkjeIf" id="_J6swZaAytrqx4w_RmbmYCA_27" data-jiis="up" data-async-type="kp_feedback" class="yp" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ68cEKAB6BAg5EAE"></div></div><div class="I6TXqe"><div class="osrp-blk" id="_J6swZaAytrqx4w_RmbmYCA_25">   <div class="TzHB6b cLjAic" jsdata="PhoHd;_;ARHs2M" data-hveid="CEsQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ1IgCKAB6BAhLEAA"><div jsname="xQjRM"><div class="sATSHe"><div><h3 class="bNg8Rb OhScic zsYMMe BBwThe" style="clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px;z-index:-1000;-webkit-user-select:none">इमेज</h3><div class="wDYxhc NFQFxe oHglmf xzPb7d" data-md="32" style="clear:none" data-hveid="CD8QAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ4dMGegQIPxAA"><div class="H8O85d kno-mrg kno-swp" style="position:relative;overflow:visible" id="media_result_group" data-hveid="CD8QAQ"><div class="kno-fiu kno-liu"><div jsmodel="Wn3aEc" data-count="4" data-hveid="CDwQAA"><div></div><div jsmodel="" jscontroller="M0hWhd" jsaction="PdWSXe:h5M12e;rcuQ6b:npT2md;" jsdata="X2sNs;_;ARHs1w"><div jscontroller="ABJeBb" data-rc="ivg-i" jsaction="rcuQ6b:npT2md" class="RYdNQb" data-c="rhsg3 rhsl5" data-h="151" data-m="2" data-nr="1" style="border-top-left-radius: 8px; border-top-right-radius: 8px; overflow: hidden; margin-right: -2px; margin-bottom: -2px;" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQxDAoAHoECDwQAQ"><div jsname="dTDiAc" class="eA0Zlc ivg-i PZPZlf PtaMgb GMCzAd" jscontroller="Um3BXb" jsdata="j0Opre;1eIjfFM8jlAq8M;ARHs2E" data-attrid="image" data-docid="1eIjfFM8jlAq8M" data-lpage="https://www.fincash.com/l/hi/digilocker" data-ref-docid="0YgvsPO9F9cbUM" data-tsourceid="6" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CEcQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ-x16BAhHEAA" style="width: 200px; height: 151px; padding-top: 0px; padding-bottom: 0px;"><div jsname="IOBa3c"><a href="/search?q=digilocker&amp;newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;vet=1&amp;fir=1eIjfFM8jlAq8M%252C0YgvsPO9F9cbUM%252C%252Fm%252F012vp98b%253BkMDZIWW8M0MeHM%252CbmUgIW2DFyk17M%252C_%253BGd0WyjLQffpBPM%252CNEkK0xfU0VX5GM%252C_%253BFdKMr42n5VvwgM%252CGEZlnwmX0-SmqM%252C_&amp;usg=AI4_-kTXVni8ps7mUuYrVFNQmmlzJl8mAw&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_B16BAhHEAE#imgrc=1eIjfFM8jlAq8M" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_B16BAhHEAE"><div><div data-bla="" class="uhHOwf BYbUcd" style="height: 151px; width: 200px; left: 0px;"><img alt="d28wu8o6itv89t.cloudfront.net/images/Digilockerjpg..." id="dimg_9" src="data:image/jpeg;base64,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" data-atf="1" data-frt="0" style="width: 200px; height: 151px; margin-left: 0px; margin-right: 0px; margin-top: 0px;"></div></div></a><div jsname="tdeeNb"></div></div></div><div jsname="dTDiAc" class="eA0Zlc ivg-i PZPZlf PtaMgb GMCzAd" jscontroller="Um3BXb" jsdata="j0Opre;kMDZIWW8M0MeHM;ARHs2A" data-attrid="secondary image" data-docid="kMDZIWW8M0MeHM" data-lpage="https://play.google.com/store/apps/details?id=com.digilocker.android&amp;hl=en_US" data-ref-docid="bmUgIW2DFyk17M" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CEUQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_R16BAhFEAA" style="width: 168px; height: 151px; padding-top: 0px; padding-bottom: 0px;"><div jsname="IOBa3c"><a href="/search?q=digilocker&amp;newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;vet=1&amp;fir=1eIjfFM8jlAq8M%252C0YgvsPO9F9cbUM%252C_%253BkMDZIWW8M0MeHM%252CbmUgIW2DFyk17M%252C_%253BGd0WyjLQffpBPM%252CNEkK0xfU0VX5GM%252C_%253BFdKMr42n5VvwgM%252CGEZlnwmX0-SmqM%252C_&amp;usg=AI4_-kTETIV0hJd5YMArFLfQasnewM4ZKA&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_h16BAhFEAE#imgrc=kMDZIWW8M0MeHM" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_h16BAhFEAE"><div><div data-bla="" class="uhHOwf BYbUcd" style="height: 151px; width: 168px; left: 0px;"><img style="height: 168px; margin-top: -10px; width: 168px; margin-left: 0px; margin-right: 0px;" alt="DigiLocker - Apps on Google Play" id="dimg_5" src="data:image/jpeg;base64,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" data-atf="1" data-frt="0"></div></div></a><div jsname="tdeeNb"></div></div></div><div jsname="dTDiAc" class="eA0Zlc ivg-i PZPZlf PtaMgb GMCzAd" jscontroller="Um3BXb" jsdata="j0Opre;Gd0WyjLQffpBPM;ARHs18" data-attrid="secondary image" data-docid="Gd0WyjLQffpBPM" data-lpage="https://www.reliancedigital.in/solutionbox/what-is-digilocker-and-why-you-should-be-using-it/" data-ref-docid="NEkK0xfU0VX5GM" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CEQQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_R16BAhEEAA" style="width: 181px; height: 151px; padding-top: 0px; padding-bottom: 0px;"><div jsname="IOBa3c"><a href="/search?q=digilocker&amp;newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;vet=1&amp;fir=1eIjfFM8jlAq8M%252C0YgvsPO9F9cbUM%252C_%253BkMDZIWW8M0MeHM%252CbmUgIW2DFyk17M%252C_%253BGd0WyjLQffpBPM%252CNEkK0xfU0VX5GM%252C_%253BFdKMr42n5VvwgM%252CGEZlnwmX0-SmqM%252C_&amp;usg=AI4_-kTETIV0hJd5YMArFLfQasnewM4ZKA&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_h16BAhEEAE#imgrc=Gd0WyjLQffpBPM" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_h16BAhEEAE"><div><div data-bla="" class="uhHOwf BYbUcd" style="height: 151px; width: 181px; left: 0px;"><img style="height: 151px; margin-left: 0px; margin-top: 0px; width: 355px; margin-right: -174px;" alt="What is DigiLocker and why you should be using it ..." id="dimg_3" src="data:image/png;base64,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" data-atf="0" data-frt="0"></div></div></a><div jsname="tdeeNb"></div></div></div><div jsname="dTDiAc" class="eA0Zlc ivg-i PZPZlf PtaMgb GMCzAd" jscontroller="Um3BXb" jsdata="j0Opre;FdKMr42n5VvwgM;ARHs14" data-attrid="secondary image" data-docid="FdKMr42n5VvwgM" data-lpage="https://www.bqprime.com/technology/bqc-how-to-open-digilocker-account" data-ref-docid="GEZlnwmX0-SmqM" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CEMQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_R16BAhDEAA" style="width: 187px; height: 151px; padding-top: 0px; padding-bottom: 0px;"><div jsname="IOBa3c"><a href="/search?q=digilocker&amp;newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;vet=1&amp;fir=1eIjfFM8jlAq8M%252C0YgvsPO9F9cbUM%252C_%253BkMDZIWW8M0MeHM%252CbmUgIW2DFyk17M%252C_%253BGd0WyjLQffpBPM%252CNEkK0xfU0VX5GM%252C_%253BFdKMr42n5VvwgM%252CGEZlnwmX0-SmqM%252C_&amp;usg=AI4_-kTETIV0hJd5YMArFLfQasnewM4ZKA&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_h16BAhDEAE#imgrc=FdKMr42n5VvwgM" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ_h16BAhDEAE"><div><div data-bla="" class="uhHOwf BYbUcd" style="height: 151px; width: 187px; left: 0px;"><img style="margin-left: -49px; width: 285px; height: 151px; margin-right: -49px; margin-top: 0px;" alt="DigiLocker: What Is It? Steps To Open An Account, Benefits ..." id="dimg_6" src="data:image/jpeg;base64,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" data-atf="0" data-frt="0"></div></div></a><div jsname="tdeeNb"></div></div></div></div></div><a href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=digilocker&amp;tbm=isch&amp;source=univ&amp;fir=1eIjfFM8jlAq8M%252C0YgvsPO9F9cbUM%252C_%253BkMDZIWW8M0MeHM%252CbmUgIW2DFyk17M%252C_%253BGd0WyjLQffpBPM%252CNEkK0xfU0VX5GM%252C_%253BFdKMr42n5VvwgM%252CGEZlnwmX0-SmqM%252C_&amp;usg=AI4_-kTETIV0hJd5YMArFLfQasnewM4ZKA&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQiR56BAg8EAI" class="hisnlb M6Nvye" data-hveid="CDwQAg"><span class="zx2uDe"><span class="iJddsb" style="height:20px;width:20px"><svg focusable="false" viewBox="0 0 24 24"><path d="M14 13l4 5H6l4-4 1.79 1.78L14 13zm-6.01-2.99A2 2 0 0 0 8 6a2 2 0 0 0-.01 4.01zM22 5v14a3 3 0 0 1-3 2.99H5c-1.64 0-3-1.36-3-3V5c0-1.64 1.36-3 3-3h14c1.65 0 3 1.36 3 3zm-2.01 0a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h7v-.01h7a1 1 0 0 0 1-1V5"></path></svg></span></span>ज़्यादा इमेज</a></div></div></div></div></div></div></div></div>   <script nonce="">window._setImagesSrc=function(f,c){function h(a){a.onerror=function(){a.style.display="none"};a.setAttribute("data-deferred","2");"data:"!==c.substring(0,5)&&a.setAttribute("data-defe","1");a.src=c;var g;(null==(g=google.c)?0:g.di)&&a.decode()}for(var d=0;d<f.length;++d){var b=f[d],e=document.getElementById(b)||document.querySelector('img[data-iid="'+b+'"]');e?(b=void 0,(null==(b=google.c)?0:b.setup)&&google.c.setup(e),h(e)):(google.iir=google.iir||{},google.iir[b]=c)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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\x3d';var ii=['dimg_9'];_setImagesSrc(ii,s);})();</script><script nonce="">(function(){var s='data:image/jpeg;base64,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\x3d';var ii=['dimg_5'];_setImagesSrc(ii,s);})();</script><script nonce="">(function(){var s='data:image/png;base64,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\x3d\x3d';var ii=['dimg_3'];_setImagesSrc(ii,s);})();</script><script nonce="">(function(){var s='data:image/jpeg;base64,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\x3d';var ii=['dimg_6'];_setImagesSrc(ii,s);})();</script><style>.ky4hfd{display:none}.HSryR .Kot7x{margin:0}.l3cUSd{clear:both}.Jb0Zif.IVvPP .LMRCfc,.IVvPP .LMRCfc,.Hwkikb.LMRCfc{margin-top:6px}html .dG2XIf .xpdclose .LKPcQc,html .dG2XIf .xpdopen .viOShc{padding-top:0;}.rhstc4 .SzZmKb .Ftghae{display:flex;justify-content:space-between}.rhstc4 .SzZmKb .SPZz6b{order:-1}.K20DDe{position:relative}.s6JM6d .K20DDe.LtKgIf{min-height:0;}.x3SAYd{position:relative}.R9GLFb{border-radius:8px 8px 0 0}.s6JM6d .HsZQAe{margin-top:12px}.a1vOw{padding:16px 0 0 0px;}.SzZmKb .a1vOw{padding-left:16px;}.BY2RHc{padding-right:24px}.HSryR .a1vOw.BY2RHc{padding:12px 0 12px 0}.Ftghae{padding-left:16px;padding-right:16px;margin-top:0}.s6JM6d .HSryR .Ftghae{padding-left:0;padding-right:0}.qrShPb{margin:0}#rhs .Ftghae{padding-left:15px;padding-right:15px}.wwUB2c{overflow:hidden;margin:4px 0}.iirjIb{position:relative}.rhstc4 .o66ENe,.rhstc5 .o66ENe,.rhstc5 .CLchud{position:absolute;right:0;top:0}.rsir2d{float:right;margin-bottom:-4px}.rsir2d{color:#000}.wwUB2c{color:#70757a;font-family:arial,sans-serif;}.GqKvT .wwUB2c{color:rgba(255,255,255,.7)}.rhstc4 .pXs6bb.EaHP9c{font-size:24px;line-height:1.34}.LwdV0e.OJeuxf .iCQO5d{width:36px}.gUAcff.OJeuxf .iCQO5d{width:32px}.NQYJvc.OJeuxf .iCQO5d{width:40px}sentinel{}.NQYJvc .niO4u{height:40px}.NQYJvc .d3o3Ad,.NQYJvc .R04TOd{border-radius:4px;height:20px;overflow:hidden}.NQYJvc .WoA9Zd{height:20px}sentinel{}.NtaMpb .niO4u{background-color:#fff;color:#4d5156}.NtaMpb .QuU3Wb{color:#4d5156}.NtaMpb.k0Jjg:hover .niO4u,.NtaMpb.k0Jjg:hover .QuU3Wb{color:#4d5156}.NtaMpb.k0Jjg:hover .kHtcsd{background-color:rgba(60,64,67,0.08)}.brKmxb:focus-visible .NtaMpb.k0Jjg .kHtcsd,.NtaMpb.k0Jjg:focus-visible .kHtcsd{background-color:rgba(60,64,67,0.08)}.brKmxb:focus-visible .NtaMpb.k0Jjg .niO4u,.brKmxb:focus-visible .NtaMpb.k0Jjg .QuU3Wb,.NtaMpb.k0Jjg:focus-visible .niO4u,.NtaMpb.k0Jjg:focus-visible .QuU3Wb{color:#4d5156}.NtaMpb.k0Jjg:active .kHtcsd,.NtaMpb.k0Jjg:hover:active .kHtcsd,.brKmxb:focus-visible .NtaMpb.k0Jjg:active .kHtcsd,.NtaMpb.k0Jjg:focus-visible:active .kHtcsd{background-color:rgba(60,64,67,0.24)}.NtaMpb.k0Jjg:active .niO4u,.NtaMpb.k0Jjg:hover:active .niO4u,.brKmxb:focus-visible .NtaMpb.k0Jjg:active .niO4u,.NtaMpb.k0Jjg:focus-visible:active .niO4u,.NtaMpb.k0Jjg:active .QuU3Wb,.NtaMpb.k0Jjg:hover:active .QuU3Wb,.brKmxb:focus-visible .NtaMpb.k0Jjg:active .QuU3Wb,.NtaMpb.k0Jjg:focus-visible:active .QuU3Wb{color:#4d5156}sentinel{}.cB4NFc{padding-top:16px}sentinel{}.wok5vf{padding:24px}sentinel{}.GUHazd{padding-bottom:12px}sentinel{}.OdBhM{padding-top:8px}sentinel{}.bvSTKc{padding:8px}sentinel{}.yMNJR .qk7LXc{max-width:100%}.cJFqsd .qk7LXc{height:100%}.rfx2Y .qk7LXc{width:100%}@media (min-height:576px){.uSolm .qk7LXc{height:100%}.uSolm{padding:64px 0px}}@media (max-height:575px){.uSolm .qk7LXc{height:100%;max-height:448px}}.BhUHze .qk7LXc{width:75%}@media (min-height:496px){.GeOznc .qk7LXc{height:100%}.GeOznc{padding:24px 0px}}@media (max-height:495px){.GeOznc .qk7LXc{height:100%;max-height:448px}}.dgVGnc .qk7LXc{width:90%}.KUf18.ivkdbf{background-color:rgba(0,0,0,0.6);opacity:1;visibility:inherit}.VfsLpf.ivkdbf{background-color:#000;opacity:.4;visibility:inherit}.J3Hnlf.ivkdbf{background-color:#202124;opacity:.7;visibility:inherit}.X46m8.ivkdbf{background-color:#000;opacity:.8;visibility:inherit}.cBoDed.ivkdbf{background-color:#f8f9fa;opacity:.85;visibility:inherit}.kyk7qb.ivkdbf{background-color:#202124;opacity:.6;visibility:inherit}.qk7LXc.ivkdbf{opacity:1}.mcPPZ.ivkdbf{opacity:1;visibility:inherit}.mcPPZ.nP0TDe{cursor:pointer}.mcPPZ.nP0TDe .qk7LXc{cursor:default}.kJFf0c{position:fixed;z-index:9997;right:0;bottom:-200px;top:0;left:0;-webkit-transition:opacity .25s;transition:opacity .25s;opacity:0;visibility:hidden}.qk7LXc{display:inline-block;z-index:9997;background-color:#fff;opacity:0;white-space:normal;overflow:hidden}.qk7LXc{border-radius:8px}.qk7LXc{box-shadow:0px 5px 26px 0px rgba(0,0,0,0.22),0px 20px 28px 0px rgba(0,0,0,0.3)}.qk7LXc.DJEOfc{background-color:transparent}.qk7LXc.DJEOfc{box-shadow:none}.qk7LXc.Fb1AKc{position:relative;vertical-align:middle}.qk7LXc.ulWzbd{position:absolute}.qk7LXc.P1WYLb{border:1px solid #dadce0;box-shadow:#dadce0}.mcPPZ{position:fixed;right:0;bottom:0;top:0;left:0;z-index:9997;vertical-align:middle;visibility:hidden;white-space:nowrap;max-height:100%;max-width:100%;overflow-x:hidden;overflow-y:auto}.mcPPZ.xg7rAe{text-align:center}.mcPPZ::after{content:"";display:inline-block;height:100%;vertical-align:middle}.mcPPZ{tap-highlight-color:rgba(0,0,0,0)}.LjfRsf{height:0;opacity:0;position:absolute;width:0}.VH47ed{visibility:hidden}.TaoyYc{overflow:hidden}.qk7LXc.aJPx6e{overflow:visible}.vAJJzd{opacity:.999}sentinel{}.xTWltf{margin-right:24px}sentinel{}.eJtrMc{padding-bottom:8px;padding-top:8px}sentinel{}.Wt5Tfe{padding-left:0px;padding-right:0px}sentinel{}.zUdppc{padding-bottom:4px}sentinel{}.TkZZsf{padding-bottom:4px;padding-top:4px}sentinel{}.xDKLO{}.HSryR .xDKLO{overflow:visible}.WFxqwc{font-size:14px}.TQc1id .ss6qqb .BGdUVb .LjTgvd,.TQc1id .i8qq8b .BGdUVb .LjTgvd{margin-top:0;margin-bottom:0}.IVvPP .WY0eLb .yTFeqb,.IVvPP .yTFeqb.WY0eLb{width:372px}.IVvPP .WY0eLb .Gv6QPb.yTFeqb,.IVvPP .Gv6QPb.yTFeqb.WY0eLb{width:457px}.IVvPP.rhstc4 .WY0eLb .yTFeqb,.IVvPP.rhstc4 .yTFeqb.WY0eLb{width:372px}.IVvPP.rhstc4 .WY0eLb .Gv6QPb.yTFeqb,.IVvPP.rhstc4 .Gv6QPb.yTFeqb.WY0eLb{width:457px}.IVvPP .yTFeqb:not(first-card).nBWfrd{border:none;border-top:1px solid rgba(0,0,0,.12);border-radius:0}.HSryR .wDYxhc:not(.NFQFxe){padding-left:15px;padding-right:15px}.s6JM6d .HSryR .wDYxhc:not(.NFQFxe){padding-left:0;padding-right:0}.xGj8Mb{display:flex;flex-direction:column}.hb8SAc{overflow:hidden;margin:13px 0 6px;}.s6JM6d .HSryR .hb8SAc{margin-top:24px}.Jb0Zif .hb8SAc,.IVvPP .hb8SAc{line-height:1.8}.hb8SAc{color:#4d5156}.xf67ce{display:flex;align-items:top}.fyKPC{display:flex;height:48px}.fyKPC::-webkit-scrollbar{display:none}.byBZxc,.mt7SKb{align-items:center;border:1px solid #dadce0;border-radius:16px;box-sizing:border-box;color:#1a73e8;cursor:pointer;display:flex;height:32px;margin:0 0 12px 0}.kXq04d{display:block;padding:0 8px 0 12px;width:18px;height:18px}.byBZxc.hhqdmd,.mt7SKb.hhqdmd{margin:0 16px 0 0;width:32px}.kXq04d.hhqdmd{padding:7px}.NJLBac{white-space:nowrap}.zloOqf{margin-top:7px;}.IVvPP .zloOqf,#rhs .ss6qqb .zloOqf{line-height:1.58}.LrzXr{color:#202124;}.w8qArf{font-weight:bolder}.w8qArf .fl{color:#202124 !important}.YB4h9{background-color:#1a73e8;color:#fff;padding:18px 60px 18px 12px;position:relative}.C85rO{font-size:20px}.Gtr0ne{padding-top:10px}.YB4h9 .Gtr0ne a{color:#fff;text-decoration:underline}.YB4h9 .Job8vb{padding:20px;position:absolute;right:0;top:0}.s6JM6d .HSryR .kno-ftr.rpBMYb{padding-left:0;padding-right:0}.kno-ftr.rpBMYb{color:#70757a;display:flex;flex-wrap:wrap-reverse;font-size:12px;line-height:1.34;margin-left:0;margin-right:0;padding:4px 16px 0}a.Ui8XNb,.uquUgf a{color:inherit;display:block}.uquUgf{flex:1;text-align:right}.NhRr3b{cursor:pointer;position:relative;}.aBOYt{display:inline-block}</style><div class="x3SAYd"><div class="SzZmKb"><div class="K20DDe R9GLFb JXFbbc LtKgIf a1vOw BY2RHc" data-hveid="CD0QAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQxPoBegQIPRAA"><div class="Hhmu2e wDYxhc NFQFxe viOShc LKPcQc" data-md="16" style="clear:none" data-hveid="CDsQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQhyh6BAg7EAA"><div class="Ftghae iirjIb"><div class="rsir2d"><div class="brKmxb" jscontroller="Wct42" data-ld="1" role="button" tabindex="0" aria-label="शेयर करें" jsdata="B34zmc;_;ARHs10" jsaction="KjsqPd;rcuQ6b:npT2md;yoKyEf:CLN7sd;nVW9lb:HR5wBe;tfcxtb:ImCKxc" data-hveid="CDsQAQ" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ-YABKAB6BAg7EAE"><span><div class="k0Jjg fCrZyc NQYJvc NtaMpb OJeuxf"><div class="niO4u VDgVie SlP8xc iCQO5d"><div class="kHtcsd"><span class="d3o3Ad z1asCe Fp7My"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"></path></svg></span></div></div></div></span><div id="_J6swZaAytrqx4w_RmbmYCA_29"><div jsname="Sx9Kwc" class="wb5ZZc" jscontroller="uLYJpc" jsaction="SJu0Rc:SlAvWb"><g-dialog jsname="Sx9Kwc" jscontroller="VEbNoe" data-id="_J6swZaAytrqx4w_RmbmYCA_31" jsaction="jxvro:Imgh9b" jsdata="gctHtc;_;ARHs0E" jsshadow="" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQy4IEegQIOxAD"><div jsname="XKSfm" id="_J6swZaAytrqx4w_RmbmYCA_31" jsaction="dBhwS:TvD9Pc;mLt3mc"><div jsname="bF1uUb" class="kJFf0c KUf18"></div><div class="mcPPZ nP0TDe xg7rAe" jsaction="trigger.dBhwS"><div class="LjfRsf" aria-hidden="true" role="button" tabindex="0" jsaction="focus:sT2f3e"></div><span jsslot="" jsaction="mLt3mc"><div class="qk7LXc TUOsUe Fb1AKc E1kGSe wok5vf cB4NFc" aria-label="Share" role="dialog"><span jsname="tqp7ud" class="lZC9wd bvSTKc z1asCe wuXmqc" aria-label="बंद करें" role="button" tabindex="0" jsaction="trigger.dBhwS" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQzIIEegQIOxAF"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></span><div jsname="OGvssd" class="aNrSe v0rrvd">शेयर करें</div><div jsname="Sy6N1c" class="BjWz4c OdBhM GUHazd"></div><div jsname="b0t70b" jscontroller="HPGtmd"><a jsname="RgELLe" class="DQc04b wHYlTd eJtrMc Wt5Tfe" href="#" role="link" tabindex="0" jsaction="rT2OA"><div class="bQkCTc xTWltf"><img class="fTE6nf" src="https://www.gstatic.com/kpui/social/fb_32x32.png" alt=""></div>Facebook</a><a jsname="P8lkFb" class="DQc04b wHYlTd eJtrMc Wt5Tfe" href="#" role="link" tabindex="0" jsaction="re2RZb"><div class="bQkCTc xTWltf"><img class="fTE6nf" src="https://www.gstatic.com/kpui/social/twitter_32x32.png" alt=""></div>Twitter</a><a jsname="bVp1N" class="DQc04b wHYlTd Q7PwXb eJtrMc Wt5Tfe" href="#" role="link" tabindex="0" jsaction="NmUBTc"><div class="bQkCTc xTWltf"><img class="fTE6nf" src="/images/icons/material/system/1x/email_grey600_24dp.png" alt=""></div><span class="tW0dvd">ईमेल</span></a><div jsname="GIN7Bd" jscontroller="n7qy6d"><div jsname="rTZwQe"><div jsname="uu7Hed"><div class="HYsXi ApHyTb OdBhM zUdppc" role="button" tabindex="0" jsaction="ScPJh">लिंक कॉपी करने के लिए क्लिक करें</div></div><div jsname="axr9cd"><div class="ApHyTb OdBhM zUdppc">लिंक शेयर करें</div></div></div><div jsname="pAZ6Ed" class="ApHyTb OdBhM zUdppc" aria-live="polite" style="display:none">लिंक कॉपी किया गया</div><div class="HmofF OSrXXb"><div jsaction="aiBUrb"><g-text-field jsname="zgnjS" class="OhScic rysuG LXtP0 Pqkn2e K56Jue" jscontroller="LiBxPe" jsshadow="" jsaction="rcuQ6b:npT2md"><div class="kp85vc"><div><input class="ZXb90b OhScic Wt5Tfe TkZZsf qKoqyc" jsaction="focus:daRB0b;blur:kDTLMd" aria-label="लिंक शेयर करें" readonly="" type="url"></div></div><div jsname="NowJzb" class="xqPsfb"></div></g-text-field></div></div><div jsname="tQ9n1c" class="Cnzagc" aria-hidden="true"></div></div></div></div></span><div class="LjfRsf" aria-hidden="true" role="button" tabindex="0" jsaction="focus:tuePCd"></div></div></div></g-dialog></div><div jsname="PHQQPc" style="display:none" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQqfkDegQIOxAH"><a jsname="NlZIeb" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQrPkDegQIOxAI"></a><a jsname="Qoiwbb" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQrvkDegQIOxAJ"></a><a jsname="IyZ18e" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQq_kDegQIOxAK"></a><a jsname="k3Pg4" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQqvkDegQIOxAL"></a></div><div jsname="qMPrxc" style="display:none" data-csrsve="177463" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQt-oKegQIOxAM"><div jsname="vOr6ad" style="display:none" data-csrsve="155781" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQhcEJegQIOxAN"></div><div jsname="LVWe7b" style="display:none" data-csrsve="155747" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ48AJegQIOxAO"></div><div jsname="WZfLqc" style="display:none" data-csrsve="155748" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ5MAJegQIOxAP"></div><div jsname="Igko6d" style="display:none" data-csrsve="158666" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQytcJegQIOxAQ"></div></div></div></div></div><div class="SPZz6b"><h2 class="qrShPb pXs6bb PZPZlf q8U8x aTI8gc EaHP9c" data-local-attribute="d3bn" data-attrid="title" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ3B0oAXoECDsQEQ"><span>डिजीलॉकर (DigiLocker)</span></h2><div class="wwUB2c PZPZlf" data-attrid="subtitle"><span data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ2kooAnoECDsQEg">सरकारी कार्यक्रम</span></div></div></div></div></div></div><div class="HsZQAe" style="border-bottom:1px solid #dadce0"></div></div><div><div class="Kot7x"><div id="kp-wp-tab-cont-overview" data-hveid="CDkQAw" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQydoBKAB6BAg5EAM"><div class="xDKLO"><div id="kp-wp-tab-overview" data-hveid="CDoQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQkt4BKAB6BAg6EAA">   <div class="TzHB6b cLjAic LMRCfc" jscontroller="nPaQu" jsaction="rcuQ6b:npT2md;jQLCKe:VimORe;" jsdata="PhoHd;_;ARHs2M" data-hveid="CEoQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ04gCKAB6BAhKEAA"><div jsname="xQjRM"><div class="sATSHe"><div><div class="yTFeqb wp-ms oJxARb nBWfrd i8qq8b" data-hveid="CEkQAA"><div class="WFxqwc OTFaAf"><div class="xGj8Mb"><div class="wDYxhc" data-md="50" style="clear:none" data-hveid="CEYQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQkCl6BAhGEAA"><div class="PZPZlf hb8SAc" data-attrid="description" data-hveid="CEYQAQ" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQziAoAHoECEYQAQ"><div jscontroller="GCSbhd" jsaction="SKAaMe:c0XUbe;rcuQ6b:npT2md"><div jscontroller="GCSbhd" class="kno-rdesc" jsaction="seM7Qe:c0XUbe;Iigoee:c0XUbe;rcuQ6b:npT2md"><div class="xf67ce" id="hseid_1"><div class="fyKPC"><div jscontroller="ZB7Jmb" style="width:max-content" data-disablecolor="#dadce0" lang="hi" jsmodel="P80Rcf" aria-label="इसे सुनें" jsdata="XDxzyc;_;ARHs2I" aria-pressed="false" role="button" tabindex="0" jsaction="h5M12e;rcuQ6b:npT2md"><div class="byBZxc lVjPIb hhqdmd" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQvP0IegQIRhAC"><span class="kXq04d hhqdmd z1asCe JKu1je"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"></path></svg></span></div><div class="mt7SKb jTjPhe hhqdmd" style="display:none" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQu_0IegQIRhAD"><span class="kXq04d hhqdmd z1asCe E9ShGc" lang="hi"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"></path></svg></span></div></div></div><div><h3 class="bNg8Rb OhScic zsYMMe BBwThe" style="clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px;z-index:-1000;-webkit-user-select:none">जानकारी</h3><span>डिजीलॉकर, एक भारतीय डिजिटलीकरण ऑनलाइन सेवा है जो इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार द्वारा अपनी डिजिटल भारत पहल के तहत प्रदान की जाती है।</span><span><span> </span><a class="ruhjFe NJLBac fl" href="https://hi.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A5%80%E0%A4%B2%E0%A5%89%E0%A4%95%E0%A4%B0" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmhN6BAhGEAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://hi.wikipedia.org/wiki/%25E0%25A4%25A1%25E0%25A4%25BF%25E0%25A4%259C%25E0%25A5%2580%25E0%25A4%25B2%25E0%25A5%2589%25E0%25A4%2595%25E0%25A4%25B0&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmhN6BAhGEAQ" target="_blank" rel="noopener">विकिपीडिया</a></span></div></div></div></div></div></div><div class="wDYxhc" data-attrid="ss:/webfacts:आकर" data-md="1001" style="clear:none" data-hveid="CEIQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQkCl6BAhCEAA"><div class="Z1hOCe"><div class="zloOqf PZPZlf" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQyxMoAHoECEIQAQ"><div class="rVusze"><span class="w8qArf"><a class="fl" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=digilocker+%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6BMoAHoECEIQAg" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6BMoAHoECEIQAg">आकार</a><span>:</span> </span><span><span class="LrzXr kno-fv wHYlTd z8gr9e">21 MB (<a class="fl" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=%E0%A4%8F%E0%A4%82%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%87%E0%A4%A1&amp;stick=H4sIAAAAAAAAAONgVuLSz9U3MCqvKEkvX8Qq8WBJ_4MlTQ-WLHywtPfBkg0PlnY-WNIO5AIA9jNYDikAAAA&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmxMoAXoECEIQAw" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmxMoAXoECEIQAw">एंड्रॉइड</a>); 62.9 MB (<a class="fl" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=%E0%A4%86%E0%A4%88%E0%A4%93%E0%A4%8F%E0%A4%B8&amp;stick=H4sIAAAAAAAAAONgVuLSz9U3MC5PyjE0WcTK_2BJ24MlHQ-WTH6wpP_Bkh0AgDvZrSAAAAA&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmxMoAnoECEIQBA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmxMoAnoECEIQBA">आईओएस</a>)</span></span></div></div></div></div><div class="wDYxhc" data-attrid="ss:/webfacts:परकर" data-md="1001" style="clear:none" data-hveid="CEAQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQkCl6BAhAEAA"><div class="Z1hOCe"><div class="zloOqf PZPZlf" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQyxMoAHoECEAQAQ"><div class="rVusze"><span class="w8qArf"><a class="fl" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=digilocker+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6BMoAHoECEAQAg" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6BMoAHoECEAQAg">प्रकार</a><span>:</span> </span><span><span class="LrzXr kno-fv wHYlTd z8gr9e">डिजिटलीकरण</span></span></div></div></div></div><div class="wDYxhc" data-attrid="ss:/webfacts:पहल_ससकरण" data-md="1001" style="clear:none" data-hveid="CD4QAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQkCl6BAg-EAA"><div class="Z1hOCe"><div class="zloOqf PZPZlf" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQyxMoAHoECD4QAQ"><div class="rVusze"><span class="w8qArf"><a class="fl" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=digilocker+%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%A3&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6BMoAHoECD4QAg" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6BMoAHoECD4QAg">पहला संस्करण</a><span>:</span> </span><span><span class="LrzXr kno-fv wHYlTd z8gr9e">दिसम्बर 2015; 7 वर्ष पहले</span></span></div></div></div></div><div class="wDYxhc" data-attrid="ss:/webfacts:लइसस" data-md="1001" style="clear:none" data-hveid="CEEQAA" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQkCl6BAhBEAA"><div class="Z1hOCe"><div class="zloOqf PZPZlf" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQyxMoAHoECEEQAQ"><div class="rVusze"><span class="w8qArf"><a class="fl" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=digilocker+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%B8&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6BMoAHoECEEQAg" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6BMoAHoECEEQAg">लाइसेंस</a><span>:</span> </span><span><span class="LrzXr kno-fv wHYlTd z8gr9e"><a class="fl" href="/search?newwindow=1&amp;sca_esv=574692167&amp;rlz=1C1VDKB_enIN1075IN1075&amp;sxsrf=AM9HkKnTE__IGNb2zVWA3Ed-I7I-pG8LTw:1697688359014&amp;q=%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0&amp;stick=H4sIAAAAAAAAAONgVuLQz9U3MDZKSVrEKvFgyeoHS3sfLNnwYGnDgyVbHyxtf7BkPZALAG50w-MnAAAA&amp;sa=X&amp;ved=2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmxMoAXoECEEQAw" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmxMoAXoECEEQAw">फ्रीवेयर</a></span></span></div></div></div></div></div></div></div></div></div></div></div>   </div></div></div></div></div><div jscontroller="P10Owf" class="YB4h9 ky4hfd" data-ekc="" lang="hi-IN" jsdata="vST7rb;_;ARHs1o" jsaction="kPzEO:MlP2je;w8f1fc:hRwSgb" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQlokGKAJ6BAg5EAQ"><span class="Job8vb z1asCe wuXmqc" aria-label="बंद करें" role="button" tabindex="0" jsaction="kEOk4d" style="height:20px;line-height:20px;width:20px" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQmIkGegQIORAF"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></span><div class="C85rO" aria-level="1" role="heading">चुनें कि आपकी शिकायत किस चीज़ के बारे में है</div><div class="Gtr0ne ApHyTb" aria-level="2" role="heading">या <a href="#" jsaction="fT3Ybb" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQl4kGegQIORAG">सामान्य फ़ीडबैक (सुझाव या शिकायत)</a> दें</div></div><div class="l3cUSd"></div></div></div><div class="rpBMYb kno-ftr"><div class="uquUgf" jscontroller="gSZvdb" lang="hi-IN" role="button" tabindex="0" jsdata="vST7rb;_;ARHs1s" jsaction="i5KCU" data-ved="2ahUKEwjg4c_8nYGCAxU2XWwGHdFMDoMQ6scEKAN6BAg5EAc"><div class="NhRr3b aBOYt"><span>सुझाव/राय दें या शिकायत करें</span></div></div></div></div></div><span class="rhstc4 rhstc5 rhs_column__rhs-column-style4 rhs_column__rhs-column-style5" style="display:none"></span><div tabindex="0" aria-hidden="true" class="focusSentinel" jsaction="focus:.CLIENT"></div><div tabindex="0" aria-hidden="true" class="focusSentinel" jsaction="focus:.CLIENT"></div></div></div>
+
+	<!-- WRAPPER -->
+	<div class="form-element">
+
+		<!-- TOP BAR -->
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form name="langChangeForm" id="langChangeForm" method="get" action="dashboard?[B@7249a429">
+	<input type="hidden" name="lang" id="langFieldId">
+</form>
+
+
+
+<script>
+
+	function changeAppLanguage(passedLang) {
+		var languageStr = "English";
+		if (passedLang == "hi_IN") {
+			languageStr = "Hindi";
+		}
+
+		$('#langPomptMsg')
+				.html(
+						"Are you sure you want to Change language to "
+								+ languageStr
+								+ "? <br/> Page will be reloaded! Please Confirm.");
+		$('#changeLanguagePromptModel').modal({
+			show : true
+		});
+
+		$('.promptTrue').unbind("click").click(function(e) {
+			//var actionUrl = window.location.pathname;
+			var actionUrl = window.location;
+			$("#langChangeForm").attr("action",actionUrl);
+			$("#langFieldId").val(passedLang);
+			$("#langChangeForm").submit();
+			//location.href = "dashboard?lang=" + passedLang;
+		});
+
+		$('.promptCancel').unbind("click").click(function(e) {
+			$('#langPomptMsg').html("");
+		});
+		return true;
+	}
+</script>
+
+<!-- Delete Confirmation Custom Prompt Start -->
+<div id="changeLanguagePromptModel" class="modal fade confirm" role="dialog">
+	<div class="modal-dialog">
+
+		<!-- Modal content-->
+		<div class="modal-content oh">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">×</button>
+				<h4 class="modal-title">Language Change Confirmation</h4>
+			</div>
+			<div class="modal-body">
+
+				<div class="col-sm-12">
+					<div class="form-group">
+						<span class="col-sm-12 text-center"><strong id="langPomptMsg"></strong></span>
+					</div>
+					<div class="col-sm-offset-5">
+						<span class="btn btn-primary promptTrue"><i class="fa fa-check-circle"></i>OK</span> <span class="btn btn-default promptCancel" data-dismiss="modal">Cancel</span>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer"></div>
+		</div>
+
+	</div>
+</div>
+<!-- Delete Confirmation Custom Prompt End -->
+ 
+<div class="top-bar">
+ 
+	<div class="container">
+
+		<div class="row">
+			<div class="col-md-12 ">
+				<div class="col-lg-4">
+					<a class="navbar-brand" href="#"><img src="resources/assets/images/Ashok_logo.png" alt="logo" class="img-logo"></a>
+					<h1 class="logotxt">
+						Government of Rajasthan
+					</h1>
+					<span class="font13">Department of Information Technology &amp; Communication</span>
+				</div>
+				<div class="col-md-4" style="border: 2px solid rgba(236, 130, 57, 0.71);font-weight: 900;border-radius: 10px 10px 10px 10px;text-align: center;color: #518DC0;margin-top: 10px;">
+				
+				<div class="col-sm-2"><a href="javascript:void(0)" onclick="$('#open-call-center-app').submit()"><img src="resources/assets/images/reg.gif"></a></div>
+				
+					
+						<div class="col-sm-10" style="font-size:12px;">0141-2922241, 0141-2922238</div>
+					
+					<div class="col-sm-12"><i class="fa fa-envelope" style="font-size:20px;float:left;padding-left:10px;padding-top:8px"></i>	<div style="font-size:11px;">service.emitra@rajasthan.gov.in helpdesk.emitra@rajasthan.gov.in utility.emitra@rajasthan.gov.in</div></div>
+				</div>
+				<div class="pull-right ">
+					<img src="resources/assets/images/emitra_logo.png">
+				</div>
+			</div>
+		</div>
+
+	<!-- Form to open Call center App Starts-->
+	<form id="open-call-center-app" action="http://103.203.138.129/emitracccwp/Login.aspx" method="post" target="_blank">
+		<input type="hidden" name="ssoid" id="ssoid" value="MANOJKUMARBALAI813">
+		<input type="hidden" name="tokenno" id="tokenno" value="K3BRUXJYRHZNaDBSSmQxQWlaZEVab0FBRFVrOTZRSGx1VE9qVnZPVy9KZ0Z2VXBnWkdqWTBOTjZQSHRMVDAyMDEyQnVRSm9rVkdXV1NCRUd0RjJGa2Vwa0RIa2M2eFlkVkZwN254Y3U1RzJoZnFRVEJxTjFZc2FRelBoUnFER2t1QkRPa1dyOFkveW5Ka1BLZ3owZlNUdE94OVhFbHFURTNDa01ESDU3WXUyRmp5b1Z3NGZLVmVMQ2NpZGFzd2Z3">
+		<input type="hidden" name="entitycode" id="entitycode" value="K12290269">
+		<input type="hidden" name="role" id="role" value="LSPKIOSK">
+		<input type="hidden" name="entityName" id="entityName" value="MANOJ KUMAR BALAI">
+		<input type="hidden" name="entityAddress" id="entityAddress" value="BHARAT NIRMAN RAJIV GANDHI SEWA KENDRA">
+		<input type="hidden" name="lspnameId" id="lspnameId" value="490">
+	</form>
+	<!-- Form to open Call center App Ends-->
+
+		<div class="row notificationbar clearfix" style="min-height: 40px;">
+			<div class="col-md-2 ">
+				
+					<div class="sidebar-minified js-toggle-minified" style="height: 0px;">
+						<i class="fa fa-bars"></i>
+
+					</div>
+				
+			</div>
+
+
+			<form method="post" action="backToSso" id="backToSsoFormId">
+			</form>
+
+			<form method="post" action="invalidate" id="logOutSsoFormId">
+			</form>
+
+			<div class="col-md-10">
+				<!-- <h4 style="position: absolute;margin-top: 0px;">
+					<a style="color:white;text-decoration: underline" href="https://emitraapp.rajasthan.gov.in/emitrashared/download/Helpdesk_e-Mitra_V9.pdf" target="_blank">Helpline Numbers <i class="fa fa-download"></i></a>
+					&nbsp;
+					<a style="color:white;text-decoration: underline" href="https://emitraapp.rajasthan.gov.in/emitrashared/download/Kiosk_Service_Guideline.pdf" target="_blank">Kiosk Service Guideline <i class="fa fa-download"></i></a>
+				</h4> -->
+	
+	
+				<marquee direction="left" scrollamount="5" scrolldelay="2" class="NewsClass">
+					<span id="headerMarqueeMsg" class="headerMarqueeMsg feed">16-Oct-2023 03:20 PM:-प्रिय ई मित्र कियोस्क धारक, GAYATARI EVERTECH SOLUTIONS PVT LTD विभाग की "ELECTRICITY BILL PAYMENT-POWERED by PJ BILLS" सेवा ई मित्र पोर्टल पर प्रारंभ कर दी गई है। इस सेवा  हेतु कियोस्क को बिजली बिल राशि का 0.30% कमीशन प्राप्त होगा। इस सेवा से संबंधित किसी भी समस्या के लिए निम्न नंबर एवं ई मेल पर संपर्क कर सकते है:-9509069050, Pjbillhelp@gmail.com
+
+
+12-Oct-2023 12:55 PM:- प्रिय E-MITRA साथियों नमस्कार.... PAYTHROUGH आपके लिए लाई है बेहतर रिचार्ज Facility 🥳🥳🥳🥳🥳🥳🥳🥳🥳
+E-MITRA पोर्टल पर मोबाइल रिचार्ज 📱 के लिए हमें संपर्क करें:-
+1. VI/ JIO/ AIRTEL/ BSNL की रिचार्ज के लिए PAYTHROUGH रिचार्ज को ही चुनें।
+2. टोकन कैंसिलेशन के लिए support@paythrough.in पर mail 💌 करें।
+3. रिचार्ज से संबंधित किसी भी समस्या के लिए 8298537537 पर तुरंत संपर्क करें या whatsapp करें। ☺️
+4. अपने कीमती सुझाव या अनुभव हमारे टीम के साथ 8298537537 पर whatsapp के जरिए साझा करें। 
+5. अपना #support 🤝team paythrough के साथ बनाए रखें।
+
+09-Oct-2023 11:35 AM:-प्रिय ईमित्र कियोस्कधारक, चॉइस नवरात्रि  धमाका कॉन्टेस्ट
+प्रिय KIOSK धारक आप जीत सकते है Amazon Voucher और 100 ग्राम चांदी के सिक्के 
+इसके लिए आपको केवल चॉइस के डीमैट अकाउंट में निवेश करवाना है😃 
+Choice  डीमैट अकाउंट जीरो  टोकन चार्ज पर खोले जाते है  : 0/- 
+
+न्यूनतम 5 डीमैट अकाउंट पर अतिरिक्त 1250 रुपये कमाने का मौका | 
+
+
+उदहारण KIOSK के लिए :
+✅डीमैट अकाउंट ऑफर  
+1)  5 डीमैट  अकाउंट, KIOSK को कमीशन 150*5=750  रुपये एवं अक्टूबर ऑफर में पहला निवेश हर खाते में 1500 रुपये का कराये और जीते  500  रुपए  Amazon Voucher, कुल आय = 1250 रुपये
+2)  50 डीमैट अकाउंट,  KIOSK को कमीशन 150*50 =7500 रुपये एवं अक्टूबर ऑफर पहला निवेश हर खाते में 1500 रुपये का कराये और जीते 100 ग्राम चांदी का  सिक्का। 
+ 👉 नोट :-उपरोक्त खातों को खोलना एवं उनमे निवेश करना अनिवार्ये है
+        :डीमैट अकाउंट में न्यून्तम  1500  रुपये का  निवेश।  
+: अधिक जानकारी के लिए संपर्क करे :6350234013 ,7740998453,�7374870184
+
+04-Oct-2023 06:01 PM:- प्रिय ई मित्र किओस्क धारक, �Sihag Rural Market Private Limited� विभाग की  �Digistall- your gateway to e-commerce� सेवा ई मित्र पोर्टल पर प्रारंभ कर दी गई है। इस सेवा के माध्यम से आप बिना कोड के अपने नजदीकी व्यवसाय की वेबसाइट बना सकते हैं | इसमें कियोस्क को प्रति ट्रांजेक्शन कमीशन - Rs 1200 / - मिलेगा। 
+
+इस सेवा के संबंध में किसी भी प्रकार की सहायता के लिए हेल्पलाइन नंबर- 9461852060 पर संपर्क कर सकते है।
+
+03-Oct-2023 04:45 PM:- प्रिय ई मित्र किओस्क धारक, आवास फाइनेंसियर्स लिमिटेड, होम लोन कम्पनी की "आवास होम लोन लीड जनरेशन" को सेवाएं अब ई मित्र पर उपलब्ध है। आज से ही "आवास होम लोन लीड"दर्ज करना शुरू करें। अधिक जानकारी के लिए आवास ई मित्र पोर्टल लॉगिन करे या हेल्पडेस्क पर संपर्क करे :01413537890 
+
+नोट : "आवास होम लोन लीड जनरेशन" को सेवाएं करोली,धौलपुर, जैसलमेर को छोड़ कर सभी जिलों में उपलब्ध हैं।
+
+01-Oct-2023 02:04 PM:-प्रिय ई मित्र कियोस्क धारक, "Department of Labour" की "Gig Workers Registration" की सेवाएं ई मित्र पोर्टल पर प्रारंभ कर दी गई है।
+
+27-Sep-2023 11:04 AM:-प्रिय ई मित्र कियोस्क धारक,  कृपया कुछ क्षण निकालकर NeSDA द्वारा आयोजित नागरिक सर्वेक्षण में भाग लें। ई-मित्र की राष्ट्र स्तर पर पहचान बनाने के लिए आप का इस सर्वेक्षण में भाग लेना महत्वपूर्ण है।
+
+सर्वेक्षण में भाग लेने के लिए निचे दिए गए लिंक पर क्लिक करें : 
+https://nesda.centralindia.cloudapp.azure.com/#/citizen-survey
+
+20-Sep-2023 05:55 PM:-प्रिय ई मित्र कियोस्क धारक, ई मित्र पर उपलब्ध Discom K no Electricity bill pay  (बिजली बिल जमा सेवा) के अतरिक्त किसी अन्य सर्विस  (B2C Partner) से बिजली बिल जमा करने पर रशीद निरस्त करने का प्रावधान नहीं है |
+
+12-Sep-2023 11:56 AM:-प्रिय ई मित्र कियोस्क धारक, ई-मित्र के माध्यम से शाइन ओलंपियाड के फॉर्म भर और जीते आकर्षक इनाम जैसे की कार, मोटरसाइकिल, स्कूटी, लैपटॉप, कलर प्रिंटर, चांदी का सिक्का, स्मार्टफोन आदि। ऑफर 30 सितंबर तक लागू है।
+ऑफर 21 अगस्त से शुरू हो चूका है और 30 सितम्बर 2023 तक रहेगा।
+300/- रूपये का टोकन और रुपये हर ओलंपियाड पर 99/- कमीशन 
+कक्षा 1 से 12 तक स्कूल जाने वाले प्रत्येक छात्र को दिया जा सकता है। 
+पूरी जानकारी के लिए Utility में Shine Olympiad टाइप कर सर्विस पर क्लिक करें। या दिए गए नंबर पर कॉल/व्हाट्सप्प करें। 
++91-8448553963
+
+23-Aug-2023 11:00 AM:- प्रिय ई-मित्र कियोस्कधारक, कियोस्क के लिये Grievance Module प्रारम्भ किया जा रहा है, विभाग द्वारा ईमित्र पोर्टल पर आने वाले समस्याओ  से सम्बंधित केटेगरी बना दी गयी है आप निम्न लिंक से यूजर मैन्युअल / ईमित्र पोर्टल के डाउनलोड सेक्नशन से डाउन लोड कर सकते है, 
+https://emitraapp.rajasthan.gov.in//emitrashared_2023/USER_MGMT_DOCS/GUIDELINE_AND_EFORM/2023/8/23/GAndE_1692767690518.pdf
+आप अपनी समस्याओं के लिए Grievance Module से ही अपनी समस्या बता पायेंगे |    </span>
+				</marquee>
+
+
+				<div class="top-bar-right">
+					<!-- responsive menu bar icon -->
+					<a href="#" class="hidden-md hidden-lg main-nav-toggle"><i class="fa fa-bars"></i></a>
+					<div class="notifications">
+						<ul>
+							
+							<li class="notification-item inbox"><a href="javascript:void(0)" onclick="location.href='dashboard?[B@b996ccc1'" title="Dashboard"><i class="fa fa-home white"></i></a></li>
+							
+							<!-- Start notification: inbox -->
+							 <li class="notification-item general">
+								<div class="btn-group">
+									<a href="javascript:void(0)" onclick="location.href='myInternalMessages'" class="dropdown-toggle" data-toggle="dropdown">
+										<i class="fa fa-envelope"></i>
+										<!-- <span class="count hide-service" id="unreadCounterSpan">0</span> 
+										<span class="circle"></span> -->
+									</a>
+									<!-- <ul class="dropdown-menu" role="menu">
+										<li><a href="javascript:void(0)" style="cursor:default"> <i class="fa fa-envelope-o" style="color:#EC8239"></i> <span class="text" style="color:black">Unread Message</span> <span class="timestamp" style="color:black" id="unreadCountSpan">0</span> </a></li>
+										<li><a href="javascript:void(0)" style="cursor:default"> <i class="fa fa-folder-open-o" style="color:#EC8239"></i> <span class="text" style="color:black">Total Messages</span> <span class="timestamp" style="color:black" id="totalCountSpan">0</span> </a></li>
+										<li class="notification-footer"><a href="myInternalMessages">View All Messages</a></li>
+									</ul> -->
+								</div>
+							</li>  
+							<!-- end notification: inbox -->
+							
+							
+							
+						</ul>
+					</div>
+
+					<!-- logged user and the menu -->
+					<div class="logged-user">
+						<div class="btn-group" style="margin-right: 33px;">
+							<a href="#" class="btn btn-link dropdown-toggle" data-toggle="dropdown"> 
+									
+									
+										<img src="resources/assets/images/user-avatar.png" alt="User Avatar" style="float:left; padding-right: 2px;">
+									
+								 
+								<span class="name" style="line-height: 13px; float:left;"> 
+								
+										MANOJKUMARBALAI813
+									
+							</span> 
+							<br>
+						<span style="font-size:10px;"> LSP KIOSK ADMIN</span>
+							
+							
+							
+							
+							<span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu" role="menu">
+								
+								
+								<li><a href="javascript:void(0)" onclick="$('#backToSsoFormId').submit()"> <i class="fa fa-home"></i> <span class="text">Back to SSO</span></a></li>
+								<li><a href="javascript:void(0)" onclick="$('#logOutSsoFormId').submit()"> <i class="fa fa-power-off"></i> <span class="text">Logout</span></a></li>
+							</ul>
+						</div>
+					</div>
+					
+					
+					
+					<a class="btn-sm btn-success hide-service engLangShow" href="javascript:void(0)" onclick="changeAppLanguage('en')" style="display: none;">A</a> 
+					<a class="btn-sm btn-success hinLangShow" href="javascript:void(0)" onclick="changeAppLanguage('hi_IN')">अ</a>
+					
+
+					<!-- end logged user and the menu -->
+
+
+				</div>
+				<!-- /top-bar-right -->
+
+
+
+			</div>
+		</div>
+		<!-- /row -->
+	</div>
+	<!-- /container -->
+</div>
+
+	
+<input type="hidden" id="currentTodayDate" name="time" value="2023-10-19"> 
+										
+<script>
+
+// A more cryptic one-liner, to awe & impress.
+//
+// No need to protect `window` since `this` is
+// immutable, and at the topmost level means
+// `window` anyways. Here, we compare locations
+// on the left side of the "&&" and execute the
+// code in parenthesis if that condition is
+// true (top location isn't iframe location).
+//
+// Otherwise, nothing happens. It's basically an
+// if statement without wrapping curly brackets.
+//
+// Weird, I know. But pretty cool, right? :)
+
+
+this.top.location !== this.location && (this.top.location = this.location);
+
+
+	var curUrl = location.href;		
+	curUrl = curUrl.substring(0,curUrl.indexOf('?'));
+	if(location.href.indexOf("lang")==-1 && curUrl.indexOf("availServiceEform") != -1){
+		$("#langChangeForm").attr("action",curUrl + "?[B@f8145aee");
+		$("#langFieldId").val("hi_IN");
+		$("#langChangeForm").submit(); 
+	}
+
+
+</script>
+
+		<!-- /TOP BAR -->
+
+		<!-- BOTTOM: LEFT NAV AND RIGHT MAIN CONTENT -->
+		<div class="bottom">
+			<div class="container">
+				<div class="row">
+
+					<!-- left sidebar -->
+					<div class="col-md-2 left-sidebar" style="min-height: 751px;">
+
+						<!-- main-nav -->
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav class="main-nav">
+		<ul class="main-menu" id="menuList">
+
+			<li class="forActive active">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-dashboard fa-fw"></i><span class="text">Home</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb active" style="display:block">
+
+
+
+				<li class="active"> <a href="dashboard?[B@8fe10210" class="forBreadcrumb"><span class="text">Dashboard</span></a> </li>
+
+				</ul>
+			</li>
+
+				
+
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-check-circle fw"></i><span class="text">Services </span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+
+					<li> <a href="kioskTransactionList?[B@3f41e76" class="forBreadcrumb"><span class="text">Transaction History</span></a> </li>
+
+
+					<li> <a href="receiptNoWiseSearch?[B@653c631f" class="forBreadcrumb"><span class="text">Receipt Reprint</span></a> </li>
+
+
+					<li> <a href="verifyTransaction?[B@66af39a3" class="forBreadcrumb"><span class="text">Verify Pending Transactions</span></a> </li>
+
+
+					<li> <a href="serviceWorkflowForKioskAndCitizen?[B@d7897cd4" class="forBreadcrumb"><span class="text">Service Workflow For Application Services</span></a> </li>
+
+
+					<li> <a href="tokenNoWiseSearchJioOtp?[B@509c7d97" class="forBreadcrumb"><span class="text">Check Jio OTP</span></a> </li>
+
+
+					<li> <a href="pmMaandhanMobReg?[B@1db2385c" class="forBreadcrumb"><span class="text">Mobile Registration For Maandhan Services</span></a> </li>
+
+
+					<li> <a href="irctcAgentRegistrationForm?[B@afe96c7d" class="forBreadcrumb"><span class="text">Irctc Agent Registration Form</span></a> </li>
+
+
+					<li> <a href="airtelPrePaid?[B@fc92a06a" class="forBreadcrumb"><span class="text">Airtel Pre Paid Recharge</span></a> </li>
+
+
+					<li> <a href="hindonUniversityServiceForm?[B@56ef3849" class="forBreadcrumb"><span class="text">Government College Hindaun Fee Deposition</span></a> </li>
+
+
+					<li> <a href="karauliUniversityServiceForm?[B@afcc51d6" class="forBreadcrumb"><span class="text">KARAULI COLLEGE FEE</span></a> </li>
+
+
+					<li> <a href="duplicateJamabandiSearch?[B@232db7a3" class="forBreadcrumb"><span class="text">Jamabandi Reprint</span></a> </li>
+
+					<li> <a href="javascript:void(0)" class="js-sub-menu-toggle"> <i class="fa fa-user fw"></i><span class="text">Avail Service</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+						<ul class="sub-menu">
+
+						<li> <a href="availService?[B@e5c1a659" class="forBreadcrumb"><span class="text">Utility</span></a> </li>
+
+						<li> <a href="availServiceEform?[B@d88c110" class="forBreadcrumb"><span class="text">Application</span></a> </li>
+
+							
+						</ul>
+					</li>
+
+				</ul>
+			</li>
+
+				
+
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-pie-chart fw"></i><span class="text">Financial </span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+
+					<li> <a href="reconcileFincTransaction?[B@a0c61e86" class="forBreadcrumb"><span class="text">Reconcile Finance Transactions</span></a> </li>
+
+					<li> <a href="javascript:void(0)" class="js-sub-menu-toggle"> <i class="fa fa-user fw"></i><span class="text">Wallet</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+						<ul class="sub-menu">
+
+						<li> <a href="walletDetails?[B@800afd82" class="forBreadcrumb"><span class="text">Wallet Details</span></a> </li>
+
+						<li> <a href="payoutFundForm?[B@da0bfc77" class="forBreadcrumb"><span class="text">Fund Payout</span></a> </li>
+
+						<li> <a href="refillForm?[B@4acb31dc" class="forBreadcrumb"><span class="text">Refill</span></a> </li>
+
+							
+						</ul>
+					</li>
+
+				</ul>
+			</li>
+
+				
+
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-user fw"></i><span class="text">User Management </span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+
+					<li> <a href="updateKioskDetails?[B@f2359ebe" class="forBreadcrumb"><span class="text">Kiosk Details</span></a> </li>
+
+
+					<li> <a href="gspKioskNomination?[B@76541b27" class="forBreadcrumb"><span class="text">GSP Kiosk Nomination</span></a> </li>
+
+
+					<li> <a href="getKioskIDCard?[B@377b8320" class="forBreadcrumb"><span class="text">id card</span></a> </li>
+
+					<li> <a href="javascript:void(0)" class="js-sub-menu-toggle"> <i class="fa fa-user fw"></i><span class="text">Manage User</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+						<ul class="sub-menu">
+
+						<li> <a href="createKioskUser?[B@54cfa785" class="forBreadcrumb"><span class="text">Create Kiosk User</span></a> </li>
+
+						<li> <a href="kioskMigrationRequest?[B@c837798a" class="forBreadcrumb"><span class="text">Request Migration</span></a> </li>
+
+						<li> <a href="kioskUserPoliceVerification?[B@222927c8" class="forBreadcrumb"><span class="text">Kiosk User Police Verification</span></a> </li>
+
+							
+						</ul>
+					</li>
+
+				</ul>
+			</li>
+
+				
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-wrench fw"></i><span class="text">Tool Management</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+
+
+				<li> <a href="viewAllFavActivities?[B@39570aa0" class="forBreadcrumb"><span class="text">Favorite Pages</span></a> </li>
+
+				</ul>
+			</li>
+
+				
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-clipboard fa-fw"></i><span class="text">Inbox</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+
+
+				<li> <a href="viewMyInbox?[B@88627f2" class="forBreadcrumb"><span class="text">View Inbox</span></a> </li>
+
+				</ul>
+			</li>
+
+				
+
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-taxi"></i><span class="text">Travel </span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+					<li> <a href="javascript:void(0)" class="js-sub-menu-toggle"> <i class="fa fa-train"></i><span class="text">IRCTC</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+						<ul class="sub-menu">
+
+						<li> <a href="booking?[B@b7d2fbd3" class="forBreadcrumb"><span class="text">Book Train Ticket</span></a> </li>
+
+						<li> <a href="irctcBookingTicketHistory?[B@919b796d" class="forBreadcrumb"><span class="text">Ticket Booking History</span></a> </li>
+
+						<li> <a href="irctcTicketCancelHistory?[B@2a58d1a4" class="forBreadcrumb"><span class="text">Cancel Ticket History</span></a> </li>
+
+						<li> <a href="irctcFileTdr?[B@494d00b7" class="forBreadcrumb"><span class="text">File TDR</span></a> </li>
+
+							
+						</ul>
+					</li>
+
+				</ul>
+			</li>
+
+				
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-dashboard fa-fw"></i><span class="text">PAN Card - Protean(NSDL)</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+
+
+				<li> <a href="https://emitraapp.rajasthan.gov.in/nsdlapi/oauth/login/?token=K3BRUXJYRHZNaDBSSmQxQWlaZEVab0FBRFVrOTZRSGx1VE9qVnZPVy9KZ0Z2VXBnWkdqWTBOTjZQSHRMVDAyMDEyQnVRSm9rVkdXV1NCRUd0RjJGa2Vwa0RIa2M2eFlkVkZwN254Y3U1RzJoZnFRVEJxTjFZc2FRelBoUnFER2t1QkRPa1dyOFkveW5Ka1BLZ3owZlNUdE94OVhFbHFURTNDa01ESDU3WXUyRmp5b1Z3NGZLVmVMQ2NpZGFzd2Z3" class="forBreadcrumb"><span class="text">PAN Card Service</span></a> </li>
+
+				</ul>
+			</li>
+
+				
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-user fw"></i><span class="text">Bank-BC</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+
+
+				<li> <a href="https://emitraapp.rajasthan.gov.in/bankbcapi/oauth/login/?token=K3BRUXJYRHZNaDBSSmQxQWlaZEVab0FBRFVrOTZRSGx1VE9qVnZPVy9KZ0Z2VXBnWkdqWTBOTjZQSHRMVDAyMDEyQnVRSm9rVkdXV1NCRUd0RjJGa2Vwa0RIa2M2eFlkVkZwN254Y3U1RzJoZnFRVEJxTjFZc2FRelBoUnFER2t1QkRPa1dyOFkveW5Ka1BLZ3owZlNUdE94OVhFbHFURTNDa01ESDU3WXUyRmp5b1Z3NGZLVmVMQ2NpZGFzd2Z3" class="forBreadcrumb"><span class="text">Bank BC</span></a> </li>
+
+				</ul>
+			</li>
+
+				
+
+			<li class="forActive">
+				<a href="javascript:void(0)" class="js-sub-menu-toggle"><i class="fa fa-dashboard fa-fw"></i><span class="text">Grievance Module</span> <i class="toggle-icon fa fa-angle-left"></i> </a>
+				<ul class="sub-menu nonBreadcrumb">
+
+
+
+				<li> <a href="https://emitraapp.rajasthan.gov.in/grievanceapi/oauth/login/?token=K3BRUXJYRHZNaDBSSmQxQWlaZEVab0FBRFVrOTZRSGx1VE9qVnZPVy9KZ0Z2VXBnWkdqWTBOTjZQSHRMVDAyMDEyQnVRSm9rVkdXV1NCRUd0RjJGa2Vwa0RIa2M2eFlkVkZwN254Y3U1RzJoZnFRVEJxTjFZc2FRelBoUnFER2t1QkRPa1dyOFkveW5Ka1BLZ3owZlNUdE94OVhFbHFURTNDa01ESDU3WXUyRmp5b1Z3NGZLVmVMQ2NpZGFzd2Z3" class="forBreadcrumb"><span class="text">Grievance</span></a> </li>
+
+				</ul>
+			</li>
+
+				
+
+
+		</ul>
+	</nav>
+	
+
+
+
+
+
+
+
+
+
+						<!-- /main-nav -->
+
+						<!-- sidebar content -->
+						
+						<!-- end sidebar content -->
+
+					</div>
+					<!-- end left sidebar -->
+
+					<!-- content-wrapper -->
+					<div class="col-md-10 content-wrapper">
+
+						
+
+						<div class="row">
+							<!-- Start-breadcrumb -->
+							<div class="col-md-2 col-sm-4">
+								
+
+
+	
+
+
+<ul class="breadcrumb">
+	
+		<li><i class="fa fa-home"></i><a href="dashboard?[B@52abcadd">Dashboard</a></li>
+		
+</ul>
+
+
+							</div>
+
+
+							<!-- Show it to LSP and Kiosk Only Starts -->
+							
+
+
+							<div class="col-md-10 ">
+								<div class="top-content">
+									<ul class="list-inline mini-stat">
+										<li class="category">
+											<h5>
+											
+												You Are Under Category
+												
+												
+												
+												
+												
+												
+													<span class="stat-value stat-color-blue">C</span>
+												
+											</h5>
+										</li>
+										<li class="wallet">
+											<h5>
+												WALLET
+												<span class="stat-value stat-color-orange"><i class="fa fa-money"></i> 219.66</span>
+											</h5>
+										</li>
+										<li class="advance">
+											<h5>
+												ADVANCE
+												<span class="stat-value stat-color-blue"><i class="fa fa-inr"></i> 219.66</span>
+											</h5>
+										</li>
+										<li class="creditLimit">
+											<h5>
+												CREDIT LIMIT
+												<span class="stat-value stat-color-seagreen"><i class="fa fa-credit-card"></i> 0.00</span>
+											</h5>
+										</li>
+
+										
+
+										
+											<li class="dues">
+												<h5>
+													DUES
+													<span class="stat-value stat-color-seagreen" id="trigger"><i class="fa fa-minus-square"></i> 0.00</span>
+												</h5>
+											</li>
+
+
+
+
+										
+
+
+
+
+									</ul>
+									
+									
+									<div class="btn-group col-sm-2 pull-right">
+											<a style="width: 93%;" href="refillForm?[B@7a33d63" class="btn btn-primary"> <i class="fa fa-link"></i> Refill Wallet</a>
+											
+										</div>
+									
+									
+									
+									
+										
+									
+								</div>
+							</div>
+							
+							
+							<!-- Show it to LSP and Kiosk Only Stop -->
+							<!-- End-breadcrumb -->
+						</div>
+						<div class="row">
+							
+							
+
+	
+	
+	&nbsp;
+	
+							
+						</div>
+
+						<div class="content">
+
+							<div class="content">
+
+								<div class="main-content">
+								
+								
+									
+																		
+								
+									
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+span#blinkText {
+	-moz-animation-duration: 400ms;
+	-moz-animation-name: blink;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+	-webkit-animation-duration: 400ms;
+	-webkit-animation-name: blink;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+	animation-duration: 400ms;
+	animation-name: blink;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+@
+-moz-keyframes blink {from { opacity:1;
+	
+}
+
+to {
+	opacity: 0;
+}
+
+}
+@
+-webkit-keyframes blink {from { opacity:1;
+	
+}
+
+to {
+	opacity: 0;
+}
+
+}
+@
+keyframes blink {from { opacity:1;
+	
+}
+
+to {
+	opacity: 0;
+}
+
+}
+.rotateText {
+	color: red;
+	font-weight: 900;
+	float: left;
+	position: relative;
+	width: 50px;
+	border-style: none;
+	font-size: 20px;
+	-webkit-transform: rotate(320deg);
+	-moz-transform: rotate(320deg);
+	-ms-transform: rotate(320deg);
+	-o-transform: rotate(320deg);
+	transform: rotate(320deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+#kiosklinks li{
+	
+	border-bottom:1px dashed #f1f1f1; 
+	padding:10px;
+	margin:1px;
+	text-align:left;
+
+	
+}
+
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 0px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+
+
+</style>
+
+
+
+	<!-- <div class="widget widget-hide-header" id="services">
+		<div class="row list-unstyled todo-list" id="service-drag">
+		
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-mobile" id="0001"></i></span>
+				<p class="text-center">Recharge</p>
+			</div>
+		
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-credit-card" id="0002"></i></span>
+				<p class="text-center">Bill Pay</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-inr"></i></span>
+				<p class="text-center">Fee Pay</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-book"></i></span>
+				<p class="text-center">Education</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-th"></i></span>
+				<p class="text-center">Application</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-umbrella"></i></span>
+				<p class="text-center">Insurance</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"> <i class="fa fa-ticket"></i></span>
+				<p class="text-center">Ticket</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"> <i class="fa fa-mobile"></i></span>
+				<p class="text-center">Recharge</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-book"></i></span>
+				<p class="text-center">Education</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-th"></i></span>
+				<p class="text-center">Application</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-umbrella"></i></span>
+				<p class="text-center">Insurance</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-ticket"></i></span>
+				<p class="text-center">Ticket</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-mobile"></i></span>
+				<p class="text-center">Recharge</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-book"></i></span>
+				<p class="text-center">Education</p>
+			</div>
+		
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-umbrella"></i></span>
+				<p class="text-center">Insurance</p>
+			</div>
+			<div class="service-box">
+				<span class="handle"><i class="fa fa-ticket"></i></span>
+				<p class="text-center">Ticket</p>
+			</div>
+		
+		
+		
+		
+		</div>
+		
+		<div class="servic-data" id="servic-data1">
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/airtel.jpg" class="imgicon"></i></a>
+				<p class="text-center">Airtel</p>
+			</div>
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/rel.jpg" class="imgicon"></i></a>
+				<p class="text-center">Reliance</p>
+			</div>
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/idea.jpg"></i></a>
+				<p class="text-center">Idea</p>
+			</div>
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/bsnl.jpg" class="imgicon"></i></a>
+				<p class="text-center">BSNL</p>
+			</div>
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/aircel.jpg"></i></a>
+				<p class="text-center">Aircel</p>
+			</div>
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/vodafone.jpg" class="imgicon"></i></a>
+				<p class="text-center">Vodafone</p>
+			</div>
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/MTS.jpg"></i></a>
+				<p class="text-center">MTS</p>
+			</div>
+		
+		</div>
+		
+		<div class="servic-data" id="servic-data2">
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/dish.jpg"></i></a>
+				<p class="text-center">Dish Tv</p>
+			</div>
+		
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/tatasky.jpg"></i></a>
+				<p class="text-center">Vodafone</p>
+			</div>
+		
+			<div class="service-box">
+				<a href="services.html" target="_blank"><i><img
+						src="resources/assets/icons/videocon.jpg"></i></a>
+				<p class="text-center">MTS</p>
+			</div>
+		
+		</div>
+	</div> -->
+
+<!-- Citizen Pending Bill Table 
+<div class="col-md-4 pendingBills">
+	<div class="widget">
+		<div class="widget-header">
+			<h3></h3>
+			<ul id="pendingBillsid" class="nav nav-tabs pull-right">
+				<li class="active"><a href="#serviceTab" data-toggle="tab"><i class="fa fa-user"></i>Services</a></li>
+				<li><a href="#recentLog" onclick="buildRecentLogChart()" data-toggle="tab"><i class="fa fa-pie-chart"></i> Recent Log</a></li>
+				<li><a href="#myLspCoordinator" onclick="getMyLspCoordinator()" data-toggle="tab">LSP Contact</a></li>
+				<li><a href="#pendingBills" data-toggle="tab"><i class="fa fa-user"></i>Pending Bills</a></li> 
+			</ul>
+
+		</div>
+		<div class="widget-content data-graph-mar ">
+			<div class="tab-content no-padding" style="min-height: 220px;">
+				<div class="tab-pane fade in" id="pendingBills">
+					<table class="table table-striped table-hover no-padding no-margin">
+						<thead>
+							<tr>
+								<th><input type="checkbox"></th>
+								<th>Label</th>
+								<th>Amount</th>
+								<th class="text-center">Action</th>
+							</tr>
+						</thead>
+						<tbody>
+							<!-- <tr>
+               <td><input type="checkbox"></td>
+                 <td>Home</td>
+                 <td>5000.00</td>
+                 <td class="text-center"><div class="label label-low">ViewBill</div></td>
+               </tr>
+               
+                  <tr>
+                   <td><input type="checkbox"></td>
+                 <td>Landline Bill</td>
+                 <td>2000.00</td>
+                 <td class="text-center"><span class="lablefix label-low">ViewBill</span></td>
+               </tr>
+               
+                   <tr>
+                   <td><input type="checkbox"></td>
+                 <td>Service Bill</td>
+                 <td>4000.00</td>
+                 <td class="text-center"><span class="lablefix label-low">ViewBill</span></td>
+               </tr> 
+
+							<tr>
+								<td colspan="4">No Record Found!</td>
+							</tr>
+
+						</tbody>
+					</table>
+
+					<!-- <button class="btn btn-custom-secondary col-sm-offset-5" data-toggle="modal" data-target="#myModal"><i class="fa fa-rupee"></i> PayNow</button>
+           <label class=" label label-danger more col-sm-offset-9">View More</label> 
+
+				</div>
+				<div class="tab-pane fade in" id="recentLog"
+					style="text-align: center">
+					<i class="fa fa-refresh" id="refreshIcon"
+						style="font-size: 49px; z-index: 9999; margin-top: 20%"
+						onclick="buildRecentLogChart()"></i>
+					<!-- <i class="fa fa-pie-chart" id="dummyPie" aria-hidden="true" style="font-size:200px;opacity:0.2;"></i> 
+					<div id="chartContainersss" class="hide-service"
+						style="width: 300px; height: 200px;"></div>
+
+				</div>
+				
+				<div class="tab-pane fade in" id="myLspCoordinator" style="height:280px;overflow: auto">
+				No Record Found!
+				</div>
+				
+				
+				
+				<div class="tab-pane fade in active" id="serviceTab">
+				<ul>
+					
+						<li id="utilLi"><a class="forBreadcrumb" href="availService?[B@7857913e">Utility</a></li>
+						<li id="appLi"><a class="forBreadcrumb" href="availServiceEform?[B@2ef07f81">Application</a></li>
+					
+					</ul>
+				</div>
+				<div class="tab-content no-padding col-sm-12">
+					<a href="#" class="dropdown-toggle btn btn-custom-secondary" onclick="initateCerficatePrinting('K12290269')">Download Certificate</a>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+<!--/ Citizen Pending Bill Table -->
+
+
+<!-- WIDGET TABBED CONTENT -->
+<div class="col-sm-12 tabkisok">
+
+	<div class="widget">
+		<div class="widget-header">
+			<a href="#" class="dropdown-toggle btn btn-custom-secondary" onclick="initateCerficatePrinting('K12290269')">Download Certificate</a>
+			
+			<ul id="navtabs" class="nav nav-tabs pull-right">
+				<!--<li><a href="#welcomeEmitra" data-toggle="tab"><i
+						class="fa fa-home"></i> Message Board</a></li>-->
+				<li><a href="#pendingApprovel" onclick="loadUserPendingApproval()" data-toggle="tab"><i class="fa fa-star-half-o"></i> Action request</a></li>
+				<li class="active"><a href="#QuickPayDiv" data-toggle="tab" onclick="getQuickPayApps()"><i class="fa fa-user"></i>Quick Services</a></li>
+				<li><a href="#FS" data-toggle="tab"><i class="fa fa-thumbs-up"></i> Favorite Service</a></li>
+				<li><a href="#FP" onclick="loadUserFavPages()" data-toggle="tab"><i class="fa fa-thumbs-o-up"></i> Favorite Pages</a></li>
+
+
+			</ul>
+			
+		</div>
+		<div class="widget-content" style="padding: 3px 10px;">
+			<div class="tab-content no-padding" style="min-height: 220px; overflow: hidden;">
+
+				<div class="tab-pane fade" id="welcomeEmitra">
+					<div class="col-sm-12">
+						<div class="container text-center">
+						
+
+								
+							
+						</div>
+					</div>
+				</div>
+
+				<div class="tab-pane fade in active" id="QuickPayDiv">
+				
+				<div class="widget" style="border:none; padding:0; margin:0;">
+
+				<div class="widget-content" style="padding:2px;" id="QuickPay">				
+					 
+					 
+				</div>
+
+				<div class="widget-footer text-right" style="padding: 3px;">				
+				<a style="background-color: #ec8239; border-color: #e49626;" href="availServiceEform?[B@1488302a" class="btn btn-warning"> <i class="fa fa-newspaper-o"></i> Application Type Services</a>	
+				
+				
+				<a class="btn btn-primary" href="availService?[B@b94c3e6c"> <i class="fa fa-cubes"></i> Utility Type Services</a>					
+					 
+				</div>					
+					
+					
+					
+				</div>
+				</div>
+				
+				
+				
+				<div class="tab-pane fade" id="FS">
+					<ul id="dragdrop-todo" class="list-unstyled todo-list ui-sortable">
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>Bhamashah Enrollment, Seeding, Secondary Entry</strong><a href="availService?favSrvId=1248"><span class="label label-danger">Open</span></a> </p>
+                          </li>
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>New Ration Card Form Filling (Form 1)</strong><a href="availService?favSrvId=1622"><span class="label label-danger">Open</span></a> </p>
+                          </li>
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>Ration Card Add Name/ Deletion Of Name/ Correction (Form - 4)</strong><a href="availService?favSrvId=1642"><span class="label label-danger">Open</span></a> </p>
+                          </li>
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>Ration Card Cancellation (Form - 5)</strong><a href="availService?favSrvId=1643"><span class="label label-danger">Open</span></a> </p>
+                          </li>
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>Ration Card Transfer to other Village/ BDO/ District (Form - 7)</strong><a href="availService?favSrvId=1644"><span class="label label-danger">Open</span></a> </p>
+                          </li>
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>Duplicate Ration Card (Form - 6)</strong><a href="availService?favSrvId=1662"><span class="label label-danger">Open</span></a> </p>
+                          </li>
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>Ration Card Other State Transfer (Form-9)</strong><a href="availService?favSrvId=1663"><span class="label label-danger">Open</span></a> </p>
+                          </li>
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>RTI Application Form Submission</strong><a href="availService?favSrvId=1683"><span class="label label-danger">Open</span></a> </p>
+                          </li> 
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>RTI Fee Deposition for Dissemination of Information</strong><a href="availService?favSrvId=1684"><span class="label label-danger">Open</span></a> </p>
+                          </li>
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>RSMSSB Recruitment for Junior Instructor</strong><a href="availService?favSrvId=1768"><span class="label label-danger">Open</span></a> </p>
+                          </li> 
+                          <li> <span class="list-control"> <span class="handle"><i class="fa fa-bars"></i></span> </span>
+                            <p> <strong>RSMSSB Direct Joint Recruitment for Lab Assistant Exam -2016</strong><a href="availService?favSrvId=1769"><span class="label label-danger">Open</span></a> </p>
+                          </li>                         
+                        </ul>
+					
+				</div>
+				<div class="tab-pane fade" id="FP">
+					
+
+
+
+
+<ul id="dragdrop-todo-FP" class="list-unstyled todo-list">
+</ul>
+
+<span class="btn btn-custom-primary pull-right" onclick="location.href='viewAllFavActivities'">Show All</span>
+
+
+
+	
+
+				</div>
+
+				<div class="tab-pane fade" id="pendingApprovel">
+
+					<div class="col-sm-12">
+						<div id="pendingActi">
+
+							
+
+
+
+
+<div class="widget-header">
+	<h3>Action request to process other pending activity</h3>
+
+	<div class="btn-group widget-header-toolbar">
+		<a data-toggle="collapse" class="btn-borderless " href="#collapsetwo"> <i class="fa fa-chevron-up"></i>
+		</a>
+	</div>
+
+</div>
+
+
+
+<form id="view-dept-kiosk-master-entry" accept-charset="ISO-8859-1" action="viewDeptKioskRegistration" method="post">
+	<input type="hidden" name="vendorProfileDetailId" id="vendorProfileDetailDeptKioskId">
+	<input type="hidden" name="workflowCall" value="Y">
+	<input type="hidden" name="regWorkflowLvlId" id="regWorkflowLvlDeptKioskRegId">
+</form>
+
+<form id="view-lsp-kiosk-master-entry" accept-charset="ISO-8859-1" action="viewLspKioskRegistration" method="post">
+	<input type="hidden" name="vendorProfileDetailId" id="vendorProfileDetailLspKioskId">
+	<input type="hidden" name="workflowCall" value="Y">
+	<input type="hidden" name="regWorkflowLvlId" id="regWorkflowLvlLspKioskRegId">
+</form>
+
+<form id="view-lsp-master-entry" accept-charset="ISO-8859-1" action="viewLspRegistration" method="post">
+	<input type="hidden" name="vendorProfileDetailId" id="vendorProfileDetailLspId">
+	<input type="hidden" name="workflowCall" value="Y">
+	<input type="hidden" name="regWorkflowLvlId" id="regWorkflowLvlLspRegId">
+</form>
+
+<div id="collapsetwo" class="panel-collapse active">
+	<div class="table-responsive">
+		<table class="table table-sorting table-striped table-hover datatable pendingApprovelTable">
+			<thead>
+				<tr>
+					<th>S. No.</th>
+					<th>Request Id</th>
+					<th>Entity Name</th>
+					<th>Application for GSP</th>
+					<th>Is Paypoint</th>
+					<th>Bank BC</th>
+					<th>Govt. Premises</th>
+					
+					<th>LSP / Department</th>
+					<th>District</th>
+					
+					<th>Old Kiosk Code</th>
+					<th>Purpose</th>
+					<th>Registration Date</th>
+					<th>Initiation Date</th>
+					<th>Initiated By </th>
+					<th>Status</th>
+					<th>Action</th>
+				</tr>
+			</thead>
+			<tbody id="activityInboxTbody">
+			</tbody>
+		</table>
+		<span class="btn btn-custom-primary pull-right" onclick="location.href='viewMyInbox'">Show All</span>
+	</div>
+</div>
+
+
+<script>
+	function showActivityInboxDetails(vendorProfileIdValue,entityTypeIdValue,purpose,regWorkflowLevelId){
+		
+		
+		if(entityTypeIdValue == 4){
+			
+			if(purpose == "LSP REGISTRATION"){
+				$("#vendorProfileDetailLspId").val(vendorProfileIdValue);
+				$("#regWorkflowLvlLspRegId").val(regWorkflowLevelId);
+				$("#view-lsp-master-entry").submit();
+			}
+			else if(purpose == "LSP  MIGRATION"){
+				
+			}
+			else if(purpose == "LSP  RELOCATION"){
+				
+			}
+			else if(purpose == "LSP  CLOSURE/WITHDRAWAL"){
+		
+			}
+			
+		}
+		else if(entityTypeIdValue == 5){
+			if(purpose == "LSP KIOSK REGISTRATION"){
+				$("#vendorProfileDetailLspKioskId").val(vendorProfileIdValue);
+				$("#regWorkflowLvlLspKioskRegId").val(regWorkflowLevelId);
+				$("#view-lsp-kiosk-master-entry").submit();
+			}
+			else if(purpose == "4  MIGRATION"){
+				
+			}
+			else if(purpose == "4  RELOCATION"){
+				
+			}
+			else if(purpose == "4  CLOSURE/WITHDRAWAL"){
+		
+			}
+			
+		}
+		else if(entityTypeIdValue == 6){
+			if(purpose == "DEPARTMENT KIOSK REGISTRATION"){
+				
+				$("#vendorProfileDetailDeptKioskId").val(vendorProfileIdValue);
+				$("#regWorkflowLvlDeptKioskRegId").val(regWorkflowLevelId);
+				$("#view-dept-kiosk-master-entry").submit();
+			}
+			else if(purpose == "4  MIGRATION"){
+				
+			}
+			else if(purpose == "4  RELOCATION"){
+				
+			}
+			else if(purpose == "4  CLOSURE/WITHDRAWAL"){
+		
+			}
+			
+		}
+		else if(entityTypeIdValue == 7){
+			if(purpose == "INDEPENDENT KIOSK REGISTRATION"){
+				$("#vendorProfileDetailLspKioskId").val(vendorProfileIdValue);
+				$("#regWorkflowLvlLspKioskRegId").val(regWorkflowLevelId);
+				$("#view-lsp-kiosk-master-entry").submit();
+			}
+			else if(purpose == "4  MIGRATION"){
+				
+			}
+			else if(purpose == "4  RELOCATION"){
+				
+			}
+			else if(purpose == "4  CLOSURE/WITHDRAWAL"){
+		
+			}
+			
+		}
+		if(purpose == "REGISTRATION"){
+			
+		}
+		else if(purpose == "MIGRATION"){
+			
+			
+		}
+		else if(purpose == "RELOCATION"){
+			
+			
+		}
+		else if(purpose == "CLOSURE/WITHDRAWAL"){
+	
+		}
+	}
+</script>
+
+						</div>
+						
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+	
+	
+	<div class="widget">
+		<div class="widget-header"><h3 class="toggle">Reports</h3></div>
+	<div class="widget-content container text-center" id="kioskRep">
+	
+	
+	<div class="service-box" id="transactionhistory" style="width: 18%;"><a class="linktxt" href="kioskTransactionList?ru6pxg#"><i class="fa fa-arrows-h reportBox"></i><p class="text-center reportboxTitle">Transaction History</p></a></div><div class="service-box" id="serviceworkflowforapplicationservices" style="width: 18%;"><a class="linktxt" href="serviceWorkflowForKioskAndCitizen?rsylt9#"><i class="fa fa-circle-o-notch reportBox"></i><p class="text-center reportboxTitle">Service Workflow For Application Services </p></a></div><div class="service-box" id="receiptreprint" style="width: 18%;"><a class="linktxt" href="receiptNoWiseSearch?fd54je#"><i class="fa fa-newspaper-o reportBox"></i><p class="text-center reportboxTitle">Receipt Reprint</p></a></div><div class="service-box" id="transactiontrailsummaryreport" style="width:18%; display:none;"><a class="linktxt" href="transactionTrailSummaryReport?gft0dk#"><i class="fa fa-credit-card reportBox"></i><p class="text-center reportboxTitle">Transaction Trail Summary Report</p></a></div><div class="service-box" id="servicewisekioskcommissionsharereport" style="width:18%; display:none;"><a class="linktxt" href="jasperServiceKioskWiseCommReport?knsdk5#"><i class="fa fa-diamond reportBox"></i><p class="text-center reportboxTitle">Service Wise Kiosk Commission Share Report</p></a></div></div>
+	</div>
+
+	
+	
+	
+	<div class="widget">
+		<div class="widget-header"><h3 class="toggle">Message Board</h3></div>
+	<div class="widget-content container text-center">
+	<br>
+ 
+ 
+						
+							
+							<h1> Welcome to New Emitra </h1> <span style="font-weight: bold;color:red">ऑनलाइन आवेदन करने वाले आवेदकों के लिये होम डिलीवरी की सर्विस प्रारम्भ कर दी गयी है|</span><br> <span style="font-weight: bold;">Dear Kiosk, </span> <br> <span style="color:black"></span><span style="font-weight: bold">ई-मित्र पर सभी प्रकार के प्रमाण पत्रों की सेवाएं Online Users के लिए प्रारम्भ कर दी गयी है | जारी किए गए प्रमाण पत्र को Approve तथा Digital Signature का SMS आपके मोबाइल पर प्राप्त होने के पश्चात आप अपने नजदीकी ई-मित्र पर निर्धारित शुल्क देकर भी प्राप्त कर सकते है अथवा आप अपने निवास स्थान पर भी बिना अतिरिक्त शुल्क के प्राप्त कर सकते है| अपने निवास स्थान पर प्राप्त करने हेतु कृपया Avail Service में जाकर Certificate Home Delivery Service का चयन कर निर्धारित राशि का भुगतान कर दे|</span><br><span><b>Please delete your browser history before logging in e-Mitra on regular basis!</b><br><a href="https://emitraapp.rajasthan.gov.in/emitrashared/logo/Blacklist_120cc_Ad_27_March_2018.pdf" target="_blank" style="color:red">ई-मित्र परियोजना के तहत कार्यरत ई- मित्रा कियोस्कों द्वारा आमजन से धोखाधड़ी एवं वित्त्तीय अनियमितता करने के कारण स्थायी रूप से निष्कासित/बन्द (ब्लैकलिस्ट) किया गया है इन कियोस्कों के विरुद्ध विभाग द्वारा एफआईआर दर्ज करवा दी गयी है अत: इन ई- मित्रा कियोस्कों से ई- मित्रा पर उपलब्ध सेवाओं से सम्बन्धित किसी भी प्रकार का लेन-देन नहीं करें</a></span>
+							
+							<br><br>
+							
+							<p style="text-align:left;color:red"><b><span style="color:red">*Note</span>: मूल निवास, जाति प्रमाण पत्र तथा ऐसी अन्य सभी सेवाये जिनमे प्रमाण पत्र जारी किये जाते हैं उन सभी के प्रमाण पत्र का प्रिंट Avail Service में जा कर Print Certificate की सेवा के माध्यम से लेवें|<br>
+							(यह सेवा पहले Print Bonafide Certificate के नाम से दी जा रही थी, अब यह Print Certificate के नाम से उपलब्ध है)</b>
+							</p>
+							
+							<ul id="kiosklinks">
+  <li class="list-group-item"> <i class="fa fa-chevron-right" aria-hidden="true"></i> <a href="https://emitraapp.rajasthan.gov.in/emitrashared/Morpho_Driver/Morpho_Driver.rar">Download Morpho Driver For UID Mobile Number Updated Service</a></li>
+  <li class="list-group-item"> <i class="fa fa-chevron-right" aria-hidden="true"></i> <a href="https://emitraapp.rajasthan.gov.in/emitrashared/logo/PVCPRINTSETUP_V13.zip">Download PVC Print Setup And Guideline</a></li>
+   <li class="list-group-item"> <i class="fa fa-chevron-right" aria-hidden="true"></i> <a href="https://emitraapp.rajasthan.gov.in/emitrashared/logo/TeamViewerQS.exe">Download TeamViewer Quick Support V11</a></li>
+  
+
+</ul>
+							
+							
+							
+							
+						
+							
+							
+							
+							
+							<br>		
+								
+							
+								<div id="bgpara" style="display: none;">
+								
+								</div>
+								<p style="text-align:left;" id="headerMarqueeMsg" class="headerMarqueeMsg">16-Oct-2023 03:20 PM:-प्रिय ई मित्र कियोस्क धारक, GAYATARI EVERTECH SOLUTIONS PVT LTD विभाग की "ELECTRICITY BILL PAYMENT-POWERED by PJ BILLS" सेवा ई मित्र पोर्टल पर प्रारंभ कर दी गई है। इस सेवा  हेतु कियोस्क को बिजली बिल राशि का 0.30% कमीशन प्राप्त होगा। इस सेवा से संबंधित किसी भी समस्या के लिए निम्न नंबर एवं ई मेल पर संपर्क कर सकते है:-9509069050, Pjbillhelp@gmail.com
+
+
+12-Oct-2023 12:55 PM:- प्रिय E-MITRA साथियों नमस्कार.... PAYTHROUGH आपके लिए लाई है बेहतर रिचार्ज Facility 🥳🥳🥳🥳🥳🥳🥳🥳🥳
+E-MITRA पोर्टल पर मोबाइल रिचार्ज 📱 के लिए हमें संपर्क करें:-
+1. VI/ JIO/ AIRTEL/ BSNL की रिचार्ज के लिए PAYTHROUGH रिचार्ज को ही चुनें।
+2. टोकन कैंसिलेशन के लिए support@paythrough.in पर mail 💌 करें।
+3. रिचार्ज से संबंधित किसी भी समस्या के लिए 8298537537 पर तुरंत संपर्क करें या whatsapp करें। ☺️
+4. अपने कीमती सुझाव या अनुभव हमारे टीम के साथ 8298537537 पर whatsapp के जरिए साझा करें। 
+5. अपना #support 🤝team paythrough के साथ बनाए रखें।
+
+09-Oct-2023 11:35 AM:-प्रिय ईमित्र कियोस्कधारक, चॉइस नवरात्रि  धमाका कॉन्टेस्ट
+प्रिय KIOSK धारक आप जीत सकते है Amazon Voucher और 100 ग्राम चांदी के सिक्के 
+इसके लिए आपको केवल चॉइस के डीमैट अकाउंट में निवेश करवाना है😃 
+Choice  डीमैट अकाउंट जीरो  टोकन चार्ज पर खोले जाते है  : 0/- 
+
+न्यूनतम 5 डीमैट अकाउंट पर अतिरिक्त 1250 रुपये कमाने का मौका | 
+
+
+उदहारण KIOSK के लिए :
+✅डीमैट अकाउंट ऑफर  
+1)  5 डीमैट  अकाउंट, KIOSK को कमीशन 150*5=750  रुपये एवं अक्टूबर ऑफर में पहला निवेश हर खाते में 1500 रुपये का कराये और जीते  500  रुपए  Amazon Voucher, कुल आय = 1250 रुपये
+2)  50 डीमैट अकाउंट,  KIOSK को कमीशन 150*50 =7500 रुपये एवं अक्टूबर ऑफर पहला निवेश हर खाते में 1500 रुपये का कराये और जीते 100 ग्राम चांदी का  सिक्का। 
+ 👉 नोट :-उपरोक्त खातों को खोलना एवं उनमे निवेश करना अनिवार्ये है
+        :डीमैट अकाउंट में न्यून्तम  1500  रुपये का  निवेश।  
+: अधिक जानकारी के लिए संपर्क करे :6350234013 ,7740998453,�7374870184
+
+04-Oct-2023 06:01 PM:- प्रिय ई मित्र किओस्क धारक, �Sihag Rural Market Private Limited� विभाग की  �Digistall- your gateway to e-commerce� सेवा ई मित्र पोर्टल पर प्रारंभ कर दी गई है। इस सेवा के माध्यम से आप बिना कोड के अपने नजदीकी व्यवसाय की वेबसाइट बना सकते हैं | इसमें कियोस्क को प्रति ट्रांजेक्शन कमीशन - Rs 1200 / - मिलेगा। 
+
+इस सेवा के संबंध में किसी भी प्रकार की सहायता के लिए हेल्पलाइन नंबर- 9461852060 पर संपर्क कर सकते है।
+
+03-Oct-2023 04:45 PM:- प्रिय ई मित्र किओस्क धारक, आवास फाइनेंसियर्स लिमिटेड, होम लोन कम्पनी की "आवास होम लोन लीड जनरेशन" को सेवाएं अब ई मित्र पर उपलब्ध है। आज से ही "आवास होम लोन लीड"दर्ज करना शुरू करें। अधिक जानकारी के लिए आवास ई मित्र पोर्टल लॉगिन करे या हेल्पडेस्क पर संपर्क करे :01413537890 
+
+नोट : "आवास होम लोन लीड जनरेशन" को सेवाएं करोली,धौलपुर, जैसलमेर को छोड़ कर सभी जिलों में उपलब्ध हैं।
+
+01-Oct-2023 02:04 PM:-प्रिय ई मित्र कियोस्क धारक, "Department of Labour" की "Gig Workers Registration" की सेवाएं ई मित्र पोर्टल पर प्रारंभ कर दी गई है।
+
+27-Sep-2023 11:04 AM:-प्रिय ई मित्र कियोस्क धारक,  कृपया कुछ क्षण निकालकर NeSDA द्वारा आयोजित नागरिक सर्वेक्षण में भाग लें। ई-मित्र की राष्ट्र स्तर पर पहचान बनाने के लिए आप का इस सर्वेक्षण में भाग लेना महत्वपूर्ण है।
+
+सर्वेक्षण में भाग लेने के लिए निचे दिए गए लिंक पर क्लिक करें : 
+https://nesda.centralindia.cloudapp.azure.com/#/citizen-survey
+
+20-Sep-2023 05:55 PM:-प्रिय ई मित्र कियोस्क धारक, ई मित्र पर उपलब्ध Discom K no Electricity bill pay  (बिजली बिल जमा सेवा) के अतरिक्त किसी अन्य सर्विस  (B2C Partner) से बिजली बिल जमा करने पर रशीद निरस्त करने का प्रावधान नहीं है |
+
+12-Sep-2023 11:56 AM:-प्रिय ई मित्र कियोस्क धारक, ई-मित्र के माध्यम से शाइन ओलंपियाड के फॉर्म भर और जीते आकर्षक इनाम जैसे की कार, मोटरसाइकिल, स्कूटी, लैपटॉप, कलर प्रिंटर, चांदी का सिक्का, स्मार्टफोन आदि। ऑफर 30 सितंबर तक लागू है।
+ऑफर 21 अगस्त से शुरू हो चूका है और 30 सितम्बर 2023 तक रहेगा।
+300/- रूपये का टोकन और रुपये हर ओलंपियाड पर 99/- कमीशन 
+कक्षा 1 से 12 तक स्कूल जाने वाले प्रत्येक छात्र को दिया जा सकता है। 
+पूरी जानकारी के लिए Utility में Shine Olympiad टाइप कर सर्विस पर क्लिक करें। या दिए गए नंबर पर कॉल/व्हाट्सप्प करें। 
++91-8448553963
+
+23-Aug-2023 11:00 AM:- प्रिय ई-मित्र कियोस्कधारक, कियोस्क के लिये Grievance Module प्रारम्भ किया जा रहा है, विभाग द्वारा ईमित्र पोर्टल पर आने वाले समस्याओ  से सम्बंधित केटेगरी बना दी गयी है आप निम्न लिंक से यूजर मैन्युअल / ईमित्र पोर्टल के डाउनलोड सेक्नशन से डाउन लोड कर सकते है, 
+https://emitraapp.rajasthan.gov.in//emitrashared_2023/USER_MGMT_DOCS/GUIDELINE_AND_EFORM/2023/8/23/GAndE_1692767690518.pdf
+आप अपनी समस्याओं के लिए Grievance Module से ही अपनी समस्या बता पायेंगे |    </p>
+								
+</div>
+</div>
+	
+	
+	
+</div>
+
+<!-- Certificate Printing Starts -->
+<div id="lspKioskCertificatePrinting" class="modal fade" role="dialog">
+	<div class="modal-dialog modal-dialog" style="width: 80%; background: white" id="modelCertificatePrint">
+		<!-- Modal content-->
+		<div class="modal-dialog" style="width: 80%; background: #fff; padding: 5px;">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">×</button>
+			</div>
+			<!-- Modal content-->
+			<div id="certificateModelBody" class="modal-body" style="padding: 0px 10px 0px 10px;">
+				<div style="width: 100%; clear: both;" id="certificateHeaderDiv" name="certificateHeaderDiv">
+					<div style="width: 25%; float: left;">
+						<img class="img-square" src="resources/assets/images/t-logo.png">
+					</div>
+
+					<div style="width: 50%; float: left; text-align: center;">
+						<div>
+							<h4>राजस्थान सरकार</h4>
+							<h4>
+								जिला ई मित्र सोसाइटी <span id="certHinDistSpan"></span>
+							</h4>
+							<h4>
+								<strong>ई मित्र कियोस्क धारक प्रमाण-पत्र </strong>
+							</h4>
+						</div>
+					</div>
+					<div style="width: 25%; float: left;">
+						<img id="certUsrImgCertificate" class="img-square" height="100" width="100" src="resources/assets/images/default_profile.jpg" style="border: 1px solid #333;">
+					</div>
+				</div>
+
+				<div style="width: 100%; clear: both;">
+					<p>
+						प्रमाणित किया जाता है की श्री/सुश्री/श्रीमती "<strong><span id="certKioskAdminName"></span></strong>" निवासी "<strong><span id="certKioskRegAddress"></span></strong>" को ई गवर्नेंस योजना के तहत
+						खोले जाने वाले ई मित्र सेवा का सेवा केंद्र एजेंसी ( <strong><span class="certLspNameSpan"></span></strong>) द्वारा चयन किया जाता है |
+					</p>
+					<p>
+						ई मित्र कियोस्क संख्या "<strong><span id="certKioskCode"></span></strong>"
+						में विभिन्न स्वीकृत नागरीकोन्मुखी सरकारी सेवाये ( <strong>G2C</strong>
+						) अथवा नागरीकोन्मुखी व्यावस्यीक सेवाये ( <strong>B2C</strong> )
+						कि ई मित्र मे उल्लेखित है, को जनता को उपलब्ध कराने हेतु राजस्थान
+						के "<strong><span id="certKioskPropAddress"></span></strong>" मे
+						<strong><span class="certLspNameSpan"></span></strong> व <strong><span class="certKioskNameSpan"></span></strong> के मध्य की निविदा शर्तो के तहत
+						संचालन हेतु अधिकृत किया जाता है|
+					</p>
+					<p>यह प्रमाण-पत्र इस परियोजना के सभी पक्षकारो के मध्य हुई
+						शर्तो के अनुरूप संचालन होने की अवस्था मे जारी होने की दिनाक से
+						मान्य रहेगा |</p>
+				</div>
+
+
+
+				<div style="padding: 20px;">
+					<div style="width: 13%; float: left;">
+						<b>स्वीकृति दिनांक</b><br> <span id="approvedDate"></span>
+					</div>
+					<div style="width: 11%; float: left;">
+						<b>प्रिंट दिनांक</b><br> <span id="certIssueDate">19/10/2023</span>
+					</div>
+					<div style="width: 40%; float: left;">
+						<b>वर्तमान स्थिति</b><br> <span id="currStatus"></span>
+					</div>
+					<div style="width: 35%; float: left; text-align: right;">
+						<b><span id="approverDeptName"></span></b><br>जारीकर्ता
+					</div>
+				</div>
+			</div>
+
+			<div style="border-top: 1px solid #D8D8D8; padding-top: 10px; width: 100%; clear: both; margin-top: 20px; text-align: right;">This
+				is computer generated Certificate</div>
+		</div>
+		<div class="modal-footer modal-footer">
+			<button type="button" class="btn-sm invoiceView printButton" data-print="Y">
+				<i class="fa fa-print"></i> Print
+			</button>
+		</div>
+	</div>
+</div>
+<!-- Certificate Printing Ends -->
+
+
+<div id="emitraPlusKioskMsgModal" class="modal fade confirm" role="dialog" style="z-index: 99999999">
+	<div class="modal-dialog" style="width:60%;">
+
+		<!-- Modal content-->
+		<div class="modal-content oh" style="border-radius: 8px">
+			<div class="modal-body" style="border: 4px solid #EC8239; border-radius: 8px">
+	<!--<div style="color:blue;font-size: 12px;">			
+<p >				
+<h3>ई-मित्र प्लस मशीनों पर ब्रॉडकास्ट की प्रक्रिया - </h3>
+<h4>सभी ई-मित्र प्लस मशीनों पर ब्रॉडकास्ट किये जाने की Testing हेतु निम्नानुसार मशीन को ऑपरेट कराया जाना सुनिश्चित करें :- </h4>
+<ul>
+<li>ई-मित्र प्लस मशीन ऑन (चालू) होना सुनिश्चित करें।</li>
+<li>ई-मित्र प्लस मशीन  पर उपलब्ध विकल्प हिन्दी / English का चयन करें।</li>
+<li><शुरू करने के लिए> / <Click To Begin> का चयन करें।</li>
+<li><वीसी और वेबकास्ट> / <VC & Webcast> का चयन करें।</li>
+<li><बायोस्कोप/वेबकास्ट> <यूट्यूब> <वीएलसी> / <Bioscope/Webcast> <Youtube> <VLC>  विकल्प में से < बायोस्कोप/वेबकास्ट > / <Bioscope/Webcast> का चयन करें।</li>
+<li>उक्त विकल्पों के चयन के उपरान्त Official Webcast Portal, Government of Rajasthan खुल जायेगा। </li>
+</ul>
+</p>
+
+<p >
+<h3>ग्रामीण ई-मित्र प्लस मशीनों पर वीडियो कांफ्रान्सिंग (VC) करने की प्रक्रिया -</h3>
+<h4>ग्रामीण ई-मित्र प्लस मशीनों पर वीडियो कांफ्रान्सिंग (VC) से संवाद किये जाने की Testing हेतु निम्नानुसार मशीन  को ऑपरेट कराया जाना सुनिश्चित करें:-</h4>
+<ul>
+<li>ई-मित्र प्लस मशीन  ऑन (चालू) होना सुनिश्चित करें।</li>
+<li>ई-मित्र प्लस मशीन  पर उपलब्ध विकल्प हिन्दी / English का चयन करें।</li>
+<li><शुरू करने के लिए> / <Click To Begin> का चयन करें।</li>
+<li><वीसी और वेबकास्ट> / <VC & Webcast> का चयन करें।</li>
+<li>< बायोस्कोप/वेबकास्ट > <यूट्यूब> <वीएलसी> <वीसी (वेबेक्स)> <वीसी (गूगल)> <वीसी (जूम)> / <Bioscope/Webcast> <Youtube> <VLC> <VC(Webex)> <VC(Google)> <VC (Zoom)>  विकल्प में से <वीसी (वेबेक्स)> / <VC (Webex)> का चयन करें।</li>
+<li> उक्त विकल्पों के चयन के उपरान्त Webex VC चालू हो जायेगी। </li>
+</p>
+
+
+</div>-->
+
+<div style="color:blue;font-size: 14px;">
+<p>प्रिय कीओस्क, SJE (समाज कल्याण विभाग) द्वारा पेंशन प्राप्त करने वाले पेंशनर वार्षिक पेंशन सत्यापन की सेवा ई-मित्र प्लस मशीनों पर  निःशुल्क उपलब्ध है जबकि ई-मित्र पर 50 रुपए शुल्क है। सत्यापन के बाद में ई-मित्र प्लीस मशीन पर उपलब्ध्  Raj SSP  विकल्पक का उपयोग करके पेंशनर को सत्यापन का सर्टिफिकेट अवश्य प्रिंट करके देवे, ईमित्र प्लस मशीन पर सर्टिफिकेट प्रिंट का शुल्क रुपए 10 मात्र ही है,  ईमित्र प्ल स मशीनों पर अधिक से अधिक आमजन को  ट्रांजेक्शन करवाना सुनिश्चित करावें।</p>
+</div>				
+				
+				
+				<p>
+				</p><div id="commonAlertMessageDiv" class="text-justify"><span style="color:black;font-size: 12px;" id="tempPlusMsg">
+				<p>
+				
+				</p><h3>ई-मित्र प्लस मशीन पर उपलब्ध प्रमुख सेवाएँ –</h3>
+<ul id="kli">
+<li>सामाजिक सुरक्षा पेंशनर्स का वार्षिक बायोमेट्रिक सत्यापन (निःशुल्क) </li>
+<li>जनआधार में मोबाइल नंबर जोड़ना एवं संशोधन करना (निःशुल्क)</li>
+<li>ई-आधार एवं ई-जनआधार कार्ड का प्रिन्ट </li>
+<li>प्रमाण-पत्र प्रिन्ट (जाति/मूल/विवाह/जन्म/मृत्यु आदि)</li>
+<li>बिल भुगतान (बिजली/पानी/मोबाइल आदि)</li>
+<li>जमाबंदी एवं गिरदावरी की प्रमाणित (डिजिटल हस्ताक्षर) नक़ल प्रिन्ट</li>
+</ul>
+
+				
+				
+				<p></p>
+				<br>
+
+</span>
+<p>
+आपका किओस्क ई-मित्र प्लस मशीन से मैप है। New eMitra SLA के अनुसार ई-मित्र प्लस मशीन पर मैप किओस्क ऑपरेटर की बायोमेट्रिक उपस्थिति निम्नानुसार दर्ज करना अनिवार्य है :-<br>
+
+ </p><p class="text-center"><b>ई-मित्र प्लस के लिये वान्छनीय न्यूनतम बायोमेट्रिक उपस्थिति </b> </p>
+
+<p></p>
+
+<p>
+</p><table id="ktab" cellspacing="0" cellpadding="0" style="padding:0; margin:0; ">
+<tbody><tr>
+<td width="155" style="text-align:center;"><br>
+माह </td>
+<td width="200"><p align="center">कोलोकेटेड (ईमित्र प्लस मशीन एंव ई-मित्र किऑस्क एक ही    परिसर में) ई-मित्र प्लस के लिये वान्छनीय न्यूनतम बायोमेट्रिक उपस्थिति  </p></td>
+<td width="252"><p align="center">नॉन-कोलोकेटेड (ई-मित्र प्लस मशीन एंव ई-मित्र    किऑस्क अलग अलग जगह पर) ई-मित्र प्लस के लिये वान्छनीय न्यूनतम बायोमेट्रिक उपस्थिति </p></td>
+</tr>
+<tr>
+<td width="155" nowrap=""><p align="center"> जनवरी-2022 एंव इसके बाद </p></td>
+<td width="200" nowrap=""><p align="center">12</p></td>
+<td width="252" nowrap=""><p align="center">08</p></td>
+</tr>
+</tbody></table>
+
+
+
+<p></p>
+<p>
+किसी माह में उक्त तालिका के अनुसार उपस्थिति कम पाये जाने पर 500 रुपये की शास्ति आरोपित की जावेगी (Kiosk : 375 रुपये एवं LSP :125 रुपये) । यदि आपको ई-मित्र प्लस मशीन पर कीओस्क ऑपरेटर की उपस्थिति दर्ज करने में कोई समस्या है तो सहायता हेतु SSO Login करने के पश्चात्  eMitra plus App पर Go To CRN option पर उपलब्ध CRN Register का चयन करें तथा CRN दर्ज करें। अतः ई-मित्र प्लस मशीन पर आज ही अपनी बायोमेट्रिक उपस्थिति दर्ज करें। - DoIT&amp;C HQ Jaipur. 
+
+</p>
+
+				
+				
+				
+				</div>
+<p></p>
+<p>
+
+  </p><table class="table table-striped" id="btable">
+<thead id="AttendanceDtlsId"></thead>
+<tbody id="AttendanceDtlsbody"></tbody>
+
+</table>
+
+
+<p></p>
+				
+				<button autofocus="" type="button" class="btn btn-default center-block" data-dismiss="modal">Ok</button>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<!-- <div class="emitraPlusKioskMsgModal" style="height:187px;width:97%">
+	<div class="Close">X</div>
+	<div id="messageParagraph" style="overflow: auto;">&#2310;&#2346;&#2325;&#2366; &#2325;&#2368;&#2323;&#2360;&#2381;&#2325; &#2312;-&#2350;&#2367;&#2340;&#2381;&#2352; &#2346;&#2381;&#2354;&#2360; &#2350;&#2358;&#2368;&#2344; &#2360;&#2375; &#2350;&#2376;&#2346; &#2361;&#2376;&#2404; &#2312;-&#2350;&#2367;&#2340;&#2381;&#2352; &#2346;&#2381;&#2354;&#2360; &#2350;&#2358;&#2368;&#2344; &#2346;&#2352; &#2350;&#2376;&#2346; &#2325;&#2367;&#2323;&#2360;&#2381;&#2325; &#2321;&#2346;&#2352;&#2375;&#2335;&#2352; &#2342;&#2381;&#2357;&#2366;&#2352;&#2366; &#2350;&#2366;&#2361; &#2350;&#2375;&#2306; &#2325;&#2350; &#2360;&#2375; &#2325;&#2350; 10 &#2342;&#2367;&#2344; &#2348;&#2366;&#2351;&#2379;&#2350;&#2375;&#2335;&#2381;&#2352;&#2367;&#2325; &#2313;&#2346;&#2360;&#2381;&#2341;&#2367;&#2340;&#2367; &#2342;&#2352;&#2381;&#2332; &#2325;&#2352;&#2344;&#2366; &#2309;&#2344;&#2367;&#2357;&#2366;&#2352;&#2381;&#2351; &#2361;&#2376;&#2404; New eMitra SLA &#2325;&#2375; &#2309;&#2344;&#2369;&#2360;&#2366;&#2352; &#2312;-&#2350;&#2367;&#2340;&#2381;&#2352; &#2346;&#2381;&#2354;&#2360; &#2350;&#2358;&#2368;&#2344; &#2346;&#2352; &#2319;&#2325; &#2350;&#2366;&#2361; &#2350;&#2375;&#2306; 10 &#2342;&#2367;&#2344; &#2360;&#2375; &#2325;&#2350; &#2312;-&#2350;&#2367;&#2340;&#2381;&#2352; &#2346;&#2381;&#2354;&#2360; &#2350;&#2358;&#2368;&#2344; &#2325;&#2367;&#2323;&#2360;&#2381;&#2325; &#2321;&#2346;&#2352;&#2375;&#2335;&#2352; &#2325;&#2368; &#2313;&#2346;&#2360;&#2381;&#2341;&#2367;&#2340;&#2367; &#2346;&#2366;&#2351;&#2375; &#2332;&#2366;&#2344;&#2375; &#2346;&#2352; 500 &#2352;&#2369;&#2346;&#2351;&#2375; &#2325;&#2368; &#2358;&#2366;&#2360;&#2381;&#2340;&#2367; &#2349;&#2368; &#2310;&#2352;&#2379;&#2346;&#2367;&#2340; &#2325;&#2368; &#2332;&#2366;&#2357;&#2375;&#2327;&#2368;&#2404; &#2351;&#2342;&#2367; &#2310;&#2346;&#2325;&#2379; &#2312;-&#2350;&#2367;&#2340;&#2381;&#2352; &#2346;&#2381;&#2354;&#2360; &#2350;&#2358;&#2368;&#2344; &#2346;&#2352; &#2325;&#2368;&#2323;&#2360;&#2381;&#2325; &#2321;&#2346;&#2352;&#2375;&#2335;&#2352; &#2325;&#2368; &#2313;&#2346;&#2360;&#2381;&#2341;&#2367;&#2340;&#2367; &#2342;&#2352;&#2381;&#2332; &#2325;&#2352;&#2344;&#2375; &#2350;&#2375;&#2306; &#2325;&#2379;&#2312; &#2360;&#2350;&#2360;&#2381;&#2351;&#2366; &#2361;&#2376; &#2340;&#2379; &#2360;&#2361;&#2366;&#2351;&#2340;&#2366; &#2361;&#2375;&#2340;&#2369; eMitra Portal &#2346;&#2352; Login &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2346;&#2358;&#2381;&#2330;&#2366;&#2340;&#2381; Home Page &#2346;&#2352; &#2313;&#2346;&#2354;&#2348;&#2381;&#2343;  Register Complaint &#2325;&#2366; &#2330;&#2351;&#2344; &#2325;&#2352;&#2375;&#2306; &#2340;&#2341;&#2366; CRN &#2346;&#2352; &#2313;&#2346;&#2354;&#2348;&#2381;&#2343; &#2357;&#2367;&#2325;&#2354;&#2381;&#2346; &#2350;&#2375;&#2306; Operator Attendance &#2325;&#2366; &#2330;&#2351;&#2344; &#2325;&#2352; &#2342;&#2352;&#2381;&#2332; &#2325;&#2352;&#2375;&#2306;&#2404; 
+&#2309;&#2340;&#2307; &#2312;-&#2350;&#2367;&#2340;&#2381;&#2352; &#2346;&#2381;&#2354;&#2360; &#2350;&#2358;&#2368;&#2344; &#2346;&#2352; &#2310;&#2332; &#2361;&#2368; &#2309;&#2346;&#2344;&#2368; &#2348;&#2366;&#2351;&#2379;&#2350;&#2375;&#2335;&#2381;&#2352;&#2367;&#2325; &#2313;&#2346;&#2360;&#2381;&#2341;&#2367;&#2340;&#2367; &#2342;&#2352;&#2381;&#2332; &#2325;&#2352;&#2375;&#2306;&#2404; - DoIT&C HQ Jaipur.</div>
+	<div class="bottomMsg">
+		<input type="button"
+			value="Acknowledge and Close" onclick="acknowledgeEmitraPlusKioskMsg()" />
+	</div>
+</div> -->
+
+<!-- Bank Account Verification Starts -->
+
+<!-- <div class="modal fade" id="modelBankAccountVerify" role="dialog">
+    <div class="modal-dialog" style="width: 80%; background: #fff; padding: 5px;">
+    
+      Modal content
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Verify your Bank Account</h4>
+        </div>
+        <div class="modal-body">
+          <p>You cannot click outside of this modal to close it.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+Bank Account Verification Ends
+
+<script>
+ $(document).ready(function(){
+	$("#modelBankAccountVerify").modal({
+		backdrop: "static",
+		keyboard:false,
+		show:true
+	});
+}); 
+</script> -->
+<script src="resources/assets/js/DasboardLinks.js?[B@f2a95a5c"></script>
+<script>
+
+function acknowledgeEmitraPlusKioskMsg(){
+	$(".emitraPlusKioskMsgModal").fadeOut();
+	hideLoadingPopup();
+}
+
+$(document).ready(function(){
+	if($("#menuList").text().indexOf("Utility") == -1){
+		$("#utilLi").hide();
+		$("#appLi").hide();
+	}
+
+	if($("#menuList").text().indexOf("Application") == -1){
+		$("#utilLi").hide();
+		$("#appLi").hide();
+	}
+});
+
+$(document).ready(function(){
+//	getQuickPayApps();
+	
+	
+	
+		//$('#emitraPlusKioskMsgModal').modal({backdrop: 'static', keyboard: false});
+	
+	
+	$.ajax({
+	
+		url : 'getKioskBgExpireDate',
+		headers : {
+			'allow-bypass-header' : 'getKioskBgExpireDate'
+		},
+		type : 'POST',
+		dataType : "json",
+		async : false,
+		success : function(response) {
+		/*console.log(response.vendorBgExpireData);*/
+		if(response.vendorBgExpireData.length==0){
+
+			 $('#bgpara').hide();
+		}else{
+			$.each(response.vendorBgExpireData, function(i, item) {
+			
+				if(item.isLsp=='Y'){
+	
+					$('#bgpara').append("<p style='text-align:left;''><span style='color:red'>*Note</span>: <b>Your Lsp BG Expire On</b> <span style='color: red; font-weight: bolder;' >'"+item.expireDate+"'</span><b>, Bg Amount-</b><span style='color: red; font-weight: bolder;'>'"+item.bgAmount+"'</span> <b>, No of days Left - </b><span style='color: red; font-weight: bolder;'>'"+item.noOfDaysRemaining+"'</span></p>");
+				}else{		
+				
+				 $('#bgpara').append("<p style='text-align:left;''><span style='color:red'>*Note</span>: <b>Your BG Expire On</b> <span style='color: red; font-weight: bolder;' >'"+item.expireDate+"'</span><b>, Bg Amount-</b><span style='color: red; font-weight: bolder;'>'"+item.bgAmount+"'</span> <b>, No of days Left - </b><span style='color: red; font-weight: bolder;'>'"+item.noOfDaysRemaining+"'</span></p>");
+				} 
+				 $('#bgpara').append("<br>")
+			});
+		}
+			
+			},
+		error : function(data) {
+			hideLoadingPopup();
+		}
+	});
+
+	
+	});
+	
+	function getMyLspCoordinator(){
+		showLoadingPopup2();
+		$.ajax({
+			url : 'getMyLspCoordinatorDetail',
+			headers : {
+				'allow-bypass-header' : 'getMyLspCoordinatorDetail'
+			},
+			type : 'POST',
+			success : function(data) {
+				if(Object.keys(data).length > 0){
+					$("#myLspCoordinator").html("");
+					$.each(data, function(key, value) {
+						$("#myLspCoordinator").append('<div class="form-group col-sm-12">');
+						$("#myLspCoordinator").append('<label for="Coorinator Type" class="control-label col-sm-12"><b>Designation: '+value.COORDINATOR_TYPE+'</b></label>');
+						$("#myLspCoordinator").append('<label for="Coorinator Name" class="control-label col-sm-12"><b>Name:</b> '+value.NAME+'</label>');
+						$("#myLspCoordinator").append('<label for="Coorinator Name" class="control-label col-sm-12"><b>Mobile No.</b>: '+value.MOBILE_NO+'</label>');
+						$("#myLspCoordinator").append('<label for="Coorinator Name" class="control-label col-sm-12"><b>Email ID:</b> '+value.EMAIL_ID+'</label>');
+						$("#myLspCoordinator").append('</div>');
+						$("#myLspCoordinator").append('<hr style="border:1px solid #ececec;margin:0"/>');
+							
+					});
+				}
+				hideLoadingPopup2();
+			},
+			error : function(data) {
+				hideLoadingPopup2();
+			}
+		});
+		
+	}
+	
+	function initateCerficatePrinting(vendorCodeValue) {
+
+		$("#certUsrImgCertificate").attr("src",
+				"resources/assets/images/default_profile.jpg");
+		$("#certHinDistSpan").html("");
+		$("#certKioskAdminName").text("");
+		$("#certKioskRegAddress").text("");
+		$(".certLspNameSpan").text("");
+		$("#certKioskCode").text("");
+		$("#certKioskPropAddress").text("");
+		$(".certKioskNameSpan").text("");
+		$("#approvedDate").text("");
+		$("#currStatus").text("");
+		$("#approverDeptName").text("");
+
+		showLoadingPopup();
+		$
+				.ajax({
+					url : 'getKioskCertificateDetailByVendorCode',
+					headers : {
+						'allow-bypass-header' : 'getKioskCertificateDetailByVendorCode'
+					},
+					type : 'POST',
+					data : {
+						vendorCode : vendorCodeValue
+					},
+					success : function(data) {
+						/*console.log(data);*/
+
+						if (data.PHOTO != undefined && data.PHOTO !="") {
+							$("#certUsrImgCertificate").attr("src",
+									"data:image/png;base64," + data.PHOTO);
+						}
+
+						if (data.DISTRICT_NAME_HIN != undefined) {
+							$("#certHinDistSpan").html(
+									data.DISTRICT_NAME_HIN);
+						}
+						if (data.FULL_NAME != undefined) {
+							$("#certKioskAdminName").text(data.KIOSK_NAME);
+						}
+						if (data.REG_ADDRESS != undefined) {
+							$("#certKioskRegAddress")
+									.text(data.REG_ADDRESS);
+						}
+						if (data.PARENT_LSP != undefined) {
+							$(".certLspNameSpan").text(data.PARENT_LSP);
+						}
+						if (data.VENDOR_CODE != undefined) {
+							$("#certKioskCode").text(data.VENDOR_CODE);
+						}
+						if (data.PROP_ADDRESS != undefined) {
+							$("#certKioskPropAddress").text(
+									data.PROP_ADDRESS);
+						}
+						if (data.KIOSK_NAME != undefined) {
+							$(".certKioskNameSpan").text(data.KIOSK_NAME);
+						}
+						if (data.APPROVED_DATE != undefined) {
+							$("#approvedDate").text(data.APPROVED_DATE);
+						}
+						if (data.CURRENT_STATUS != undefined) {
+							if (data.CURRENT_STATUS == "DEFAULTER") {
+								$("#currStatus").text("डिफाल्टर");
+							} else if (data.CURRENT_STATUS == "BLACKLISTED") {
+								$("#currStatus").text("निष्काषित");
+							} else if (data.CURRENT_STATUS == "CLOSED") {
+								$("#currStatus").text("बन्द");
+							} else if (data.CURRENT_STATUS == "ACTIVE") {
+								$("#currStatus").text("सक्रिय");
+							}else if (data.CURRENT_STATUS == "INACTIVE") {
+								$("#currStatus").text("निष्क्रिय");
+							}
+						}
+
+						$("#approverDeptName")
+								.text(data.APPROVER_DEPT_NAME);
+
+						hideLoadingPopup();
+						$('#lspKioskCertificatePrinting').modal('show');
+					},
+					error : function(data) {
+						hideLoadingPopup();
+					}
+				});
+
+	}
+
+	function printKioskCerficate(PrintId) {
+
+		window.innerHTML = "";
+		$('.modal-dialog').css({
+			'width' : '100%'
+		});
+		$('.modal-footer').css('display', 'none');
+		var mywindow = window
+				.open('', 'Print Div', 'height=800,width=1200');
+		$(".close").hide();
+		$(".printButton").hide();
+		mywindow.document.write('<html><head><title></title>');
+		mywindow.document.write('</head><body>');
+		mywindow.document.write($("#" + PrintId).html());
+		mywindow.document.write('</body></html>');
+
+		mywindow.focus(); // necessary for IE >= 10
+
+		mywindow.print();
+		mywindow.close();
+
+		$(".close").show();
+		$(".printButton").show();
+		$('.modal-dialog').css({
+			'width' : '80%',
+			'padding' : '10px'
+		});
+		$('.modal-footer').css('display', 'block');
+
+	}
+
+	$('.printButton').click(function() {
+		printKioskCerficate('modelCertificatePrint');
+
+	});
+
+//fetchOperatorAttendanceDtls(); 
+
+
+function fetchOperatorAttendanceDtls(){
+
+	$.ajax({
+	
+		url : 'fetchOperatorAttendanceDtls',
+		headers : {
+			'allow-bypass-header' : 'fetchOperatorAttendanceDtls'
+		},
+		type : 'POST',
+		dataType : "json",
+		async : false,
+		success : function(response) {
+/*console.log('dataxx',response);*/
+//alert(response.data[0].ADDRESS_DATA);
+
+
+			var count = 0;
+
+			var entry;
+			var name;
+			var count;
+
+			entry = response.data[0];
+			// alert(entry);
+			count = 0;
+			var fileHead = "<tr>";
+			for (name in entry) {
+
+				fileHead = fileHead + "<th>" + name + "</th>";
+				++count;
+			}
+$('#AttendanceDtlsId').append(fileHead);
+
+
+$.each(response.data, function( index, value ) {
+$('#AttendanceDtlsbody').append('<tr>'); 
+$.each(value, function(key, value){
+$('#AttendanceDtlsbody').append('<td>'+value+'</td>');  
+ });
+ $('#AttendanceDtlsbody').append('</tr>'); 
+
+  });
+ 
+ 
+ 
+
+
+
+
+}
+});
+
+}
+
+/* var emitraPlusTargetDate = new Date("19-12-2020".replace( /(\d{2})-(\d{2})-(\d{4})/, "$2/$1/$3"));
+
+var todayDate = new Date();
+if(todayDate > emitraPlusTargetDate){ 
+
+	$("#tempPlusMsg").hide();
+} */
+
+
+
+
+getLink();
+function getLink(){
+var datax = JSON.parse(dasLinks);
+$.each( datax.KioskDasReport, function( key, val ) {
+<!-- for DEALING OFFICE BONAFIED -->
+let r = Math.random().toString(36).substring(7);
+var reportName = val.reportName;
+reportName = reportName.toLowerCase();
+var reportNameClass = reportName.replace(/[&\/\#,+()$~%. '":*?<>{}]/g, '');
+
+	$('#kioskRep').append('<div class="service-box" id="'+reportNameClass+'" style="width:18%; display:none;"><a class="linktxt" href="'+val.reportUrl+'?'+r+'#"><i class="fa fa-'+val.reportIconClass+' reportBox"></i><p class="text-center reportboxTitle" >'+val.reportName+'</p></a></div>');
+	
+  });
+ 
+setTimeout(checkContFind, 1000);
+}
+
+
+function checkContFind(){
+
+$('#menuList li a span').each(function(){
+var txtmenu = $(this).text();
+var txt = txtmenu.replace(/[&\/\#,+()$~%. '":*?<>{}]/g, '');
+txt = txt.toLowerCase();
+var reportNameClass = txt.replace(/\s/g, '');
+/*console.log(reportNameClass);*/
+
+$('#'+reportNameClass).show();
+
+});
+}
+
+	
+	
+
+</script>
+            
+									
+
+								</div>
+								<!-- END WIDGET TABBED CONTENT -->
+								<!-- /content-wrapper -->
+							</div>
+							<!-- /row -->
+						</div>
+						<!-- /container -->
+						 
+					</div>
+					<!-- END BOTTOM: LEFT NAV AND RIGHT MAIN CONTENT -->
+				</div>
+			</div>
+	
+	
+	<!-- END WIDGET TABBED CONTENT -->
+	<!-- /content-wrapper -->
+
+
+	<!-- /row -->
+	<!-- /container -->
+	<!-- END BOTTOM: LEFT NAV AND RIGHT MAIN CONTENT -->
+	<!-- /WRAPPER -->
+
+	<!-- FOOTER -->
+	
+
+
+
+
+
+
+
+<script src="resources/assets/js/jquery.min 2.1.4.js"></script>
+<script src="resources/assets/js/plugins/datatable/jquery.dataTables-new.min.js"></script>
+<script src="resources/assets/js/plugins/datatable/dataTables.bootstrap.min.js"></script>
+<script src="resources/assets/js/plugins/datatable/dataTables.buttons.min.js"></script>
+<script src="resources/assets/js/plugins/datatable/buttons.bootstrap.min.js"></script>
+<script src="resources/assets/js/plugins/datatable/jszip.min.js"></script>
+<script src="resources/assets/js/plugins/datatable/plugins/build/pdfmake.min.js"></script>
+<script src="resources/assets/js/plugins/datatable/plugins/build/vfs_fonts.js"></script>
+<script src="resources/assets/js/plugins/datatable/buttons.html5.min.js"></script>
+
+<script src="resources/assets/js/plugins/datatable/buttons.print.min.js"></script>
+<script src="resources/assets/js/plugins/datatable/buttons.colVis.min.js"></script>
+
+<footer class="footer copyYear" style="bottom: 0">© 2023 - 2024<span style="float:right">Build Version V001220720211820 </span></footer>
+
+
+
+
+
+
+
+<!-- Loading popup starts -->
+<div class="popup" id="loadingPopUp" style="display: none;">
+	<div class="popup-holder" style="width: 100%;">
+		<div class="popup-content" style="height: 80px; width: 200px; border-radius: 10px; z-index: 99999">
+			<img src="resources/assets/images/preloader.gif"> Please
+			Wait...
+		</div>
+		<!-- popup content -->
+	</div>
+	<!-- holder -->
+</div>
+<!-- Loading popup Ends -->
+
+
+<!-- Loading popup starts -->
+<div class="popup" id="loadingPopUp2" style="display: none">
+	<div class="popup-holder2">
+		<div class="popup-content" style="height: 80px; width: 200px; border-radius: 10px; z-index: 99999">
+			<img src="resources/assets/images/preloader.gif"> Please
+			Wait...
+		</div>
+		<!-- popup content -->
+	</div>
+	<!-- holder -->
+</div>
+<!-- Loading popup Ends -->
+
+<!-- Common Alert PopUp start -->
+<div id="commonAlertPopUpDiv" class="modal fade confirm" role="dialog" style="z-index: 99999999">
+	<div class="modal-dialog">
+
+		<!-- Modal content-->
+		<div class="modal-content oh" style="border-radius: 8px">
+			<div class="modal-body" style="border: 4px solid #EC8239; border-radius: 8px">
+				<p>
+				</p><div id="commonAlertMessageDiv" class="text-justify"></div>
+				<p></p>
+				<button autofocus="" type="button" class="btn btn-default center-block" data-dismiss="modal">Ok</button>
+			</div>
+
+		</div>
+	</div>
+</div>
+<!-- Common Alert PopUp End -->
+
+<!-- Session Timeout PopUp start -->
+
+<div id="sessionTimeoutPopUpDiv" class="modal fade" role="dialog" style="z-index: 99999">
+	<div class="modal-dialog">
+
+		<!-- Modal content-->
+		<div class="modal-content preSessionModal">
+			<div class="modal-header">
+				<h4 class="modal-title">Session is About to Expire!</h4>
+			</div>
+			<div class="modal-body">
+				<div class="text-center msgText">Session will be out in</div>
+				<ul class="countdown">
+					<li><span class="sessionTime">60</span>
+						<p class="seconds_ref">seconds</p></li>
+				</ul>
+
+			</div>
+			<div class="modal-footer" style="text-align: center">
+				<div class="col-sm-12">
+					Click
+					<button type="button" class="btn btn-default" onclick="dummyAjaxCallToExtendSession()">Extend</button>
+					to extend the session!
+				</div>
+			</div>
+		</div>
+
+		<div class="modal-content hide-service postSessionModal">
+			<div class="modal-header">
+				<h4 class="modal-title">Session is Expired!</h4>
+			</div>
+			<div class="modal-body">
+				<div class="text-center msgText">Your Session is Expired!</div>
+			</div>
+			<div class="modal-footer" style="text-align: center">
+				<div class="col-sm-12">
+					<button type="button" class="btn btn-default" onclick="location.reload()">Ok</button>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+<style type="text/css">
+ul.countdown {
+	list-style: none;
+	margin: 10px 0;
+	padding: 0;
+	text-align: center;
+}
+
+ul.countdown li span {
+	font-size: 80px;
+	font-weight: 300;
+	line-height: 80px;
+}
+
+.msgText {
+	font-size: 24px;
+	font-style: normal;
+}
+</style>
+
+<!-- Session Timeout PopUp End -->
+
+
+
+<script>
+	var currentYear = (new Date).getFullYear();
+	varcopyYear = "&copy; " + currentYear + " - " + (currentYear + 1);
+	$(".copyYear").html(varcopyYear+'<span style="float:right">Build Version V001220720211820 </span>');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="right-box">
+	<div class="menu-left-icon" style="right: 0px;">
+		<span class="fa fa-chevron-left menu-arrows"></span>
+	</div>
+	<div class="menu-left-box" style="right: -23%;">		
+		<div class="topIcon">
+		<div class="center-block text-center">		
+		
+		
+			
+			<p><img class="img-avtar" src="resources/assets/images/user-avatar.png" width="100px" alt="User Avatar"></p> 
+		
+					
+			<p><h7> MANOJKUMARBALAI813 </h7></p>
+			
+			<p><h9>(K12290269)<br>(MANOJ KUMAR BALAI)</h9></p>
+			
+		</div>
+		</div>
+
+		<div class="panel-group" id="accordion">
+				
+
+
+			<div class="panel panel-primary">
+				<div class="panel-heading">
+					<a class="btn pull-left" data-toggle="collapse" data-parent="#accordion" href="#collapse1"><i class="fa fa-plus"></i></a>
+					<h3 class="panel-title">						
+						<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">LSP KIOSK</a>
+					</h3>
+				</div>
+				
+				
+				<div id="collapse1" class="panel-collapse collapse in">				
+					<div class="panel-body oh">
+						<ul class="list-group" style="overflow-y: auto; max-height:300px;">
+						
+								<li style="text-indent:0px;cursor: pointer;color:#EC8239" class="list-group-item colorClass" onclick="initiateSwitching('5','5','0')">LSP KIOSK ADMIN</li>
+													
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			
+
+
+			<div class="panel panel-primary">
+				<div class="panel-heading">
+					<a class="btn pull-left" data-toggle="collapse" data-parent="#accordion" href="#collapse2"><i class="fa fa-plus"></i></a>
+					<h3 class="panel-title">						
+						<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">LSP KIOSK OWNER</a>
+					</h3>
+				</div>
+				
+				
+				<div id="collapse2" class="panel-collapse collapse">				
+					<div class="panel-body oh">
+						<ul class="list-group" style="overflow-y: auto; max-height:300px;">
+						
+								<li style="text-indent:0px;cursor: pointer;" class="list-group-item colorClass" onclick="initiateSwitching('9','272','0')">LSP KIOSK OWNER</li>
+													
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			
+		
+		</div>
+
+	</div>
+
+</div>
+
+<form id="switcherForm" action="switchUserRole" method="post">
+	
+		<input class="dontDisable" type="hidden" name="switcherLspName" id="switcherLspName" value="CMS COMPUTERS LTD">
+	
+	<input class="dontDisable" type="hidden" name="ssoId" id="switcherSsoId" value="MANOJKUMARBALAI813">
+	<input class="dontDisable" type="hidden" name="tokenNo" id="switcherTokenNo" value="K3BRUXJYRHZNaDBSSmQxQWlaZEVab0FBRFVrOTZRSGx1VE9qVnZPVy9KZ0Z2VXBnWkdqWTBOTjZQSHRMVDAyMDEyQnVRSm9rVkdXV1NCRUd0RjJGa2Vwa0RIa2M2eFlkVkZwN254Y3U1RzJoZnFRVEJxTjFZc2FRelBoUnFER2t1QkRPa1dyOFkveW5Ka1BLZ3owZlNUdE94OVhFbHFURTNDa01ESDU3WXUyRmp5b1Z3NGZLVmVMQ2NpZGFzd2Z3">
+	<input class="dontDisable" type="hidden" name="entityTypeId" id="switcherEntityTypeId">
+	<input class="dontDisable" type="hidden" name="roleId" id="switcherRoleId">
+	<input class="dontDisable" type="hidden" name="officeId" id="switcherOfficeId">
+	<input class="dontDisable" type="hidden" name="Role" id="switcherRole" value="5,9">
+</form>
+
+<script>
+
+	function initiateSwitching(entityTypeId,roleId,officeId){
+		showLoadingPopup();
+		if(entityTypeId != "" && roleId != ""){
+			$("#switcherEntityTypeId").val(entityTypeId);
+			$("#switcherRoleId").val(roleId);
+			$("#switcherOfficeId").val(officeId);
+			$("#switcherForm").submit();
+		}
+		
+	}
+
+</script>
+
+
+
+
+
+<!-- <script src="resources/assets/js/jquery.min 2.1.4.js"></script> -->
+
+<script>
+	$(".hinLangShow").show();
+	$(".engLangShow").hide();
+</script>
+
+<script src="resources/assets/js/dist/jquery.validate.js"></script>
+<script src="resources/assets/js/validation/commonValidation.js"></script>
+<script src="resources/assets/js/table.js"></script>
+
+
+<script>
+
+
+	var favActivitiesJs = ["serviceWorkflowForKioskAndCitizen","viewMyInbox"];
+	
+	
+	var reqPage = location.href;
+	reqPage = reqPage.substring(reqPage.lastIndexOf("/")+1);
+	if(reqPage.indexOf("?") != -1){
+		reqPage = reqPage.substring(0,reqPage.lastIndexOf("?"));	
+	}
+	
+	if(favActivitiesJs.indexOf(reqPage) != -1){
+		$('#favouriteLink').removeClass("white").addClass("yellow");
+	}
+	
+	var curPath = window.location.href;
+	if(curPath.indexOf("?") == -1){
+		window.location.hash="``[B@6e2b3f73";//again because google chrome don't insert first hash into history
+		window.onhashchange=function(){window.location.hash="[B@7c2ef5d2";}
+	}
+	else{
+		window.location.hash="``";//again because google chrome don't insert first hash into history
+		window.onhashchange=function(){window.location.hash="";}
+	} 
+
+</script>
+
+<script>
+var sessionInterval;
+	function sessionTimeOutPopup(counter){
+		$('#sessionTimeoutPopUpDiv').modal({backdrop: 'static', keyboard: false},'show');
+
+		sessionInterval = setInterval(function() {
+		    counter--;
+		    // Display 'counter' wherever you want to display it.
+		    if (counter < 0) {
+		        // Display a login box
+		        clearInterval(sessionInterval);
+		        $(".preSessionModal").hide();
+		        $(".postSessionModal").show();
+		        
+		    }
+		    else{
+		    	$(".sessionTime").text(counter);
+		    }
+		}, 1000);
+	}
+
+	
+	function sessionTracker(){
+		setTimeout(function() {
+			sessionTimeOutPopup(60);
+		}, 1740000);	
+	}
+	sessionTracker();
+	
+	function dummyAjaxCallToExtendSession() {
+		showLoadingPopup();
+		$.ajax({
+			url : 'dummyAjaxCallToExtendSession',
+			headers : {
+				'allow-bypass-header' : 'dummyAjaxCallToExtendSession'
+			},
+			type : 'POST',
+			data : {
+				extendSession : "Y"
+			},
+			success : function(data) {
+				
+				clearInterval(sessionInterval);
+				$('#sessionTimeoutPopUpDiv').modal('hide');
+				sessionTracker();
+				$(".sessionTime").text(60);
+				hideLoadingPopup();
+			},
+			error : function(data) {
+				hideLoadingPopup();
+			}
+		});
+
+	}
+	var currentLocation = location.href;
+	if(currentLocation.indexOf("editKioskDetailForVerification") == -1 && currentLocation.indexOf("updateCitizenProfile") == -1){
+	
+		/* $(document).ready(function() {
+			$(".popup-holder").css("width", "100%");
+			$("#ModalPoliceCharacterPopUpDiv").fadeIn();
+		 });*/
+	 	
+	 $(document).ready(function() {
+		showLoadingPopup();
+		$.ajax({
+			url : 'getCurrentHeaderMarqueeMessage',
+			headers : {
+				'allow-bypass-header' : 'getCurrentHeaderMarqueeMessage'
+			},
+			type : 'POST',
+			data : {
+			},
+			success : function(data) {
+				if(data !=""){
+					$(".headerMarqueeMsg").text($('<div>').html(data).text());
+					
+				}
+				hideLoadingPopup();
+			},
+			error : function(data) {
+				hideLoadingPopup();
+			}
+		});
+	});
+
+	
+	}
+
+	$(document).ready(function(){
+		  $("#Modal").hide();
+		    $(".Ghost-Blue").click(function(){
+		      $("#Modal").fadeToggle();
+		    });
+		    $(".Close").click(function(){
+		      $("#Modal").fadeOut();
+		    });
+		});
+</script>
+
+
+
+<div class="Modal" id="Modal" style="display: none">
+	<!-- <div class="Close">X</div> -->
+	<div id="messageParagraph" style="overflow: auto; max-height: 80%"></div>
+	<div class="bottomMsg">
+		<input type="checkbox" id="iAccept" value="Y"> &nbsp;&nbsp; I have
+		read and Acknowledge the message. <input type="button" value="Acknowledge and Close" onclick="acknowledgeMandatoryMsg()">
+	</div>
+</div>
+
+
+<div id="ModalPoliceCharacterPopUpDiv" class="ModalPolice" style="z-index: 99999999;display: none">
+	<div class="modal-dialog">
+		<!-- Modal content-->
+		<div class="modal-content oh" style="border-radius: 8px">
+			<div class="modal-body" style="border: 4px solid #EC8239; border-radius: 8px">
+				<p>
+				</p><div id="messageParagraphPoliceCharacterMessageDiv" class="text-justify">प्रिय ई मित्र किओस्कधारक , आपके ई मित्र कीओस्क उपयोगकर्ताओं के पुलिस चरित्र प्रमाण पत्र की वैधता समाप्त हो गयी है / होने वाली है | अत : आप नवीन पुलिस चरित्र प्रमाण पत्र दिनांक 31 मार्च 2023 तक <b>User Management -&gt; Manage User -&gt; Kiosk User Police Verification</b> विकल्प पर जाकर अपलोड करना सुनिश्चित करे |</div>
+				<p></p>
+				<button autofocus="" type="button" class="btn btn-default center-block" data-dismiss="modal" onclick="acknowledgePoliceCertShowMsg()">Ok</button>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<script>
+
+	function updateKioskAadharMachineDetail(formid) {
+		$("#" + formid).attr("action", "kioskAadharMachineDetailUpdate");
+		return true;
+	}
+	/* Method to Update record for Country End */
+	
+	/* Method to validate and submit form starts */
+	$("#update-kiosk-aadhar-machine-entry").validate({
+		 
+		submitHandler : function(form) {
+			showLoadingPopup();
+			$('#btnUpdateAadhar').attr('disabled', true);
+			form.submit();
+		}
+	});
+	/* Method to validate and submit form Ends */
+	function updateKioskUserMandatoryDetail(formid) {
+		$("#" + formid).attr("action", "kioskUserMandatoryFieldSelfUpdate");
+		return true;
+	}
+	/* Method to Update record for Country End */
+	
+	/* Method to validate and submit form starts */
+	$("#update-kiosk-user-required-entry").validate({
+		 
+		submitHandler : function(form) {
+			showLoadingPopup();
+			$('#btnUpdate').attr('disabled', true);
+			form.submit();
+		}
+	});
+	/* Method to validate and submit form Ends */
+	
+	/* NESDA work starts */
+	function updateKioskUserMandatoryDetail(formid) {
+		$("#" + formid).attr("action", "kioskUserNesdaSurveyUpdate");
+		return true;
+	}
+	
+	$("#update-nesda-survey-detail-entry").validate({
+		 
+		submitHandler : function(form) {
+			showLoadingPopup();
+			$('#btnUpdateNesda').attr('disabled', true);
+			form.submit();
+		}
+	});
+	
+	/* NESDA work Ends */
+	
+	$('#disabilityTypeId').unbind("change").change(function() {
+		showLoadingPopup();
+		getDisabilityDetailList($('#disabilityTypeId').val(), "disabilityDetailId");
+
+	});
+	
+	$('#deviceName').unbind("change").change(function() {
+
+		if($('#deviceName').val() == "OTHER"){
+			$(".otherDeviceNameDiv").slideDown();
+		}
+		else{
+			$(".otherDeviceNameDiv").slideUp();
+		}
+	});
+
+	
+	
+	function getDisabilityDetailList(disabilityTypeIdValue, disabilityDetailId) {
+
+		if (disabilityTypeIdValue != "") {
+			$.ajax({
+				url : 'getDisabilityListByDisabilityType',
+				headers : {
+					'allow-bypass-header' : 'getDisabilityListByDisabilityType'
+				},
+				type : 'POST',
+				data : {
+					disabilityTypeId : disabilityTypeIdValue
+				},
+				contentType : "application/x-www-form-urlencoded;charset=utf-8",
+				success : function(data) {
+					/*console.log(data);*/
+					var html = '';
+					$.each(data, function(key, value) {
+						html += '<option value="' + key + '">' + value
+								+ '</option>';
+					});
+
+					$('#' + disabilityDetailId).html(html);
+					autoSortDropdownValues(disabilityDetailId);
+					$("#" + disabilityDetailId + " option:selected").prop("selected", false);
+					hideLoadingPopup();
+				},
+				error : function(data) {
+					hideLoadingPopup();
+				}
+			});
+		} else {
+			var html = '';
+			$('#' + disabilityDetailId).html(html);
+			hideLoadingPopup();
+		}
+
+	}
+
+	$('input:radio[name=disabled]').click(function() {
+       if ($(this).attr("value") == "Y") {
+           $('#disabilityDiv').show();
+         } else{
+      	   $('#disabilityDiv').hide();
+        }
+
+      });
+	
+	$('input:radio[name=aadharMachineDeclation]').click(function() {
+       if ($(this).attr("value") == "Y") {
+           $('#aadharDeviceDetailDataDiv').show();
+         } else{
+      	   $('#aadharDeviceDetailDataDiv').hide();
+        }
+
+      });
+
+	function autoSortDropdownValues(dropDownId) {
+		$("#" + dropDownId).html(
+				$("#" + dropDownId + " option")
+						.sort(
+								function(a, b) {
+									if (a.value != '' && b.value != '') {
+										return a.text.toLowerCase() == b.text
+												.toLowerCase() ? 0 : a.text
+												.toLowerCase() < b.text
+												.toLowerCase() ? -1 : 1;
+									}
+								}));
+
+		if ($('#' + dropDownId)[0] != undefined) {
+			$('#' + dropDownId)[0].selectedIndex = 0;
+		}
+	}
+</script>
+
+
+
+<script>
+	function acknowledgeMandatoryMsg(){
+		if($('input#iAccept').is(':checked')){
+			$.ajax({
+				url : 'acknowledgeMandatoryMsg',
+				headers : {
+					'allow-bypass-header' : 'acknowledgeMandatoryMsg'
+				},
+				type : 'POST',
+				data : {
+					acknowledge : "Y"
+				},
+				success : function(data) {
+					$("#Modal").fadeOut();
+				},
+				error : function(data) {
+					hideLoadingPopup();
+				}
+			});
+		}
+		else{
+			showCommonAlertPopup("Please select the I accept Checkbox!");
+		}
+	}
+	
+	function acknowledgePoliceCertShowMsg(){
+		$.ajax({
+			url : 'acknowledgePoliceCertShowMsg',
+			headers : {
+				'allow-bypass-header' : 'acknowledgePoliceCertShowMsg'
+			},
+			type : 'POST',
+			data : {
+				acknowledge : "Y"
+			},
+			success : function(data) {
+				$("#ModalPoliceCharacterPopUpDiv").fadeOut();
+			},
+			error : function(data) {
+				hideLoadingPopup();
+			}
+		});
+	}
+	
+</script>
+
+
+<style>
+.bottomMsg {
+	margin-left: 20px;
+}
+
+.Modal,.ModalPolice,.mandatoryFieldModal,.mandatoryAadharDetailModel,.emitraPlusKioskMsgModal,.nesDaSurveyModal {
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background: #f1f1f1;
+	z-index: 9999;
+}
+
+
+.Modal #messageParagraph,.mandatoryFieldModal #mandatoryFieldData,.mandatoryAadharDetailModel #mandatoryAadharDetailFieldData,.emitraPlusKioskMsgModal,#nesDaSurveyData {
+	margin: 20px;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 14px;
+	border: 2px solid lightgray;
+	border-radius: 5px 5px 5px 5px;
+	min-height: 200px;
+}
+
+.gov-emitra-logo {
+	float: left;
+	display: block !important;
+	margin: 10px 0 10px 1px !important;
+	background: url(http://localhost:8080/emitraApps/resources/assets/images/t-logo.png) no-repeat !important;
+	background-size: 160px 58px !important;
+	width: 168px;
+	height: 52px;
+	position: static !important;
+	box-shadow: none !important;
+}
+.avtr-emitra-logo {
+	float: right;
+	display: block !important;
+	margin: 0px 0 0px 0px !important;
+	background: url(http://sas-esp-dev:18080/rajSevak/assets/raj.png) no-repeat !important;
+	background-size: 66px 69px !important;
+	width: 66px;
+	height: 69px;
+	box-shadow: none !important;
+}
+div.icon-launch {
+	bottom: 20px;
+	right: 20px;
+	position: absolute;
+	height: 95px;
+	width: 95px;
+	border-radius: 50%;
+	cursor: pointer;
+	background-size: 100% 100%;
+	background-image: url(http://sas-esp-dev:18080/rajSevak/assets/raj.png);
+}
+</style>
+
+	<!-- END FOOTER -->
+
+
+	<!-- Javascript -->
+
+
+
+	<script src="resources/assets/js/jquery/jquery-2.1.0.min.js"></script>
+	<script src="resources/assets/js/bootstrap/bootstrap.min.js"></script>
+	<script src="resources/assets/js/plugins/modernizr/modernizr.js"></script>
+	<script src="resources/assets/js/plugins/bootstrap-tour/bootstrap-tour.custom.js"></script>
+	<script src="resources/assets/js/common.js"></script>
+	<script src="resources/assets/js/jquery-ui/jquery-ui-1.10.4.custom.min.js"></script>
+	<script src="resources/assets/js/plugins/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+	<script src="resources/assets/js/plugins/stat/flot/jquery.flot.min.js"></script>
+	<script src="resources/assets/js/plugins/stat/flot/jquery.flot.resize.min.js"></script>
+	<script src="resources/assets/js/plugins/stat/flot/jquery.flot.time.min.js"></script>
+	<script src="resources/assets/js/plugins/stat/flot/jquery.flot.tooltip.min.js"></script>
+	<script src="resources/assets/js/plugins/jquery-sparkline/jquery.sparkline.min.js"></script>
+	<script src="resources/assets/js/chart-stat.js"></script>
+	<script src="resources/assets/js/plugins/bootstrap-datepicker/bootstrap-datepicker.js"></script>
+	<script src="resources/assets/js/plugins/bootstrap-multiselect/bootstrap-multiselect.js"></script>
+	<script src="resources/assets/js/jquery.tablesorter.js"></script>
+
+	<script type="text/javascript">
+		
+	</script>
+
+
+
+
+	<script src="resources/assets/js/plugins/chart/highcharts.js"></script>
+
+	<script src="resources/assets/js/canvasjs.min.js"></script>
+
+
+
+
+	<link href="resources/assets/css/bootstrap-toggle.min.css" rel="stylesheet">
+	<script src="resources/assets/js/bootstrap/bootstrap-toggle.min.js"></script>
+	<script src="resources/assets/js/DasboardLinks.js"></script>
+	
+	<div id="popupdivtemp"></div>
+
+
+	<script type="text/javascript">
+	
+	
+	
+		function buildRecentLogChart() {
+			if ($("#chartContainersss").val() != null
+					&& $("#chartContainersss").val() != undefined) {
+				$.ajax({
+					url : 'getUserRecentLogDetail',
+					headers : {
+						'allow-bypass-header' : 'getUserRecentLogDetail'
+					},
+					type : 'POST',
+					success : function(data) {
+						//console.log(data);
+						$("#dummyPie").remove();
+						$("#chartContainersss").show();
+						$("#refreshIcon").css({
+							'font-size' : '20px',
+							'float' : 'right',
+							'margin' : '0',
+							'position' : 'relative'
+						})
+						var chart = new CanvasJS.Chart("chartContainersss", {
+
+							title : {
+								text : ""
+							},
+							animationEnabled : true,
+							theme : "theme1",
+							data : [ {
+								type : "doughnut",
+								indexLabelFontFamily : "Garamond",
+								indexLabelFontSize : 14,
+								startAngle : 0,
+								indexLabelFontColor : "dimgrey",
+								indexLabelLineColor : "darkgrey",
+								toolTipContent : "{y} %",
+
+								dataPoints : [
+
+								{
+									y : data.SUCESS,
+									indexLabel : "SUCCESS {y}%"
+								}, {
+									y : data.PENDING,
+									indexLabel : "PENDING {y}%"
+								}, {
+									y : data.FAIL,
+									indexLabel : "FAIL {y}%"
+								},
+
+								]
+							} ]
+						});
+
+						chart.render();
+					},
+					error : function(data) {
+					}
+				});
+
+			}
+		}
+	</script>
+
+
+
+	<script>
+		/* Function to fill Favorite Pages Start */
+		function loadUserFavPages() {
+			$
+					.ajax({
+						url : 'getUserFavPages',
+						headers : {
+							'allow-bypass-header' : 'getUserFavPages'
+						},
+						type : 'POST',
+						success : function(data) {
+							$("#dragdrop-todo-FP").html("");
+
+							if (Object.keys(data).length > 0) {
+								$
+										.each(
+												data,
+												function(key, value) {
+													$("#dragdrop-todo-FP")
+															.append(
+																	'<li><span class="list-control"><span class="handle"><i class="fa fa-bars"></i></span></span><p><strong class="favActivityText">'
+																			+ value.activityName
+																			+ '</strong><a href="'+value.activityUrl+'" class="favActivity" title="'+value.activityName+'"><span class="label label-danger"  style="top:7px">Open</span></a></p></li>');
+												});
+							} else {
+								$("#dragdrop-todo-FP")
+										.append(
+												'No Record Found!');
+							}
+						},
+						error : function(data) {
+						}
+					});
+		}
+		/* Function to fill Favorite Pages Ends */
+
+		/* Function to fill Favorite Pages Start */
+		function loadUserPendingApproval() {
+			$
+					.ajax({
+						url : 'getUserPendingApproval',
+						headers : {
+							'allow-bypass-header' : 'getUserPendingApproval'
+						},
+						type : 'POST',
+						success : function(data) {
+							$("#activityInboxTbody").html("");
+
+							if (Object.keys(data).length > 0) {
+								$
+										.each(
+												data,
+												function(key, value) {
+													$("#activityInboxTbody")
+															.append(
+																	'<tr><td>'
+																			+ (key + 1)
+																			+ '</td><td><input type="hidden" name="regWorkflowLvlId" id="regWorkflowLvlId" value="'+value.regWorkflowLvlId+'"/>'
+																			+ value.requestId
+																			+ '</td><td>'
+																			+ value.entityStr
+																			+ '</td><td>'
+																			+ value.isGspApplication
+																			+ '</td><td>'
+																			+ value.isPaypoint
+																			+ '</td><td>'
+																			+ value.bankBc
+																			+ '</td><td>'
+																			+ value.isGovtPremises
+																			+ '</td><td>'
+																			+ value.lspStr
+																			+ '</td><td>'
+																			+ value.districtStr
+																			+ '</td><td>'
+																			+ value.oldVendorCode
+																			+ '</td><td>'
+																			+ value.purpose
+																			+ '</td><td>'
+																			+ value.regDate
+																			+ '</td><td>'
+																			+ value.initDate
+																			+ '</td><td>'
+																			+ value.ssoId
+																			+ '</td><td>'
+																			+ value.Status
+																			+ '</td><td><span class="btn-sm btn-default" style="cursor:pointer;background-color:#1C92AF" onclick="showActivityInboxDetails(\''
+																			+ value.vendorProfileId
+																			+ '\',\''
+																			+ value.entityTypeId
+																			+ '\',\''
+																			+ value.purpose
+																			+ '\',\''
+																			+ value.regWorkflowLvlId
+																			+ '\')">View</span></td></tr>');
+												});
+							} else {
+								$("#activityInboxTbody")
+										.append(
+												'<tr><td colspan="7">No Record Found!</td></tr>');
+							}
+						},
+						error : function(data) {
+						}
+					});
+		}
+		/* Function to fill Favorite Pages Ends */
+		
+
+		
+
+
+
+		
+
+		function getQuickPayApps(){
+			showLoadingPopup2();
+			$.ajax({
+
+				url : 'getQuickPayApps',
+				headers : {
+					'allow-bypass-header' : 'getQuickPayApps'
+				},
+				type : 'POST',
+				data : {
+					},
+
+				success : function(response) {
+					
+					$("#QuickPay").html("");
+					//console.log("response : "+response);
+					$.each(response, function(key, value) {
+						
+						if(value.SRV_ID != '4267' && value.SRV_ID != '4287'){
+						$("#QuickPay").append('<div class="service-box" onclick="location.href = \'availService?favSrvId='+value.SRV_ID+'&favSrvName='+value.SRV_NAME+'\'"><i><img src="resources/assets/images/fav.png" class="imgicon"></i><p class="text-center">'+value.SRV_NAME+'</p></div>');
+						}
+					
+						
+						
+						
+						
+						
+					});
+					
+					hideLoadingPopup2();
+				},
+				error : function(xhr, textStatus,
+						errorThrown) {
+					hideLoadingPopup2();
+					console.log('Error in Operation');
+				}
+
+			});
+		}
+		
+		/* var win = window.open();
+	    win.location = 'https://youtu.be/MEkqExDTMsw';
+	    win.opener = null;
+	    win.blur();
+	    window.focus(); */
+		 
+		/* webcast URL */
+		
+		/*  $("#popupdivtemp").append('<form action="//webcast.rajasthan.gov.in/webcast.html" method="get" target="_blank" id="tempPopUpFrmSubmit"></form>');
+		$("#tempPopUpFrmSubmit").submit();  */
+		
+		
+	</script>
+				
+														
+
+
+
+</div></div></body>
